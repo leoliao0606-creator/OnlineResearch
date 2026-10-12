@@ -65,7 +65,7 @@ Industries usually change because of five forces. 2026 has a vivid example of ea
 
 | Driver | 2026 example |
 | :--- | :--- |
-| Technology | The AI investment supercycle: the four largest cloud companies will spend about 730 billion dollars in capital expenditure (资本开支) this year |
+| Technology | The AI investment supercycle: the four largest tech giants will spend about 730 billion dollars in capital expenditure (资本开支) this year |
 | Policy | The US Supreme Court struck down most emergency tariffs (关税) in February; in July the US banned new models of foreign robots and connected inverters |
 | Geopolitics | The Iran war closed the Strait of Hormuz (霍尔木兹海峡), and oil briefly rose above 110 dollars |
 | Demographics | The number of people aged 80 and over will grow from 143 million in 2019 to 426 million in 2050 |
@@ -106,7 +106,7 @@ Industries usually change because of five forces. 2026 has a vivid example of ea
 
 ### 2.3 Seven Events Every Industry Felt in 2026
 
-1. **The AI investment supercycle**: global IT spending reached 6.31 trillion dollars, up 13.5 percent; spending on data center systems grew about 56 percent; the four largest cloud companies are spending about 730 billion dollars in capex, more than 60 percent of it on power, cooling and construction rather than chips. The bottleneck is shifting from chips to electricity
+1. **The AI investment supercycle**: global IT spending reached 6.31 trillion dollars, up 13.5 percent; spending on data center systems grew about 56 percent; the four largest tech giants are spending about 730 billion dollars in capex, more than 60 percent of it on power, cooling and construction rather than chips. The bottleneck is shifting from chips to electricity
 2. **The Iran war and the closure of the Strait of Hormuz**: fighting that began February 28 closed the strait; Brent crude briefly hit about 118 dollars in late March; container shipping rates doubled; forecasts for airline profits were cut in half
 3. **Trade rules rewritten**: on February 20 the US Supreme Court ruled that the president had no authority to impose tariffs under IEEPA. The average US tariff fell from 15.3 percent to 8.3 percent, then was partly replaced by a 10 percent global tariff. The WTO expects global goods trade growth to slow sharply in 2026
 4. **US China tech decoupling (中美技术脱钩) speeds up**: in July the US banned new models of foreign humanoid robots, quadruped robots and connected inverters; foreign drones had already been restricted
@@ -196,7 +196,7 @@ The summary table first, then a short profile of each.
 **10. Construction and Real Estate**
 * **How money flows**: developers provide the money, general contractors organize the work, and many subcontractors do it; real estate value lives mainly in the assets
 * **Size**: construction is about 13 to 17 trillion dollars a year, one of the largest industries in the world; real estate is worth about 393 trillion dollars
-* **Characteristics**: thin profits (US listed engineering and construction firms have net margins of about 6 percent), extreme fragmentation, and almost no productivity growth for decades. The hottest segment in 2026 is data center construction; more than 60 percent of the big four cloud companies' capex goes to power, cooling and construction
+* **Characteristics**: thin profits (US listed engineering and construction firms have net margins of about 6 percent), extreme fragmentation, and almost no productivity growth for decades. The hottest segment in 2026 is data center construction; more than 60 percent of the four tech giants' capex goes to power, cooling and construction
 * **For founders**: permitting, design, site inspection, construction robots. This is the classic "large fragmented industry," good for finding a narrow entry point
 
 **11. Logistics and Trade**
