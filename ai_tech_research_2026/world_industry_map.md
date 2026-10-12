@@ -38,7 +38,7 @@ Thiel 在《从 0 到 1》里用的正是航空业和 Google 的对比：航空�
 
 > 电力 → 芯片（设计、制造、存储）→ 数据中心（data center）和云 → 大模型（large models） → 应用
 
-2026 年，这条链上**利润最集中的是芯片**：NVIDIA 市值（market cap） 5.5 万亿美元，是全球第一；全球半导体市场预计增长约 90%，存储芯片增长约 250%。而大部分应用公司还在为价格竞争发愁。
+2026 年，这条链上**利润最集中的是芯片**：NVIDIA 市值（market cap）约 5.6 万亿美元，是全球第一；全球半导体市场预计增长约 90%，存储芯片增长约 250%。而大部分应用公司还在为价格竞争发愁。
 
 同一个产业里，不同环节的赚钱能力可以差几十倍。创业时要想清楚自己站在哪一环，这一环未来会不会被上下游挤压。
 
@@ -82,27 +82,30 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 * **增长**：IMF 7 月的预测是 2026 年增长 3.0%，2027 年 3.4%。IMF 的判断是：战争冲击压着能源进口国，而 AI 需求在拉动嵌入全球科技产业链（industry value chain）的国家
 * **最大的财富形式是房地产**：全球房地产总价值约 393 万亿美元（2025 年初），大约是全球 GDP 的 4 倍，超过全球股票、债券和黄金的总和
 
-### 2.2 全球市值最高的 15 家公司（2026 年 10 月）
+### 2.2 全球市值最高的公司（2026 年 10 月初）
+
+市值每天都在变，不同数据源的日期也不一样。下面的前 10 名取自同一时间点（2026 年 10 月初）的榜单，彼此可以比较；数字只用来感受量级。
 
 | 排名 | 公司 | 市值（万亿美元） | 主业 |
 | :--- | :--- | :--- | :--- |
-| 1 | NVIDIA | 5.53 | AI 芯片 |
-| 2 | 苹果 | 4.94 | 消费电子 |
-| 3 | Alphabet（Google） | 4.17 | 搜索、云、AI |
-| 4 | 微软 | 3.78 | 软件、云 |
-| 5 | 亚马逊 | 2.66 | 电商、云 |
-| 6 | 台积电 | 2.02 | 芯片制造 |
-| 7 | Meta | 1.82 | 社交、广告 |
-| 8 | 博通 | 1.67 | 芯片 |
-| 9 | 沙特阿美 | 1.65 | 石油 |
-| 10 | 特斯拉 | 1.41 | 电动车 |
-| 11 | 三星电子 | 1.27 | 存储芯片、电子 |
-| 12 | 美光 | 1.19 | 存储芯片 |
-| 13 | 伯克希尔哈撒韦 | 1.08 | 保险和投资 |
-| 14 | 礼来 | 1.06 | 制药（减重药（weight loss drugs）） |
-| 15 | AMD | 0.99 | 芯片 |
+| 1 | NVIDIA | 5.65 | AI 芯片 |
+| 2 | 苹果 | 4.87 | 消费电子 |
+| 3 | Alphabet（Google） | 4.16 | 搜索、云、AI |
+| 4 | 微软 | 3.84 | 软件、云 |
+| 5 | 亚马逊 | 2.71 | 电商、云 |
+| 6 | 台积电 | 2.45 | 芯片制造 |
+| 7 | SpaceX | 2.09 | 火箭发射、星链卫星互联网 |
+| 8 | Meta | 1.85 | 社交、广告 |
+| 9 | 博通 | 1.70 | 芯片 |
+| 10 | 沙特阿美 | 1.65 | 石油 |
 
-**怎么读这张表**：前 15 名里有 11 家是科技或半导体公司，其中 6 家的主业和芯片直接相关。这说明资本市场认为，AI 时代最大的价值目前集中在"卖铲子（selling picks and shovels）"的环节。榜单里唯一的药企是礼来，原因是 GLP 1 减重药。唯一的能源公司是沙特阿美。
+**第 11 名往后**：特斯拉约 1.5 万亿美元，大致排第 11。再往后是一组市值在 1 万亿美元上下的公司，彼此差距很小，排名几乎每天都在变：三星电子、伯克希尔哈撒韦、礼来、美光、SK 海力士。
+
+**怎么读这张表**：
+* 前 10 名里有 9 家是科技公司，唯一的例外是沙特阿美，它也是榜单上唯一的能源公司
+* 芯片是最集中的主题：前 10 名里有 NVIDIA、台积电、博通 3 家芯片公司，1 万亿美元上下那一组里又有三星、美光、SK 海力士 3 家存储芯片公司。这说明资本市场认为，AI 时代最大的价值目前集中在"卖铲子（selling picks and shovels）"的环节
+* SpaceX 是今年新进榜的：2026 年 6 月 12 日在纳斯达克上市，融资约 750 亿美元，是史上规模最大的首次公开募股（initial public offering, IPO）。这说明一家公司可以在上市之前就长到万亿美元级别
+* 药企里离前 10 名最近的是礼来，原因是 GLP 1 减重药（weight loss drugs）
 
 ### 2.3 2026 年每个产业都感受到的七件大事
 
@@ -315,6 +318,9 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 * [IMF World Economic Outlook, April 2026: Global Economy in the Shadow of War](https://www.imf.org/-/media/files/publications/weo/2026/april/english/text.pdf)
 * [Largest economies worldwide 2026 (Statista)](https://www.statista.com/statistics/268173/countries-with-the-largest-gross-domestic-product-gdp/)
 * [The largest companies by market cap in October 2026 (Motley Fool)](https://www.fool.com/research/largest-companies-by-market-cap/)
+* [Largest companies by market cap in 2026: Nvidia leads the global rankings (Investing Cube)](https://www.investingcube.com/deep-analysis/largest-companies-by-market-cap-in-2026-nvidia-leads-the-global-rankings/)
+* [SpaceX IPO: market cap tops $2 trillion after shares gain 19% (CNBC, June 12 2026)](https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html)
+* [SpaceX (SPCX) raises $75 billion in biggest IPO in history (IPO Scoop)](https://www.iposcoop.com/the-ipo-buzz-spacex-spcx-raises-75-billion-in-biggest-ipo-in-history/)
 * [World's real estate worth $393.3 trillion (Savills)](https://www.savills.com/insight-and-opinion/savills-news/381209-0/world-s-real-estate-worth-$393.3-trillion-and-is-the-world-s-largest-store-of-wealth)
 * [2026 Iran war fuel crisis (Wikipedia)](https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis)
 * [War on Iran could lead to global recession, IMF warns (TIME)](https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/)

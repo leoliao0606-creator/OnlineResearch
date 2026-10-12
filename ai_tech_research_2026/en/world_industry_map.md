@@ -38,7 +38,7 @@ Every industry is a chain. Take AI:
 
 > Electricity → chips (design, manufacturing, memory) → data centers (数据中心) and cloud → large models → applications
 
-In 2026, **profits along this chain are concentrated in chips**: NVIDIA's market cap (市值) is 5.5 trillion dollars, the largest in the world; the global semiconductor market is expected to grow about 90 percent, and memory chips about 250 percent. Meanwhile, most application companies still struggle with price competition.
+In 2026, **profits along this chain are concentrated in chips**: NVIDIA's market cap (市值) is about 5.6 trillion dollars, the largest in the world; the global semiconductor market is expected to grow about 90 percent, and memory chips about 250 percent. Meanwhile, most application companies still struggle with price competition.
 
 Within one industry, profitability can differ by tens of times between links. When you start a company, be clear about which link you stand on and whether it will be squeezed from upstream or downstream.
 
@@ -82,27 +82,30 @@ Industries usually change because of five forces. 2026 has a vivid example of ea
 * **Growth**: the IMF's July forecast is 3.0 percent for 2026 and 3.4 percent for 2027. The IMF's view: the war shock is weighing on energy importers, while AI demand is lifting countries built into the global technology supply chain
 * **The largest store of wealth is real estate**: about 393 trillion dollars worldwide (early 2025), roughly four times global GDP and more than global stocks, bonds and gold combined
 
-### 2.2 The 15 Most Valuable Companies (October 2026)
+### 2.2 The Most Valuable Companies (Early October 2026)
+
+Market caps change every day, and different data sources use different dates. The top 10 below come from a single snapshot (early October 2026), so they are comparable with each other; use the numbers only to sense scale.
 
 | Rank | Company | Market cap (trillion dollars) | Main business |
 | :--- | :--- | :--- | :--- |
-| 1 | NVIDIA | 5.53 | AI chips |
-| 2 | Apple | 4.94 | Consumer electronics |
-| 3 | Alphabet (Google) | 4.17 | Search, cloud, AI |
-| 4 | Microsoft | 3.78 | Software, cloud |
-| 5 | Amazon | 2.66 | Ecommerce, cloud |
-| 6 | TSMC | 2.02 | Chip manufacturing |
-| 7 | Meta | 1.82 | Social media, advertising |
-| 8 | Broadcom | 1.67 | Chips |
-| 9 | Saudi Aramco | 1.65 | Oil |
-| 10 | Tesla | 1.41 | Electric vehicles |
-| 11 | Samsung Electronics | 1.27 | Memory chips, electronics |
-| 12 | Micron | 1.19 | Memory chips |
-| 13 | Berkshire Hathaway | 1.08 | Insurance and investing |
-| 14 | Eli Lilly | 1.06 | Pharmaceuticals (weight loss drugs (减重药)) |
-| 15 | AMD | 0.99 | Chips |
+| 1 | NVIDIA | 5.65 | AI chips |
+| 2 | Apple | 4.87 | Consumer electronics |
+| 3 | Alphabet (Google) | 4.16 | Search, cloud, AI |
+| 4 | Microsoft | 3.84 | Software, cloud |
+| 5 | Amazon | 2.71 | Ecommerce, cloud |
+| 6 | TSMC | 2.45 | Chip manufacturing |
+| 7 | SpaceX | 2.09 | Rocket launches, Starlink satellite internet |
+| 8 | Meta | 1.85 | Social media, advertising |
+| 9 | Broadcom | 1.70 | Chips |
+| 10 | Saudi Aramco | 1.65 | Oil |
 
-**How to read this table**: 11 of the top 15 are technology or semiconductor companies, and 6 of them are directly in the chip business. Capital markets believe the biggest value of the AI era currently sits with those "selling picks and shovels (卖铲子)." The only drug company is Eli Lilly, because of its GLP 1 weight loss drugs. The only energy company is Saudi Aramco.
+**Beyond the top 10**: Tesla, at about 1.5 trillion dollars, is roughly 11th. After that comes a group of companies worth around 1 trillion dollars each, so close together that their order changes almost daily: Samsung Electronics, Berkshire Hathaway, Eli Lilly, Micron and SK Hynix.
+
+**How to read this table**:
+* 9 of the top 10 are technology companies. The one exception is Saudi Aramco, which is also the only energy company on the list
+* Chips are the most concentrated theme: the top 10 includes three chip companies (NVIDIA, TSMC, Broadcom), and the group around 1 trillion dollars adds three memory chip makers (Samsung, Micron, SK Hynix). Capital markets believe the biggest value of the AI era currently sits with those "selling picks and shovels (卖铲子)"
+* SpaceX is new this year: it listed on Nasdaq on June 12, 2026, raising about 75 billion dollars in the largest initial public offering (IPO, 首次公开募股) in history. A company can now grow to a trillion dollar scale before it ever goes public
+* The drug company closest to the top 10 is Eli Lilly, because of its GLP 1 weight loss drugs (减重药)
 
 ### 2.3 Seven Events Every Industry Felt in 2026
 
@@ -315,6 +318,9 @@ Each piece takes one industry apart:
 * [IMF World Economic Outlook, April 2026: Global Economy in the Shadow of War](https://www.imf.org/-/media/files/publications/weo/2026/april/english/text.pdf)
 * [Largest economies worldwide 2026 (Statista)](https://www.statista.com/statistics/268173/countries-with-the-largest-gross-domestic-product-gdp/)
 * [The largest companies by market cap in October 2026 (Motley Fool)](https://www.fool.com/research/largest-companies-by-market-cap/)
+* [Largest companies by market cap in 2026: Nvidia leads the global rankings (Investing Cube)](https://www.investingcube.com/deep-analysis/largest-companies-by-market-cap-in-2026-nvidia-leads-the-global-rankings/)
+* [SpaceX IPO: market cap tops $2 trillion after shares gain 19% (CNBC, June 12 2026)](https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html)
+* [SpaceX (SPCX) raises $75 billion in biggest IPO in history (IPO Scoop)](https://www.iposcoop.com/the-ipo-buzz-spacex-spcx-raises-75-billion-in-biggest-ipo-in-history/)
 * [World's real estate worth $393.3 trillion (Savills)](https://www.savills.com/insight-and-opinion/savills-news/381209-0/world-s-real-estate-worth-$393.3-trillion-and-is-the-world-s-largest-store-of-wealth)
 * [2026 Iran war fuel crisis (Wikipedia)](https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis)
 * [War on Iran could lead to global recession, IMF warns (TIME)](https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/)
