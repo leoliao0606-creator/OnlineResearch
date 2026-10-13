@@ -83,7 +83,7 @@ One overall observation first: **in the past six months, capital outside China h
 * AxiomProver wrote machine checkable proofs in Lean and solved all 12 problems of the Putnam competition
 * In July, Mistral released Leanstral 1.5, a model built for Lean proofs; Amazon made the largest donation to date to the Lean foundation; someone has already built a working pipeline from Rust code to Lean proofs
 * Pramaana Labs raised a 27 million dollar seed round (种子轮) in June to apply formal verification (形式化验证) to law, pharma and tax
-* Meanwhile, the volume of AI written code is exploding (Claude Code reached 2.5 billion dollars in annualized revenue (年化收入)), and AI is better than most human experts at finding vulnerabilities (Claude Mythos found thousands of zero day vulnerabilities (零日漏洞))
+* Meanwhile, the volume of AI written code is exploding (Claude Code's annualized revenue (年化收入) already exceeded 2.5 billion dollars in February 2026 and has kept growing fast since), and AI is better than most human experts at finding vulnerabilities (Claude Mythos found thousands of zero day vulnerabilities (零日漏洞))
 
 **Possible secret**: When AI writes most code and documents, the bottleneck shifts from "production" to "trust." Formal verification used to be so expensive that only aerospace and chip companies used it. AI cuts the cost of writing proofs by orders of magnitude, so "provably correct" may go from a luxury to an entry requirement in some industries. Whoever becomes the accepted verification standard in an industry gains a position similar to a certification body.
 
@@ -211,7 +211,7 @@ One overall observation first: **in the past six months, capital outside China h
 
 **What changed**
 * Models can now work autonomously for hours, and managed agent infrastructure has matured
-* Global IT services spending is about 1.73 trillion dollars a year, about six times the SaaS market; YC's summer 2026 list of startup ideas features AI native services
+* Global IT services spending in 2026 is about 1.87 trillion dollars (Gartner), about six times the SaaS market; YC's summer 2026 list of startup ideas features AI native services
 * Companies that deliver services with AI can reach 75 to 85 percent gross margins, close to software, while charging three to five times what a software subscription costs
 
 **Possible secret**: In many industries, customers do not want to buy software; they want "the job done." A service company where AI does 80 percent of the work and charges by outcome (按结果收费) can cut prices in a niche to a fraction of what traditional providers charge while keeping software level margins.

@@ -57,11 +57,11 @@ On July 28, 2026, the US Federal Communications Commission (FCC) added two kinds
 
 ### 3.2 Inverters (逆变器), plus Plug In Solar (插电式太阳能)
 
-* The rule requires **connected inverters** (with WiFi, cellular or Bluetooth) to have at least 65 percent domestic content (本土含量) by value, rising to 75 percent by the end of 2028
-* According to the US Department of Energy, domestic manufacturers supply only **7 percent** of the US solar inverter market
+* The rule covers foreign made inverters that operate in parallel with the grid (grid tied under UL 1741) and **have remote communication capability**. After the FCC's August 20 revision, wired connections such as Ethernet, and models with a reserved port for a communication module, also count. "Foreign made" is judged by the Buy American standard: the cost of US made components (domestic content, 本土含量) must exceed 65 percent of the cost of all components, rising to 75 percent from 2029; domestic products that qualify for the 45X advanced manufacturing tax credit are not considered foreign made
+* Department of Energy data from 2020, cited by the FCC, show that US headquartered manufacturers accounted for only **7 percent** of US inverter shipments; since then domestic capacity has grown substantially under Inflation Reduction Act (IRA) incentives, and Wood Mackenzie counts more than 100 GW of announced new domestic inverter capacity
 * At the same time, a new product category is emerging in the US: **plug in balcony solar (插电式阳台太阳能)**, small solar panels you plug straight into an ordinary wall outlet
-  * As of September, nine states have signed laws allowing it, New Jersey on September 1; the New York legislature has passed a bill awaiting the governor's signature; about 30 states have introduced bills
-  * **Massachusetts**: the House passed its bill in February and the Senate in July; a conference committee has been working on it since July 29, and it has not reached the governor yet
+  * As of the end of September, ten states have signed laws allowing it: New Jersey signed on September 1, and California Governor Newsom signed SB 868 on September 30 (effective January 1, 2027). The New York legislature has passed a bill awaiting the governor's signature; about 30 states have introduced bills
+  * **Massachusetts**: the House passed its bill on February 26 and the Senate on July 1; a conference committee was formed on July 16 and first met on July 29, but as of early October it has not produced a compromise version, so the bill has not reached the governor yet
   * The dedicated safety standard, UL 3700, was published between late 2025 and early 2026 (sources differ slightly on the date). The first certified products appeared only in July and August; APsystems' EZ1 sells for 325 dollars. Enphase has no balcony solar product in the US yet
 
 ### 3.3 Through Thiel's Lens
@@ -70,7 +70,7 @@ This is an unusual situation: **a brand new small market where the strongest com
 
 But one point must come first: **protection created by policy can disappear when policy changes.** A new administration or a court ruling could remove it. That is Thiel's durability question: will you still hold your position in ten years? If you take this path, the product must be competitive even without protection; policy is only a tailwind at the start.
 
-Also, competition is not zero: previously approved foreign models can still be sold, and inverters without a wireless module are outside the ban.
+Also, competition is not zero: previously approved foreign models can still be sold, and off grid (non grid tied) inverters and products with no communication capability at all are outside the ban; but since the August 20 revision, grid tied inverters that connect only through wired interfaces, or that have a reserved port for a communication module, are restricted too.
 
 ---
 
@@ -97,11 +97,11 @@ You added a software, algorithms and AI background and said you are not limited 
 **Expanding from a small market in concentric circles**: renters in states with laws → more states (Massachusetts and others are moving) → adding batteries → aggregating thousands of small systems into a virtual power plant and selling flexibility to the grid (电网) → an energy data platform.
 
 **First steps you can take now**
-1. Read the full UL 3700 standard and the FCC rule, and work out what "65 percent domestic content" means for a real bill of materials (for example, where the chips come from and where assembly happens). This is a key question I have not verified
+1. Read the full UL 3700 standard and the FCC rule, and work out what "domestic components above 65 percent of component cost" means for a real bill of materials (for example, where the chips come from and where assembly happens). This is a key question I have not verified
 2. Find a professor who works on power electronics and turn a low power microinverter prototype into a course project or independent study
 3. Interview 20 renters and installers in states with plug in solar laws: what they buy now, what worries them, and how much they would pay
 
-**What would make it wrong**: the policy is reversed; previously approved foreign models are cheap and good enough; imported inverters without wireless modules take the market; the capital needed for UL and FCC certification and US manufacturing is beyond a student team; Enphase launches a similar product.
+**What would make it wrong**: the policy is reversed; previously approved foreign models are cheap and good enough; imported grid tied products with no communication features at all take the market; the capital needed for UL and FCC certification and US manufacturing is beyond a student team; Enphase launches a similar product.
 
 ### New B: US Made Research and Teaching Robot Platforms
 
@@ -186,3 +186,6 @@ You added a software, algorithms and AI background and said you are not limited 
 * [Plug in balcony solar moves from hack to household (IEEE Spectrum)](https://spectrum.ieee.org/plug-in-solar-power)
 * [Massachusetts H.5175 plug in solar bill update](https://pluginsolarus.com/learn/massachusetts-h5175-plug-in-solar)
 * [States OK balcony solar, safety guidelines haven't caught up (Stateline)](https://stateline.org/2026/09/30/states-want-balcony-solar-safety-guidelines-havent-caught-up/)
+* [FCC issues updates to Covered List entry on foreign produced power inverters (Mayer Brown, August 21 2026)](https://www.mayerbrown.com/en/insights/publications/2026/08/fcc-issues-updates-to-covered-list-entry-on-foreign-produced-power-inverters)
+* [WoodMac: new domestic inverter manufacturing could meet US solar demand (Solar Power World, August 2026)](https://www.solarpowerworldonline.com/2026/08/woodmac-new-domestic-inverter-manufacturing-could-meet-us-solar-demand/)
+* [California gives the green light to balcony solar (Electrek, October 1 2026)](https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/)

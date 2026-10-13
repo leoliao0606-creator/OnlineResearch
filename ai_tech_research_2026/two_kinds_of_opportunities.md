@@ -81,7 +81,7 @@
 * AxiomProver 用 Lean 写出机器可验证的证明，解出了 Putnam 竞赛全部 12 题
 * Mistral 在 7 月发布专做 Lean 证明的模型 Leanstral 1.5；亚马逊在 7 月给 Lean 基金会捐了迄今最大的一笔钱；已经有人跑通了从 Rust 代码到 Lean 证明的验证流程
 * Pramaana Labs 在 6 月拿到 2,700 万美元种子轮（seed round），把形式化验证（formal verification）用在法律、制药和税务上
-* 与此同时，AI 写代码的规模在爆炸（Claude Code 年化收入（annualized revenue） 25 亿美元），AI 找漏洞的能力也超过了大多数人类专家（Claude Mythos 找到了数千个零日漏洞（zero day vulnerability））
+* 与此同时，AI 写代码的规模在爆炸（Claude Code 在 2026 年 2 月的年化收入（annualized revenue）就已超过 25 亿美元，之后仍在快速增长），AI 找漏洞的能力也超过了大多数人类专家（Claude Mythos 找到了数千个零日漏洞（zero day vulnerability））
 
 **可能的秘密**：当 AI 写出大部分代码和文件，瓶颈会从"生产"变成"信任"。形式化验证以前太贵，只用在航天和芯片上。AI 让写证明的成本下降了几个数量级，"可被证明是正确的"会从奢侈品变成某些行业的准入门槛。谁先成为某个行业公认的验证标准，谁就有类似认证机构的地位。
 
@@ -209,8 +209,8 @@
 
 **发生了什么**
 * 模型已经能连续自主工作好几个小时，托管 Agent 基础设施也成熟了
-* 全球 IT 服务支出每年约 1.73 万亿美元，大约是 SaaS 市场的 6 倍；YC 2026 年夏季的创业方向清单把 AI 原生服务列为重点
-* 用 AI 交付服务的公司，毛利可以做到 75% 到 85%，跟软件差不多，但收费可以是软件订阅的 3 到 5 倍
+* 2026 年全球 IT 服务支出约 1.87 万亿美元（Gartner），大约是 SaaS 市场的 6 倍；YC 2026 年夏季的创业方向清单把 AI 原生服务列为重点
+* 有行业博客估计，用 AI 交付服务的公司毛利有望做到 75% 到 85%，接近软件，而收费可以是软件订阅的 3 到 5 倍；但 ICONIQ 的数据显示，AI 产品目前的平均毛利率 2025 年只有约 45%，2026 年预计约 53%
 
 **可能的秘密**：很多行业的客户其实不想买软件，他们想买"事情办完了"。一家用 AI 完成八成工作、按结果收费（outcome based pricing）的服务公司，可以在某个细分领域把价格降到传统服务商的几分之一，同时保持软件级的毛利。
 
@@ -305,7 +305,7 @@
 13. 机器人能按语言指令完成没学过的任务
 14. 能同时监测血糖和酮体、非处方（over the counter）就能买到的皮肤贴片
 15. 不受进食限制的口服减重药（weight loss drugs）；司美格鲁肽在中国降价超过 50%
-16. 在人体内一次性修正单个 DNA 碱基，已经有三期临床结果
+16. 在人体内一次性编辑基因治病：Intellia 的体内 CRISPR 疗法已有三期临床结果，体内碱基编辑也已进入临床
 17. 获批商用、并且有医保收费编码的脑机接口（中国）
 18. 全域商用许可的无人机配送（美团）
 19. 普通手机直接连卫星（Starlink 已有 1,600 万用户）
@@ -361,3 +361,4 @@
 * [GLP 1 drugs are changing how Americans eat (CNBC)](https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html)
 * [1 年涨 9 倍的人形机器人租赁生意，真风口还是过渡期？（每日经济新闻）](https://www.nbd.com.cn/articles/2026-03-15/4292843.html)
 * [人形机器人租赁上演价格与生存战（中新网）](https://www.chinanews.com.cn/cj/2026/02-04/10565239.shtml)
+* [CRISPR clinical trials: a 2026 update (Innovative Genomics Institute)](https://innovativegenomics.org/news/crispr-clinical-trials-2026/)

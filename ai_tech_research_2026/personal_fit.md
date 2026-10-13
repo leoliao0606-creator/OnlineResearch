@@ -57,11 +57,11 @@ Thiel 说的"秘密"，通常来自三种地方：技术前沿的深度、少见
 
 ### 3.2 逆变器（inverter），再加上插电式太阳能（plug in solar）
 
-* 禁令要求**联网逆变器**（带 Wi Fi、蜂窝或蓝牙）的美国本土含量（domestic content）按价值计算至少 65%，2028 年底提高到 75%
-* 美国能源部的数据显示，本土厂商只占美国太阳能逆变器市场的 **7%**
+* 禁令覆盖外国制造、与电网并联运行（UL 1741 并网型）并**具备远程通信能力的逆变器**。8 月 20 日 FCC 修订后，以太网等有线连接、以及预留通信模块接口的型号也算在内。"外国制造"按 Buy American 标准判断：美国本土零部件成本（domestic content）需超过全部零部件成本的 65%，2029 年起提高到 75%；符合 45X 先进制造税收抵免的本土产品不算外国制造
+* FCC 引用的美国能源部 2020 年数据显示，美国总部厂商只占美国逆变器出货量的 **7%**；此后本土产能在《通胀削减法案》（IRA）激励下明显增加，伍德麦肯兹（Wood Mackenzie）统计已宣布的本土逆变器新产能超过 100 GW
 * 与此同时，美国正在出现一个新品类：**插电式阳台太阳能（plug in balcony solar）**，也就是把小型太阳能板直接插进家里的普通插座
-  * 截至 9 月，已有 9 个州签署法律允许，新泽西是 9 月 1 日签的；纽约议会已通过、等待州长签字；全美约 30 个州提出了相关法案
-  * **马萨诸塞州**：众议院 2 月通过，参议院 7 月通过，7 月 29 日起进入两院协调委员会，还没送到州长那里
+  * 截至 9 月底，已有 10 个州签署法律允许：新泽西 9 月 1 日签署，加州州长纽森 9 月 30 日签署了 SB 868（2027 年 1 月 1 日生效）。纽约议会已通过、等待州长签字；全美约 30 个州提出了相关法案
+  * **马萨诸塞州**：众议院 2 月 26 日通过，参议院 7 月 1 日通过，两院协调委员会 7 月 16 日成立、7 月 29 日首次开会，截至 10 月初还没有拿出妥协版本，也还没送到州长那里
   * 专门的安全标准 UL 3700 在 2025 年底到 2026 年初发布（不同来源给的日期略有出入），第一批认证产品在 7、8 月才出现，APsystems 的 EZ1 售价 325 美元。Enphase 在美国还没有阳台太阳能产品
 
 ### 3.3 用 Thiel 的框架看
@@ -70,7 +70,7 @@ Thiel 说的"秘密"，通常来自三种地方：技术前沿的深度、少见
 
 但有一条必须放在最前面：**靠政策形成的保护，可能会随着政策改变而消失**。美国换一届政府，或者法院推翻规则，保护就没了。这正好对应 Thiel 的"持久"问题：10 年后你还守得住吗？所以如果走这条路，产品本身必须在没有保护的情况下也有竞争力，政策只能算是起步阶段的顺风。
 
-另外，竞争也不是零：已经获批的外国老型号可以继续卖，不带无线模块的逆变器不在禁令范围内。
+另外，竞争也不是零：已经获批的外国老型号可以继续卖，离网型（非并网）逆变器和完全没有通信能力的产品不在禁令范围内；但 8 月 20 日修订后，只靠有线接口联网、或预留通信模块接口的并网逆变器同样受限。
 
 ---
 
@@ -97,11 +97,11 @@ Thiel 说的"秘密"，通常来自三种地方：技术前沿的深度、少见
 **从小市场一圈圈往外扩**：已立法州的租房者 → 更多州（马萨诸塞州等正在推进）→ 加装电池 → 把成千上万户的小系统聚合成虚拟电厂，把灵活性卖给电网（power grid） → 能源数据平台。
 
 **你现在就能做的第一步**
-1. 读 UL 3700 和 FCC 这次规则的全文，搞清楚"美国本土含量 65%"在实际物料清单里意味着什么（比如芯片从哪买、组装放在哪）。这是我还没核实的关键问题
+1. 读 UL 3700 和 FCC 这次规则的全文，搞清楚"本土零部件成本超过 65%"在实际物料清单里意味着什么（比如芯片从哪买、组装放在哪）。这是我还没核实的关键问题
 2. 找学校里做电力电子的教授，把一个小功率微逆变器原型做成课程项目或独立研究
 3. 访谈 20 个已立法州的租房者和安装商，问他们现在买什么、担心什么、愿意付多少钱
 
-**什么情况下会错**：政策逆转；已获批的外国型号足够便宜、足够用；不带无线模块的进口产品抢走市场；UL、FCC 认证和美国量产的资金门槛超出学生团队的能力；Enphase 推出同类产品。
+**什么情况下会错**：政策逆转；已获批的外国型号足够便宜、足够用；完全不带通信功能的进口并网产品抢走市场；UL、FCC 认证和美国量产的资金门槛超出学生团队的能力；Enphase 推出同类产品。
 
 ### 新 B：美国本土的研究和教学机器人平台
 
@@ -186,3 +186,6 @@ Thiel 说的"秘密"，通常来自三种地方：技术前沿的深度、少见
 * [Plug in balcony solar moves from hack to household (IEEE Spectrum)](https://spectrum.ieee.org/plug-in-solar-power)
 * [Massachusetts H.5175 plug in solar bill update](https://pluginsolarus.com/learn/massachusetts-h5175-plug-in-solar)
 * [States OK balcony solar, safety guidelines haven't caught up (Stateline)](https://stateline.org/2026/09/30/states-want-balcony-solar-safety-guidelines-havent-caught-up/)
+* [FCC issues updates to Covered List entry on foreign produced power inverters (Mayer Brown, August 21 2026)](https://www.mayerbrown.com/en/insights/publications/2026/08/fcc-issues-updates-to-covered-list-entry-on-foreign-produced-power-inverters)
+* [WoodMac: new domestic inverter manufacturing could meet US solar demand (Solar Power World, August 2026)](https://www.solarpowerworldonline.com/2026/08/woodmac-new-domestic-inverter-manufacturing-could-meet-us-solar-demand/)
+* [California gives the green light to balcony solar (Electrek, October 1 2026)](https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/)

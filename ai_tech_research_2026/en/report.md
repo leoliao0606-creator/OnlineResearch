@@ -27,12 +27,12 @@ Key terms appear with their Chinese equivalent the first time they show up. The 
 
 ### The Seven Most Important Trends
 
-**1. Model capabilities keep stepping up, and the price of a given level of capability falls about tenfold each year.**
-September was a dense release month: OpenAI's GPT 6 Astra (September 3), Anthropic's Claude Opus 5.5 (September 22) and Google's Gemini 4 Argon (September 30) all made "completing complex tasks autonomously over several hours" a main selling point. The more important story is the midrange models (中档模型): GPT 6.1 Sol costs 2 dollars per million input tokens (词元) and 10 dollars per million output tokens, and its capability is already close to the flagships. Epoch AI estimates that the cost of reaching a given capability level falls about tenfold per year.
+**1. Model capabilities keep stepping up, and the price of a given level of capability falls by a factor of 5 to 13 each year.**
+September was a dense release month: OpenAI's GPT 6 Astra (September 3), Anthropic's Claude Opus 5.5 (September 22) and Google's Gemini 4 Argon (September 30) all made "completing complex tasks autonomously over several hours" a main selling point. The more important story is the midrange models (中档模型): GPT 6.1 Sol costs 2 dollars per million input tokens (词元) and 10 dollars per million output tokens, and its capability is already close to the flagships. A September report from Epoch AI estimates that the cost of reaching a given capability level falls about 47% per quarter, or roughly thirteenfold per year (other studies put the decline at 5 to 10 times per year).
 *What it means for products*: Do not bet your competitiveness on "having a stronger model than everyone else." Bet on workflows, proprietary data and distribution channels.
 
 **2. Agents (智能体) are moving from demos to production.**
-Claude Managed Agents (April) and the OpenAI Agents API (September) both turned sandboxes, memory, permissions and tracing into managed services. The Model Context Protocol (MCP, 模型上下文协议) released a new specification in July, and there are now more than 10,000 public connectors. Computer use (电脑操作) agents reached 72.6% on OSWorld 2.0.
+Claude Managed Agents (April) and the OpenAI Agents API (September) both turned sandboxes, memory, permissions and tracing into managed services. The Model Context Protocol (MCP, 模型上下文协议) released a new specification in July, and there are more than 10,000 public connectors (a late 2025 figure). Computer use (电脑操作) agents reached 72.6% on OSWorld 2.0.
 *What it means for products*: A small team can build a production grade agent in a few days. The barriers have moved to industry connectors, delivery capability and trust.
 
 **3. Open source models are now "good enough."**
