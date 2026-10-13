@@ -212,9 +212,9 @@ One overall observation first: **in the past six months, capital outside China h
 **What changed**
 * Models can now work autonomously for hours, and managed agent infrastructure has matured
 * Global IT services spending in 2026 is about 1.87 trillion dollars (Gartner), about six times the SaaS market; YC's summer 2026 list of startup ideas features AI native services
-* Companies that deliver services with AI can reach 75 to 85 percent gross margins, close to software, while charging three to five times what a software subscription costs
+* An industry blog estimates that companies delivering services with AI could reach 75 to 85 percent gross margins, close to software, while charging three to five times what a software subscription costs; but ICONIQ data show that the average gross margin of AI products was only about 45 percent in 2025 and is expected to be about 53 percent in 2026
 
-**Possible secret**: In many industries, customers do not want to buy software; they want "the job done." A service company where AI does 80 percent of the work and charges by outcome (按结果收费) can cut prices in a niche to a fraction of what traditional providers charge while keeping software level margins.
+**Possible secret**: In many industries, customers do not want to buy software; they want "the job done." A service company where AI does 80 percent of the work and charges by outcome (按结果收费) can cut prices in a niche to a fraction of what traditional providers charge while earning far higher margins than providers that deliver with people, and possibly approaching software margins over time.
 
 **Through Thiel's lens**: services are naturally close to perfect competition. A monopoly is only possible if you become ten times cheaper and ten times faster in a niche, and turn case data and reputation into a brand. So this direction sits between the two types: it starts fast, but whether it becomes the second type depends on execution.
 
@@ -307,7 +307,7 @@ These are things that became **possible** or **cheap** between April and October
 13. Robots that complete tasks they were never taught, following spoken instructions
 14. A skin patch that tracks both blood sugar and ketones, sold over the counter (非处方)
 15. An oral weight loss drug (减重药) with no food restrictions; semaglutide prices in China down more than 50 percent
-16. Correcting a single DNA base inside the human body in one treatment, with Phase 3 results already
+16. One time gene editing inside the human body to treat disease: Intellia's in vivo CRISPR therapy already has Phase 3 results, and in vivo base editing has entered clinical trials
 17. Brain computer interfaces approved for commercial use and with insurance billing codes (China)
 18. Drone delivery with a commercial license covering all territory (Meituan)
 19. Ordinary phones connecting directly to satellites (Starlink has 16 million users)
@@ -363,3 +363,4 @@ If you catch yourself proving there is no competition by saying "we are the only
 * [GLP 1 drugs are changing how Americans eat (CNBC)](https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html)
 * [Humanoid robot rentals grew ninefold in a year: real trend or transition? (National Business Daily, in Chinese)](https://www.nbd.com.cn/articles/2026-03-15/4292843.html)
 * [The price and survival battle in humanoid robot rentals (China News Service, in Chinese)](https://www.chinanews.com.cn/cj/2026/02-04/10565239.shtml)
+* [CRISPR clinical trials: a 2026 update (Innovative Genomics Institute)](https://innovativegenomics.org/news/crispr-clinical-trials-2026/)

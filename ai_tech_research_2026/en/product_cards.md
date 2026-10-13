@@ -33,7 +33,7 @@ The priority weighs five factors: whether demand has been validated, whether the
 
 **Pain points**
 * One missed call can mean one lost customer, and after hours nobody answers at all
-* Front desk staff are expensive. A small dental practice overseas pays 3,000 to 5,000 dollars a month for a human answering service
+* Front desk staff are expensive. A small dental practice overseas typically spends more than 3,000 dollars a month to employ one receptionist, while an AI answering solution costs only 50 to 500 dollars a month
 * The front desk spends most of its time answering the same questions: opening hours, price ranges, address, whether insurance is accepted
 
 **Why now**
@@ -71,7 +71,7 @@ The priority weighs five factors: whether demand has been validated, whether the
 1. Similarweb's 2026 data show that 35% of US consumers use AI when looking for products, while only 13.6% use search engines
 2. Users who arrive from ChatGPT convert at 7%, versus 5% for those from Google
 3. Ahrefs found that 28.3% of the pages ChatGPT cites most often have no organic ranking on Google at all, which shows that GEO and SEO follow two different logics
-4. Chinese AI assistants have huge user bases: Doubao has 345 million monthly active users (月活), Qwen (千问) 166 million and DeepSeek 127 million. But there are few monitoring tools built specifically for Chinese AI assistants (not systematically verified)
+4. Chinese AI assistants have huge user bases: according to QuestMobile, in June 2026 Doubao had 382 million monthly active users (月活), Qwen (千问) 167 million and DeepSeek 130 million. But there are few monitoring tools built specifically for Chinese AI assistants (not systematically verified)
 
 **Technical approach**: Build a question bank (generated automatically by category, plus custom questions from the client) → sample answers every day across several AI assistants → use a midrange model to extract brand mentions, sentiment and cited sources → generate dashboards and competitor comparisons → give content suggestions (which Q&A is missing, which structured data is missing, which third party sources are worth investing in).
 
@@ -97,7 +97,7 @@ The priority weighs five factors: whether demand has been validated, whether the
 **Target users**: Advertising agencies, ecommerce merchants and their service providers, MCN agencies, small and medium content apps, and apps expanding into the EU.
 
 **Pain points**
-* China's Measures for Labeling AI Generated Synthetic Content (《人工智能生成合成内容标识办法》) are being strictly enforced in 2026. AI generated content needs both visible labels (text, corner badges, voice prompts) and implicit labels written into the file metadata; AI advertising materials must also carry a metadata watermark containing the brand's unified social credit code (统一社会信用代码)
+* China's Measures for Labeling AI Generated Synthetic Content (《人工智能生成合成内容标识办法》) took effect on September 1, 2025, and entered a phase of strict enforcement in 2026. AI generated content needs both visible labels (text, corner badges, voice prompts) and implicit labels written into the file metadata; AI advertising materials must also carry a metadata watermark containing the brand's unified social credit code (统一社会信用代码)
 * The Article 50 transparency obligations (透明度义务) of the EU AI Act took effect on August 2, 2026, and the watermarking requirements for systems already deployed have a grace period until December 2
 * Companies use several AI tools at once to produce images and videos, with no unified compliance process
 
@@ -170,7 +170,7 @@ The priority weighs five factors: whether demand has been validated, whether the
 **Why now**
 1. On device models are good enough: Gemma 4 has two on device versions, E2B and E4B, and flagship phone NPUs reach 45 to 60 TOPS
 2. At WWDC 2026, Apple opened its Foundation Models framework. Small developers with fewer than 2 million downloads can use Private Cloud Compute inference (推理) for free, and can also plug in third party models
-3. The value of AI documentation has been proven in healthcare: 29% of US doctors use it, and it saves them 16 minutes a day of paperwork on average. But the US hospital market is already covered by free tools from Epic and athenahealth, so avoid hospitals and go after independent practitioners and professions outside healthcare
+3. The value of AI documentation has been proven in healthcare: 29% of US doctors use it, and it saves them 16 minutes a day of paperwork on average. But Epic has launched native AI documentation tools for hospitals, and athenahealth offers athenaAmbient free to its outpatient practice customers, so avoid hospitals and the practices these systems cover, and go after professions outside healthcare such as law and counseling, plus independent practitioners who do not use these systems
 
 **MVP scope (6 weeks)**: An iOS app with local transcription plus summaries from a local model, built in templates for each profession (legal client intake, counseling session notes, due diligence on financial clients), and export.
 
