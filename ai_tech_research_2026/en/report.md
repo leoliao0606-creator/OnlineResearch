@@ -40,11 +40,11 @@ The DeepSeek V4 series (MIT license), Kimi K3 (2.8 trillion parameters, open wei
 *What it means for products*: Private deployment (私有化部署) where data never leaves the organization (especially in China) is now technically feasible.
 
 **4. Voice has entered the "full duplex (全双工)" era.**
-GPT Live 1 costs 0.05 dollars per minute and can listen while it speaks; NVIDIA open sourced a full duplex model that supports tool use (工具调用). The share of small and medium sized businesses (中小企业) in the US and Europe that use AI to answer the phone has reached 34%.
+GPT Live 1's voice layer costs 0.05 dollars per minute (the backend reasoning model and tool calls are billed separately), and it can listen while it speaks; NVIDIA open sourced a full duplex model that supports tool use (工具调用). Ainora, a voice agent vendor, estimates that about 34% of small and medium sized businesses (中小企业) in the US and Europe already use AI to handle phone calls (it has not published its survey method).
 *What it means for products*: Voice is one of the most mature and easiest to monetize directions right now.
 
 **5. Traffic entry points are shifting, and AI assistants are becoming the new "search engine plus app store."**
-35% of US consumers use AI when looking for products; ChatGPT launched plugin extensions that embed full apps inside a conversation; Doubao (豆包) has 345 million monthly active users (月活); Apple opened its Foundation Models framework to third party models.
+35% of US consumers use AI when looking for products; ChatGPT launched plugin extensions that embed full apps inside a conversation; Doubao (豆包) had 382 million monthly active users (月活) in June; Apple opened its Foundation Models framework to third party models.
 *What it means for products*: Generative engine optimization (GEO, 生成式引擎优化), meaning getting AI to recommend you, and "building apps inside assistants" are two new channels.
 
 **6. AI in the physical world is accelerating, but most of it is still early.**
@@ -52,14 +52,14 @@ Humanoid robot (人形机器人) shipments in the first half were about 4 times 
 *What it means for products*: Small teams are better suited to building the application layer on top of hardware, not the robots themselves.
 
 **7. Regulation is taking effect, and compliance (合规) itself has become a need.**
-China's rules for labeling AI generated content (AIGC, 人工智能生成内容), the Measures for Labeling AI Generated Synthetic Content (《人工智能生成合成内容标识办法》), are being strictly enforced in 2026; the Article 50 transparency obligations (透明度义务) of the EU AI Act took effect on August 2 (high risk obligations were pushed back to December 2027); California's law on companion AI took effect in January.
+China's rules for labeling AI generated content (AIGC, 人工智能生成内容), the Measures for Labeling AI Generated Synthetic Content (《人工智能生成合成内容标识办法》), have been in force since September 1, 2025, and enforcement inspections stepped up markedly in 2026; the Article 50 transparency obligations (透明度义务) of the EU AI Act took effect on August 2 (high risk obligations were pushed back to December 2027); California's law on companion AI took effect in January.
 *What it means for products*: Tools for labeling, detection and age verification are a hard requirement; companion products and products for minors should design for compliance from the start.
 
 ### The Product Opportunities Most Worth Pursuing
 
 | Priority | Product direction | Reason in one line |
 | :--- | :--- | :--- |
-| High | [A. AI voice receptionist for vertical industries](product_cards.md#a-ai-voice-receptionist-for-vertical-industries) | Demand is proven (34% of small and medium sized businesses use one), voice costs 0.05 dollars per minute, and a minimum viable product (MVP, 最小可行产品) takes 6 weeks |
+| High | [A. AI voice receptionist for vertical industries](product_cards.md#a-ai-voice-receptionist-for-vertical-industries) | There are early signs of demand (voice agent vendor Ainora estimates about 34% of small and medium sized businesses in the US and Europe use one, without publishing its survey method), the voice layer costs 0.05 dollars per minute (reasoning billed separately), and a minimum viable product (MVP, 最小可行产品) takes 6 weeks |
 | High | [B. GEO monitoring and optimization](product_cards.md#b-ai-search-visibility-geo-monitoring-and-optimization) | The shift in entry points has just begun, and there are almost no mature tools for Chinese AI assistants |
 | High | [D. MCP connectors and agent templates for Chinese SaaS](product_cards.md#d-mcp-connectors-and-industry-agent-templates-for-chinese-saas) | The MCP ecosystem is mostly overseas, and most mainstream Chinese SaaS products still have no official connector |
 | Medium high | [C. AIGC compliance labeling and detection](product_cards.md#c-aigc-compliance-labeling-and-detection-saas) | The rules have just taken effect, and the EU grace period ends in December |
@@ -70,7 +70,7 @@ China's rules for labeling AI generated content (AIGC, 人工智能生成内容)
 | Medium | [I. AI code security audits](product_cards.md#i-ai-code-security-audits-for-small-and-medium-sized-businesses) | AI's ability to find vulnerabilities is proven, but competition is fierce |
 | Low to medium | [J. Embodied AI (具身智能) applications and data services](product_cards.md#j-embodied-ai-applications-and-data-services) | A long term track that needs a lot of capital |
 
-**If you pick only one**: I suggest starting with **A (AI voice receptionist)**. Demand has already been validated by the market, the unit economics (单位经济模型) are clear, the whole tech stack is off the shelf, and integrating with the booking systems of vertical industries is dirty work that big companies do not want to do, which is exactly the opening for a small team. **B (GEO)** is a good second direction to validate in parallel, because it is the cheapest to validate: run one report by hand and you can test willingness to pay.
+**If you pick only one**: I suggest starting with **A (AI voice receptionist)**. There are early signs of demand, the unit economics (单位经济模型) are clear, the whole tech stack is off the shelf, and integrating with the booking systems of vertical industries is dirty work that big companies do not want to do, which is exactly the opening for a small team. **B (GEO)** is a good second direction to validate in parallel, because it is the cheapest to validate: run one report by hand and you can test willingness to pay.
 
 ---
 
@@ -88,7 +88,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 | May 19 | Google | Gemini 3.5 Flash | Stronger than the previous generation flagship, 4 times faster | Not verified |
 | May 28 | Anthropic | Claude Opus 4.8 | | Not verified |
 | June 1 | MiniMax | M3 | Coding ability close to the frontier, priced at about 5% to 10% of closed models | |
-| Mid June | Zhipu (智谱) | GLM 5.2 | Ranked first among open source models on Artificial Analysis | Open source |
+| Mid June | Zhipu (智谱) | GLM 5.2 | Ranked first among open source models on Artificial Analysis at launch (overtaken by Kimi K3 in late July) | Open source |
 | July 9 | OpenAI | GPT 5.6 series | | |
 | July 15 | Thinking Machines | Inkling | 975B multimodal base model, Apache 2.0, built for fine tuning | Open source |
 | July 26 | Moonshot AI (月之暗面) | Kimi K3 open weights | 2.8 trillion total parameters, 104 billion active, 1 million token context | Open source |
@@ -97,7 +97,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 | September 22 | Anthropic | Claude Opus 5.5 | Roughly as capable as Fable 5.1, 40% cheaper to run than Opus 5 | $4 / $20 |
 | September 22 | Alibaba (阿里) | Qwen 4 announcement | Four tiers, still in training, no release date | |
 | September 29 | OpenAI | GPT 6.1 Sol | Coding and computer use close to Astra | $2 / $10 |
-| September 30 | Google | Gemini 4 Argon | Output limit of 1 million tokens; DeepSWE 77.9%; opened first to cyber defenders | Not disclosed |
+| September 30 | Google | Gemini 4 Argon | Output limit of 1 million tokens; DeepSWE 77.9%; opened first to cyber defenders | $4 / $20 ($2 / $10 during the launch promotion); not yet open to ordinary developers |
 
 **Signals worth noting**
 * **Tighter safety controls**: OpenAI canceled the release of GPT 6.1 Astra because of a safety regression; Anthropic's Mythos and Google's Argon were both opened only to trusted partners first. The strongest capabilities will reach ordinary developers later and later, and with more and more conditions attached
@@ -109,8 +109,8 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 ### 2.2 Agents and Tool Use
 
 **Key developments**
-* **Managed agent platforms**: Claude Managed Agents entered public beta on April 9, offering sandboxes, checkpoints, credential management, permission controls and end to end tracing. It is billed for model usage plus 0.08 dollars per running hour, and Notion, Asana and Sentry already use it in production. At DevDay (September 29), OpenAI launched the Agents API in public beta, with support for managed execution, memory, multi agent setups and computer use. Google added Managed Agents to the Gemini API in May
-* **MCP**: The new specification on July 28 changed the protocol to a stateless, cacheable structure, strengthened authentication and introduced an extensions framework. It solves the scaling problems of multi tenant cloud deployments. There are more than 10,000 public MCP connectors, and the SDK gets 97 million downloads a month
+* **Managed agent platforms**: Claude Managed Agents entered public beta on April 8, offering sandboxes, checkpoints, credential management, permission controls and end to end tracing. It is billed for model usage plus 0.08 dollars per running hour, and Notion, Rakuten (乐天) and Sentry already use it in production. At DevDay (September 29), OpenAI launched the Agents API in public beta, with support for managed execution, memory, multi agent setups and computer use. Google added Managed Agents to the Gemini API in May
+* **MCP**: The new specification on July 28 changed the protocol to a stateless, cacheable structure, strengthened authentication and introduced an extensions framework. It solves the scaling problems of multi tenant cloud deployments. There are more than 10,000 public MCP connectors (a late 2025 figure), and the official SDKs get close to 500 million downloads a month (July 2026)
 * **Coding agents are the largest agent market today**: Claude Code reached 2.5 billion dollars in annualized revenue (年化收入) within nine months; Cursor's annualized revenue rose from 2 billion dollars in February to more than 4 billion dollars in June
 * **Always on personal agents**: Google's Gemini Spark handles tasks for users 24/7 on cloud virtual machines; the open source Hermes Agent (more than 32,000 GitHub stars) can generate and improve its own skills from experience; Tencent (腾讯) opened agent capabilities to all Yuanbao (元宝) users for free
 * **Agent payments**: There are many protocols (ACP, UCP, AP2, x402, MPP), but no winner yet. OpenAI shut down Instant Checkout in March and went back to a "discover products, then redirect to the merchant" model, which shows the market has not yet accepted agents paying directly
@@ -121,7 +121,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 ### 2.3 Voice, Images, Video and 3D
 
 **Voice**
-* OpenAI launched GPT Live full duplex voice on July 8 and opened the API on September 10 at 0.05 dollars per minute, with built in transcription and turn detection; complex reasoning is handed off to a paired large model (大模型)
+* OpenAI launched GPT Live full duplex voice on July 8 and opened the API on September 10, with the voice layer at 0.05 dollars per minute and built in transcription and turn detection; complex reasoning is handed off to a paired large model (大模型), which is billed separately, as are tool calls
 * Open source: NVIDIA's NemotronLabs VoiceChat (September) is a full duplex model with native tool use; JD.com's (京东) JoyAI Talker focuses on voice agents with empathy
 * Translation: Google Meet's voice dubbing became generally available in February; Shokz (韶音) OpenFit 2 AI earbuds run on Tongyi (通义) speech models and support 30 languages
 
@@ -161,7 +161,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 * In the first half, global shipments were about 4 times the level of the same period last year, with Chinese makers accounting for more than 97%. AgiBot (智元) shipped about 8,400 units, ranking first; Unitree (宇树) shipped about 5,900 and had its IPO approved by the listing committee on June 1
 * Full year production in 2026 is expected to exceed 100,000 units, about 5 times the 2025 level
 * Prices: the Unitree R1 costs about 5,900 dollars and the G1 about 13,500 to 16,000 dollars; Figure 03 is sold only under enterprise contracts
-* **The gap between hype and reality**: 1X NEO sells for 20,000 dollars or 499 dollars a month, and its first year batch of 10,000 units sold out in five days, but as of July 16 there had been no verified deliveries to users
+* **The gap between hype and reality**: 1X NEO sells for 20,000 dollars or 499 dollars a month, and after preorders opened in October 2025 it received about 10,000 preorders within five days (with a refundable 200 dollar deposit), but as of July 16 there had been no verified deliveries to users
 
 ### 2.6 AI for Science
 
@@ -201,7 +201,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 
 ### 2.9 Energy and Materials
 
-* **Sodium ion batteries**: CATL (宁德时代) and Changan (长安) unveiled the world's first mass produced sodium ion passenger car in February, and cell mass production is planned before the end of the year
+* **Sodium ion batteries**: CATL (宁德时代) and Changan (长安) unveiled in February the first passenger car planned for mass production with sodium ion batteries (the Changan Nevo A06, 长安启源 A06), and cell mass production is planned before the end of the year
 * **Solid state batteries**: CATL, BYD (比亚迪), Toyota and Samsung have all set 2027 as the target for all solid state batteries; ProLogium's (辉能) lithium ceramic battery reached 381 Wh/kg in TÜV verification and has entered mass production
 * **Perovskite tandem solar photovoltaics (光伏, solar PV)**: LONGi's (隆基) tandem cell reached 35.5% efficiency (July), a world record; Trina Solar's (天合) tandem module reached 907W at 29.2% efficiency. Commercial modules range from 24% to 29% efficiency
 * **AI power demand**: US tech giants have signed 13 nuclear power deals totaling more than 9.8 GW; in April Microsoft signed a power purchase agreement (购电协议, PPA) with the fusion company Helion
@@ -210,7 +210,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 
 ### 2.10 Quantum Computing
 
-* Quantinuum's Helios achieved 48 logical qubits with a physical qubit overhead of about 2 to 1, running up to 94, with a logical gate error rate of about 1 in 10,000; QuEra achieved 96 logical qubits on a neutral atom platform; Google Willow ran a 7×7 surface code
+* Quantinuum's Helios (released in November 2025) achieved 48 logical qubits with a physical qubit overhead of about 2 to 1, running up to 94, with a logical gate error rate of about 1 in 10,000; QuEra achieved 96 logical qubits on a neutral atom platform; Google Willow had already run a distance 7 surface code back in late 2024
 * Quantum error correction is moving from research to engineering, but no broad commercial advantage has appeared yet
 
 **What it means for products**: What can be put to work in the short term is security consulting and tools for things like "post quantum cryptography migration." Quantum computing itself is far from anything a small team can productize.
@@ -241,10 +241,10 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 * Of the top 50 products by spending, 29 do not appear in the traffic rankings at all
 * **Takeaway**: Products for "prosumers" (专业消费者), people who buy tools for themselves to get work done, have an easier time collecting money and do not need to chase huge traffic
 
-**Consumer AI apps in China**: Doubao has 345 million monthly active users, Qwen (千问) 166 million, DeepSeek 127 million and Yuanbao 114 million. During the Spring Festival, Tencent promoted Yuanbao with large red envelope (红包) giveaways (reported amounts vary, from 1 billion yuan to 10 billion yuan), and in May it launched a feature that summarizes WeChat chat histories. Competition among the big companies for the agent entry point is extremely fierce.
+**Consumer AI apps in China**: According to QuestMobile, in June 2026 Doubao had 382 million monthly active users, Qwen (千问) 167 million, DeepSeek 130 million and Yuanbao 49.84 million (Tencent's self reported figure across all platforms during the Spring Festival was 114 million). During the Spring Festival, Tencent promoted Yuanbao with 1 billion yuan in cash red envelopes (红包), and in May it launched a feature that summarizes WeChat chat histories. Competition among the big companies for the agent entry point is extremely fierce.
 
 **Regulation**
-* **China**: The AIGC labeling measures have been in effect since September 1, 2025 and entered strict enforcement in 2026. They require explicit labels plus implicit labels in metadata; AI advertising materials must carry a metadata watermark containing the brand's credit code. In addition, providing generative AI services also requires algorithm filing (算法备案), a security assessment and real name verification of users
+* **China**: The AIGC labeling measures have been in force since September 1, 2025, and enforcement inspections stepped up markedly in 2026. They require explicit labels plus implicit labels in metadata; AI advertising materials must carry a metadata watermark containing the brand's credit code. In addition, providing generative AI services also requires algorithm filing (算法备案), a security assessment and real name verification of users
 * **EU**: The Digital Omnibus (effective July 27) pushed the compliance deadline for standalone high risk AI systems back from August 2026 to December 2, 2027, but the Article 50 transparency obligations still took effect on August 2, 2026
 * **US**: Since January 1, California's SB 243 has required companion chatbots to tell users clearly that they are AI, to remind minors every 3 hours, and to set up suicide intervention protocols. From July 2027, it will prohibit simulating romance or sentience with minors
 

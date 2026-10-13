@@ -18,6 +18,7 @@ Chinese version: [../sources.md](../sources.md). Related documents: [Research re
 * [GPT 6 Astra launch (LLM Stats)](https://llm-stats.com/blog/research/gpt-6-astra-launch)
 * [Gemini 4 Argon: our next era of frontier intelligence (Google)](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 * [Google announces Gemini 4 Argon (9to5Google)](https://9to5google.com/2026/09/30/gemini-4-argon-announcement/)
+* [Gemini 4 Argon pricing (eesel.ai, October 2026)](https://www.eesel.ai/blog/gemini-4-argon-pricing)
 * [The latest AI news we announced in September 2026 (Google)](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/)
 * [All the news from the Google I/O 2026 Developer keynote (Google Developers)](https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/)
 * [AI Model Releases in May 2026 (BenchLM)](https://benchlm.ai/model-updates/releases/may-2026)
@@ -94,6 +95,7 @@ Chinese version: [../sources.md](../sources.md). Related documents: [Research re
 * [Humanoid robot price comparison 2026 (AI Business VC)](https://aibusiness.vc/robots/humanoid-robot-price-comparison-2026)
 * [Home Robots in 2026: what's shipping (The Gadgeteer)](https://the-gadgeteer.com/2026/05/20/home-robots-available-2026/)
 * [1X to deliver NEO to US customers in 2026 (heise)](https://www.heise.de/en/news/1X-to-deliver-humanoid-household-robot-Neo-to-US-customers-in-2026-11287205.html)
+* [1X kicks off full scale production of humanoid robot NEO (Forbes, April 30 2026)](https://www.forbes.com/sites/johnkoetsier/2026/04/30/1x-kicks-off-full-scale-production-of-humanoid-robot-neo/)
 
 ## AI for Science
 
@@ -175,6 +177,7 @@ Chinese version: [../sources.md](../sources.md). Related documents: [Research re
 * [The Top 100 Gen AI Consumer Apps, 7th Edition (a16z)](https://a16z.com/100-gen-ai-apps-7/)
 * [Top 100 Consumer AI Apps, Seventh Edition (a16z news)](https://www.a16z.news/p/top-100-consumer-ai-apps-seventh)
 * [China AI apps: Doubao hits 345M users (China Biz Insider)](https://chinabizinsider.com/chinas-ai-app-race-enters-new-phase-douyins-doubao-leads-with-345m-users/)
+* [QuestMobile 2026 H1 AI app report (IT之家, July 14 2026)](https://www.ithome.com/0/976/383.htm)
 * [China's AI boom and the token economy (Fortune)](https://fortune.com/2026/04/12/china-token-economy-ai-boom-big-tech-startups/)
 * [Best of Product Hunt: September 2026](https://www.producthunt.com/leaderboard/monthly/2026/9)
 * [What is GEO: 2026 guide (Similarweb)](https://aisearch.similarweb.com/blog/what-is-geo/)
