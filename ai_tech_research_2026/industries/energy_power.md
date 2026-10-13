@@ -127,7 +127,7 @@
 
 在过去十几年里，发达国家的用电量基本是平的。现在变了：
 * 全球用电 2025 年增长 3%，IEA 预计 2026 到 2030 年每年增长 3.6%
-* 美国用电 2026 年预计创下 42,880 亿千瓦时的新纪录，大约一半的增长来自数据中心
+* 美国能源信息署（EIA）预计美国用电 2026 年创下 42,880 亿千瓦时的新纪录；IEA 估计，到 2030 年美国用电增长中约一半来自数据中心
 * 全球数据中心用电从 2025 年的 485 太瓦时，预计到 2030 年翻倍到 950 太瓦时；2025 年 AI 数据中心的用电增长了 50%
 * 除了数据中心，电动车、空调、工业电气化也在推高用电
 
@@ -148,13 +148,13 @@
 ### 5.4 美国政策在剧烈调整
 
 * **税收抵免（tax credit）削减**：2025 年 7 月通过的《大而美法案》规定，2026 年 7 月 4 日之后才开工的风电和光伏项目，必须在 2027 年底前投运，否则拿不到联邦税收抵免
-* **逆变器禁令**：7 月 FCC 禁止外国制造的联网逆变器新型号进入，要求美国本土含量（domestic content）至少 65%（详见 [personal_fit.md](../personal_fit.md)）
+* **逆变器禁令**：7 月 28 日 FCC 把外国制造的逆变器列入"涵盖清单（Covered List）"，新型号不能再获得认证；8 月 20 日修订后，范围收窄为能远程联网的并网逆变器，符合 45X 税收抵免条件的产品不算外国制造。"本土制造"的标准是 2028 年前美国零部件成本占比（domestic content）超过 65%，2029 年起超过 75%（详见 [personal_fit.md](../personal_fit.md)）
 * **大型负荷（load）接入**：能源部要求 FERC 制定数据中心等大型负荷接入电网的规则。FERC 6 月向六个区域电网运营机构发出命令，要求修改或解释现行规则，但正式规则还没出台
 
 ### 5.5 中国：从拼装机量到拼市场
 
-* 2025 年中国新增光伏创纪录，约 315 GW；但 2026 年上半年只有 72 GW，同比下降 66%，原因是新项目改为市场定价，收益不再确定
-* 政府在推动"反内卷（anti involution）"，希望减产提价，但到 9 月多晶硅价格仍然疲软
+* 2025 年中国新增光伏创纪录，约 315 GW；但 2026 年上半年只有 72 GW，同比下降 66%，原因是新项目改为市场定价，收益不再确定；1 到 8 月累计约 97 GW，同比下降约 58%，降幅开始收窄
+* 政府在推动"反内卷（anti involution）"，希望减产提价；9 月下旬多晶硅成交均价回升到每吨 4 万元以上，比 7 月底涨了约 1 万元，但主要靠减产预期，成交清淡，库存仍超过 54 万吨
 * 国家电网的投资创纪录，2026 到 2030 年计划新建 15 条特高压（ultra high voltage, UHV）线路
 * 电力现货市场在各省铺开
 
@@ -164,7 +164,7 @@
 | :--- | :--- |
 | 储能 | 2025 年电池包均价跌到 108 美元每千瓦时；储能用电池跌了 45%，到 70 美元，首次成为最便宜的细分 |
 | 虚拟电厂 | 美国已登记约 38 到 40 GW；能源部的目标是 2030 年达到 80 到 160 GW；9 月 9 日，加州 14 万户家用电池在一个晚上一起向电网送出了 580 MW |
-| 增强型地热 | Fervo 在犹他州的 Cape Station 于 9 月 24 日首次发电，是全球第一个实现发电的商业规模增强型地热电站；和 Google 签了 396 MW 的购电协议（power purchase agreement, PPA）；5 月在纳斯达克上市 |
+| 增强型地热 | Fervo 在犹他州的 Cape Station 于 9 月 24 日首次发电（先投运一个 33 MW 机组，一期约 100 MW），Fervo 称这是全球第一个实现发电的商业规模增强型地热项目；9 月初和 Google 签了 396 MW 的购电协议（power purchase agreement, PPA），2028 年起供电；5 月在纳斯达克上市 |
 | 核聚变 | 马萨诸塞州的 Commonwealth Fusion Systems，SPARC 装置约八成完工，首次等离子体从 2026 年推迟到 2027 年 |
 | 核电重启 | 密歇根州的 Palisades 核电站重启一再推迟，到 10 月仍未完成 |
 | 固态变压器（solid state transformer） | Heron Power 2 月融资 1.4 亿美元，DG Matrix 融资 6,000 万美元，Amperesand 融资 8,000 万美元 |
@@ -279,3 +279,10 @@
 * [Oil briefly touches $126, its highest price in four years (CNN, April 30 2026)](https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk)
 * [Oil prices after US and Iran halt strikes (CNBC, June 29 2026)](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html)
 * [Oil climbs as Iran conflict escalates (CNBC, September 10 2026)](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)
+* [FCC DA 26 870: revised Covered List entry for foreign produced power inverters (FCC, August 20 2026)](https://docs.fcc.gov/public/attachments/DA-26-870A1.pdf)
+* [US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says (BOE Report and Reuters, October 6 2026)](https://boereport.com/2026/10/06/us-power-use-to-beat-record-highs-in-2026-and-2027-as-ai-use-surges-eia-says-7/)
+* [Data centers dominate rising US demand (Axios, February 6 2026)](https://www.axios.com/2026/02/06/data-centers-dominate-rising-us-demand)
+* [Fervo first power at Cape Station: 33 MW GeoBlock of Phase I (mgrid, September 27 2026)](https://mgrid.org/2026/09/27/fervo-first-power-cape-station-33-mw-geoblock-phase-i/)
+* [Fervo Energy and Google sign 396 MW agreement (Renewable Energy Magazine, September 2 2026)](https://www.renewableenergymagazine.com/geothermal/fervo-energy-and-google-sign-396-mw-20260902)
+* [Polysilicon average transaction price back above 40,000 yuan per tonne (10jqka, September 28 2026)](https://news.10jqka.com.cn/20260928/c680289466.shtml)
+* [China solar installations January to August 2026 (Sina Finance, September 24 2026)](https://finance.sina.com.cn/wm/2026-09-24/doc-iniswvxc5423256.shtml)

@@ -43,7 +43,7 @@ Banks take deposits at a lower interest rate and lend at a higher one. The diffe
 **2. Fees and tolls**
 Every card payment, transfer and remittance carries a fee for someone. In the US, merchants usually pay 2 to 3 percent to accept a credit card; most of that goes to the card issuing bank, and part goes to Visa and Mastercard.
 * McKinsey's data shows that "transaction banking and distribution" accounts for 47 percent of global banking revenue and 57 percent of its profit
-* Cross border remittances (跨境汇款) are even more expensive: sending 200 dollars costs 6.36 percent in fees on average worldwide. The G20 target is to bring this down to 3 percent by 2030, and progress is slow
+* Cross border remittances (跨境汇款) are even more expensive: sending 200 dollars costs 6.36 percent in fees on average worldwide (World Bank data for the third quarter of 2025). The G20 target is to bring this down to 3 percent by 2030, and progress is slow
 
 **3. Management fees**
 Asset managers charge a percentage of the assets they manage. The more they manage, the more they earn.
@@ -148,10 +148,10 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 
 ### 5.7 Neobanks: Lots of Users, Hard to Make Money
 
-* Nubank (Brazil) earned net income of about 2.9 billion dollars in 2025, with about 130 to 140 million customers
-* Revolut (UK) made a pretax profit of about 2.3 billion dollars in 2025, with valuation (估值) estimates ranging from 75 to 115 billion dollars
+* Nubank (Brazil) earned net income of about 2.9 billion dollars in 2025; it had about 131 million customers at the end of 2025 and about 139 million at the end of June 2026
+* Revolut (UK) made a pretax profit of about 2.3 billion dollars in 2025, and its valuation (估值) rose from 75 billion dollars in November 2025 to 115 billion dollars in an employee share sale in July 2026
 * Chime (US) listed on Nasdaq in June 2025 at an IPO price that valued it at about 11.6 billion dollars, less than half of its 25 billion dollar private valuation in 2021
-* Industry estimates suggest that only about one in seven neobanks makes money. The ones that do rely mainly on lending and subscriptions, not just card fees
+* In 2022 the consultancy Simon Kucher estimated that fewer than 5 percent of the roughly 400 neobanks worldwide had broken even; estimates since then vary, but the profitable ones remain a minority. The ones that do rely mainly on lending and subscriptions, not just card fees
 
 ### 5.8 Other Developments
 
@@ -260,3 +260,6 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 * [Fitch's private credit default rate hit record in second quarter (Bloomberg, July 30 2026)](https://www.bloomberg.com/news/articles/2026-07-30/fitch-s-private-credit-default-rate-hit-record-in-second-quarter)
 * [State of the restructuring market (FTI Consulting, 2026)](https://www.fticonsulting.com/insights/articles/state-of-restructuring-market)
 * [The end of the Bretton Woods system (IMF)](https://www.imf.org/external/about/histend.htm)
+* [Revolut confirms $115 billion valuation in latest share sale (Bloomberg, July 22 2026)](https://www.bloomberg.com/news/articles/2026-07-22/revolut-confirms-115-billion-valuation-in-secondary-share-sale)
+* [Neo banks struggling to make a profit (Banking Exchange, citing Simon Kucher)](https://www.bankingexchange.com/news-feed/item/9287-neo-banks-struggling-to-make-a-profit)
+* [NuHeadlines 50: Nu Holdings second quarter 2026 (Nubank, August 19 2026)](https://cdn.nubank.com.br/newsletter/nuheadlines-editions/50/nuheadlines-50-en.html)

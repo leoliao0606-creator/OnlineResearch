@@ -41,7 +41,7 @@
 **2. 手续费和过路费**
 每一次刷卡、转账、汇款，都有人收费。在美国，商家接受信用卡通常要付 2% 到 3% 的手续费，其中大部分归发卡银行，一部分归 Visa 和 Mastercard。
 * 麦肯锡的数据显示，"交易银行和分销"贡献了全球银行业 47% 的收入和 57% 的利润
-* 跨境汇款（cross border remittance）更贵：全球平均汇 200 美元要花 6.36% 的手续费，G20 的目标是到 2030 年降到 3%，进展很慢
+* 跨境汇款（cross border remittance）更贵：全球平均汇 200 美元要花 6.36% 的手续费（世界银行 2025 年三季度数据），G20 的目标是到 2030 年降到 3%，进展很慢
 
 **3. 管理费**
 资产管理公司按管理规模的一个百分比收费。规模越大，赚得越多。
@@ -146,10 +146,10 @@
 
 ### 5.7 数字银行：用户多，赚钱难
 
-* Nubank（巴西）2025 年净利润约 29 亿美元，客户约 1.3 亿到 1.4 亿
-* Revolut（英国）2025 年税前利润约 23 亿美元，估值（valuation）从 750 亿到 1,150 亿美元不等
+* Nubank（巴西）2025 年净利润约 29 亿美元；客户 2025 年底约 1.31 亿，2026 年 6 月底约 1.39 亿
+* Revolut（英国）2025 年税前利润约 23 亿美元；估值（valuation）从 2025 年 11 月的 750 亿美元升到 2026 年 7 月员工股份出售时的 1,150 亿美元
 * Chime（美国）2025 年 6 月在纳斯达克上市，发行价对应估值约 116 亿美元，不到 2021 年私募估值 250 亿美元的一半
-* 业内估计只有约七分之一的数字银行是赚钱的。赚钱的那些，主要靠贷款和订阅，而不只是刷卡手续费
+* 咨询公司 Simon Kucher 2022 年估计，全球约 400 家数字银行里只有不到 5% 达到盈亏平衡；之后各方估计口径不一，但赚钱的始终是少数。赚钱的那些，主要靠贷款和订阅，而不只是刷卡手续费
 
 ### 5.8 其他
 
@@ -258,3 +258,6 @@
 * [Fitch's private credit default rate hit record in second quarter (Bloomberg, July 30 2026)](https://www.bloomberg.com/news/articles/2026-07-30/fitch-s-private-credit-default-rate-hit-record-in-second-quarter)
 * [State of the restructuring market (FTI Consulting, 2026)](https://www.fticonsulting.com/insights/articles/state-of-restructuring-market)
 * [The end of the Bretton Woods system (IMF)](https://www.imf.org/external/about/histend.htm)
+* [Revolut confirms $115 billion valuation in latest share sale (Bloomberg, July 22 2026)](https://www.bloomberg.com/news/articles/2026-07-22/revolut-confirms-115-billion-valuation-in-secondary-share-sale)
+* [Neo banks struggling to make a profit (Banking Exchange, citing Simon Kucher)](https://www.bankingexchange.com/news-feed/item/9287-neo-banks-struggling-to-make-a-profit)
+* [NuHeadlines 50: Nu Holdings second quarter 2026 (Nubank, August 19 2026)](https://cdn.nubank.com.br/newsletter/nuheadlines-editions/50/nuheadlines-50-en.html)

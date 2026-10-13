@@ -129,7 +129,7 @@ Natural gas took an even bigger hit. About 20 percent of the world's LNG passes 
 
 For more than a decade, electricity consumption in developed countries was essentially flat. That has changed:
 * Global electricity demand grew 3 percent in 2025, and the IEA expects it to grow 3.6 percent a year from 2026 to 2030
-* US electricity use is expected to set a new record of 4,288 billion kilowatt hours in 2026, with about half of the growth coming from data centers
+* The Energy Information Administration (EIA) expects US electricity use to set a new record of 4,288 billion kilowatt hours in 2026; the IEA estimates that about half of US demand growth through 2030 will come from data centers
 * Global data center electricity use is expected to double from 485 terawatt hours (TWh, 太瓦时) in 2025 to 950 TWh by 2030; electricity use by AI data centers grew 50 percent in 2025
 * Beyond data centers, electric vehicles, air conditioning and industrial electrification are also pushing demand up
 
@@ -150,13 +150,13 @@ Before a new power plant can connect to the grid, a step called interconnection 
 ### 5.4 US Policy Is Shifting Sharply
 
 * **Tax credit (税收抵免) cuts**: the One Big Beautiful Bill Act (大而美法案), passed in July 2025, requires wind and solar projects that start construction after July 4, 2026 to be in service by the end of 2027, or they lose federal tax credits
-* **Inverter ban**: in July the FCC barred new models of foreign made connected inverters and required domestic content (本土含量) of at least 65 percent; see [personal_fit.md](../personal_fit.md) for details
+* **Inverter ban**: on July 28 the FCC added foreign produced inverters to its "Covered List (涵盖清单)," so new models can no longer be authorized. A revision on August 20 narrowed the scope to grid tied inverters capable of remote connectivity, and products eligible for the 45X tax credit no longer count as foreign produced. To count as domestic, US components must exceed 65 percent of component cost (domestic content, 本土含量) through 2028 and 75 percent from 2029; see [personal_fit.md](../personal_fit.md) for details
 * **Connecting large loads (负荷)**: the Department of Energy asked FERC to write rules for connecting data centers and other large loads to the grid. In June FERC ordered six regional grid operators to revise or justify their current rules, but formal rules have not yet been issued
 
 ### 5.5 China: From a Race to Install to a Race to Build Markets
 
-* China added a record of about 315 GW of solar in 2025; but only 72 GW in the first half of 2026, down 66 percent year over year (同比), because new projects moved to market pricing and returns are no longer certain
-* The government is pushing "anti involution (反内卷)," hoping to cut output and raise prices, but as of September polysilicon prices were still weak
+* China added a record of about 315 GW of solar in 2025; but only 72 GW in the first half of 2026, down 66 percent year over year (同比), because new projects moved to market pricing and returns are no longer certain; from January to August it added about 97 GW, down about 58 percent, so the decline is starting to narrow
+* The government is pushing "anti involution (反内卷)," hoping to cut output and raise prices. In late September the average polysilicon transaction price recovered to more than 40,000 yuan per tonne, about 10,000 yuan higher than at the end of July, but mainly on expectations of output cuts; trading is thin and inventory is still above 540,000 tonnes
 * State Grid's investment is at a record, with plans to build 15 new ultra high voltage (UHV, 特高压) lines from 2026 to 2030
 * Electricity spot markets are rolling out province by province
 
@@ -166,7 +166,7 @@ Before a new power plant can connect to the grid, a step called interconnection 
 | :--- | :--- |
 | Energy storage | The average battery pack (电池包) price fell to 108 dollars per kilowatt hour in 2025; batteries for stationary storage fell 45 percent to 70 dollars, becoming the cheapest segment for the first time |
 | Virtual power plants | About 38 to 40 GW are registered in the US; the Department of Energy's target is 80 to 160 GW by 2030; on September 9, 140,000 home batteries in California together sent 580 MW into the grid in a single evening |
-| Enhanced geothermal | Fervo's Cape Station in Utah first generated power on September 24, the world's first commercial scale enhanced geothermal plant to do so; it has a 396 MW power purchase agreement (PPA, 购电协议) with Google; Fervo listed on Nasdaq in May |
+| Enhanced geothermal | Fervo's Cape Station in Utah first generated power on September 24 (one 33 MW unit first, out of a first phase of about 100 MW), which Fervo calls the world's first commercial scale enhanced geothermal project to reach first power; in early September it signed a 396 MW power purchase agreement (PPA, 购电协议) with Google, with deliveries starting in 2028; Fervo listed on Nasdaq in May |
 | Nuclear fusion | At Commonwealth Fusion Systems in Massachusetts, the SPARC device is about 80 percent complete; first plasma has slipped from 2026 to 2027 |
 | Nuclear restarts | The restart of the Palisades nuclear plant in Michigan has been delayed again and again and was still not complete as of October |
 | Solid state transformers (固态变压器) | Heron Power raised 140 million dollars in February, DG Matrix raised 60 million dollars, and Amperesand raised 80 million dollars |
@@ -281,3 +281,10 @@ The following is compiled from industry reporting, not from interviews I conduct
 * [Oil briefly touches $126, its highest price in four years (CNN, April 30 2026)](https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk)
 * [Oil prices after US and Iran halt strikes (CNBC, June 29 2026)](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html)
 * [Oil climbs as Iran conflict escalates (CNBC, September 10 2026)](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)
+* [FCC DA 26 870: revised Covered List entry for foreign produced power inverters (FCC, August 20 2026)](https://docs.fcc.gov/public/attachments/DA-26-870A1.pdf)
+* [US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says (BOE Report and Reuters, October 6 2026)](https://boereport.com/2026/10/06/us-power-use-to-beat-record-highs-in-2026-and-2027-as-ai-use-surges-eia-says-7/)
+* [Data centers dominate rising US demand (Axios, February 6 2026)](https://www.axios.com/2026/02/06/data-centers-dominate-rising-us-demand)
+* [Fervo first power at Cape Station: 33 MW GeoBlock of Phase I (mgrid, September 27 2026)](https://mgrid.org/2026/09/27/fervo-first-power-cape-station-33-mw-geoblock-phase-i/)
+* [Fervo Energy and Google sign 396 MW agreement (Renewable Energy Magazine, September 2 2026)](https://www.renewableenergymagazine.com/geothermal/fervo-energy-and-google-sign-396-mw-20260902)
+* [Polysilicon average transaction price back above 40,000 yuan per tonne (10jqka, September 28 2026)](https://news.10jqka.com.cn/20260928/c680289466.shtml)
+* [China solar installations January to August 2026 (Sina Finance, September 24 2026)](https://finance.sina.com.cn/wm/2026-09-24/doc-iniswvxc5423256.shtml)
