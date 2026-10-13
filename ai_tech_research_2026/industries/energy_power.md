@@ -58,10 +58,11 @@
 在美国的很多地区，发电厂在一个批发市场里竞价卖电。除了卖电量，还有一种很重要的收入叫"**容量费**"：电网运营机构提前几年拍卖，付钱给电厂，让它们保证在需要的时候能发电。
 
 美国最大的电网区域 PJM（覆盖华盛顿、费城、芝加哥等 13 个州）的容量拍卖（capacity auction），是看懂这个产业的一个窗口：
-* 2025 年 12 月针对 2027 到 2028 年的拍卖，价格直接撞到上限（每兆瓦每天 333 美元），总成本 164 亿美元，创纪录，连续第三次触顶
-* 即便如此，仍比可靠性要求少了约 6.5 GW
+* 2025 年 12 月针对 2027 到 2028 年的拍卖，价格直接撞到上限（每兆瓦每天 333 美元），总成本 164 亿美元，创纪录；这是连续第三次创出历史最高价，也是连续第二次触顶
+* 即便如此，仍比可靠性要求少了约 6.6 GW
 * 市场监督机构估计，其中约 63 亿到 65 亿美元是数据中心带来的
 * 一份 NRDC 的预测是，按这个趋势，到 2028 年普通家庭每月电费可能多出约 70 美元
+* 2026 年 7 月 14 日公布的 2028 到 2029 年拍卖再次触顶（上限略降到每兆瓦每天 325 美元），成为连续第三次触顶；缺口扩大到约 6.8 GW。PJM 估计，如果没有上限，价格会到每兆瓦每天约 555 美元
 
 **模式三：卖设备和工程**
 
@@ -74,11 +75,11 @@
 ### 2.2 油气：价格决定一切
 
 油气公司的利润主要取决于油价，而油价主要取决于地缘政治和 OPEC+。2026 年是一个极端的例子：
-* 2 月底伊朗战争爆发，霍尔木兹海峡（Strait of Hormuz）关闭，布伦特原油 3 月底一度到 118 美元左右
-* 8 月底，因为重新开放的希望，一度跌到 86 美元左右
-* 到 9 月，各机构对四季度油价的预测从 77 美元到 105 美元不等
+* 2 月底伊朗战争爆发，霍尔木兹海峡（Strait of Hormuz）关闭，布伦特原油从战前约 72 美元涨到 3 月接近 120 美元，4 月 30 日一度触及约 126 美元，是四年来最高
+* 6 月下旬美国和伊朗同意停止互相攻击后，一度回落到 70 美元出头，接近战前水平；8 月 26 日前后，因为海峡重新开放的希望，在 86 美元左右
+* 9 月冲突再度升级，布伦特重新涨破 100 美元，到 10 月 12 日仍在 103 美元左右。这说明油价可以在几个月里大起大落，9 月时各机构对四季度油价的预测从 77 美元到 105 美元不等，分歧很大
 
-天然气受的冲击更大。全球约 20% 的 LNG 要经过霍尔木兹海峡，卡塔尔的主要 LNG 设施在 3 月遭到无人机袭击停产，亚洲 LNG 价格在两天内翻倍。
+天然气受的冲击更大。全球约 20% 的 LNG 要经过霍尔木兹海峡，卡塔尔的主要 LNG 设施在 3 月遭到无人机袭击停产，亚洲 LNG 价格在几天内大幅跳涨。
 
 ### 2.3 利润现在在哪里
 
@@ -135,7 +136,7 @@
 新电厂要接入电网，得先排队等电网公司做研究、批准、升级线路。美国劳伦斯伯克利国家实验室的数据：
 * 到 2025 年底，排队中的发电和储能项目约 **2,061 GW**，比美国现有的全部装机容量还多
 * 2025 年建成的项目，从申请到投运的中位时间**超过 5 年**
-* 2000 到 2020 年申请的项目，只有 **13%** 最终建成，75% 退出了
+* 按容量计算，2000 到 2020 年申请并网的项目只有 **13%** 最终建成，75% 退出了
 * 2025 年新申请里，天然气项目增加了 86%，光伏、风电、储能都在减少
 
 ### 5.3 设备和人都不够
@@ -177,7 +178,7 @@
 
 | 谁 | 最头疼的事 |
 | :--- | :--- |
-| 电站开发商 | 并网（interconnection）要等五年以上，而且不知道最后要花多少钱升级电网；四分之三的项目最后放弃 |
+| 电站开发商 | 并网（interconnection）要等五年以上，而且不知道最后要花多少钱升级电网；按容量计，四分之三的申请最后退出 |
 | 电力公司 | 负荷预测失灵：同一个数据中心项目会同时向好几家电力公司申请，真假难辨；设备买不到；招不到人；监管机构不愿意批准涨价 |
 | 数据中心开发商 | "什么时候能通电"已经成为选址的第一标准；电工短缺 |
 | 居民和小企业 | 电费持续上涨，账单看不懂 |
@@ -228,7 +229,7 @@
 
 ## 8. 接下来值得关注的信号
 
-* PJM 下一次容量拍卖的结果，以及电价的政治反弹
+* PJM 下一次（针对 2029 到 2030 年）容量拍卖的结果，以及电价的政治反弹
 * FERC 关于大型负荷接入的正式规则
 * 霍尔木兹海峡能否完全重新开放
 * GE Vernova 的积压订单是否继续增长
@@ -272,3 +273,9 @@
 * [Hyperscale Power challenges transformer tech (TechCrunch)](https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/)
 * [Data center rush worsens shortages of grid workers (EnergyNow)](https://energynow.com/2026/05/data-center-rush-worsens-shortages-of-power-grid-workers/)
 * [Emerald AI and Nvidia fast pass for grid connections (Fortune)](https://fortune.com/2026/03/31/emerald-ai-nvidia-fast-pass-data-center-grid-connects/)
+* [PJM 2028/2029 Base Residual Auction results report (PJM, July 14 2026)](https://www.pjm.com/-/media/DotCom/markets-ops/rpm/rpm-auction-info/2028-2029/2028-2029-bra-results-report.pdf)
+* [PJM capacity auction clears at $325 cap, 6.8 GW short (RTO Insider, July 2026)](https://www.rtoinsider.com/136577-pjm-capacity-auction-clears-325-cap-short-reliability-requirement/)
+* [PJM capacity auction hits record high for third time (Utility Dive, December 2025)](https://www.utilitydive.com/news/pjm-interconnection-capacity-auction-data-center/808264/)
+* [Oil briefly touches $126, its highest price in four years (CNN, April 30 2026)](https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk)
+* [Oil prices after US and Iran halt strikes (CNBC, June 29 2026)](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html)
+* [Oil climbs as Iran conflict escalates (CNBC, September 10 2026)](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)

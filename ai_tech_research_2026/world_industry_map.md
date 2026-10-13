@@ -22,7 +22,7 @@
 
 | 产业 | 收入或规模 | 利润情况 |
 | :--- | :--- | :--- |
-| 全球航空公司 | 收入约 1 万亿美元 | 2026 年预计净利润（net income） 230 亿美元，利润率约 2%，**每位乘客只赚 4.5 美元** |
+| 全球航空公司 | 收入约 1.17 万亿美元 | 2026 年预计净利润（net income） 230 亿美元，利润率约 2%，**每位乘客只赚 4.5 美元** |
 | 全球银行业 | 收入 6.4 万亿美元（2025） | 净利润 1.3 万亿美元，是**所有行业里赚得最多的** |
 | 美国上市半导体公司 | | 净利润率（net margin）约 30% |
 | 美国上市软件公司 | | 净利润率约 25% |
@@ -67,7 +67,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 | :--- | :--- |
 | 技术 | AI 投资超级周期：四大科技巨头今年资本开支（capital expenditure, capex）约 7,300 亿美元 |
 | 政策 | 美国最高法院 2 月推翻了大部分关税（tariff）；7 月美国禁止外国新型号机器人和联网逆变器（inverter）进入 |
-| 地缘政治 | 伊朗战争导致霍尔木兹海峡（Strait of Hormuz）关闭，油价一度超过 110 美元 |
+| 地缘政治 | 伊朗战争导致霍尔木兹海峡（Strait of Hormuz）关闭，油价一度超过 120 美元 |
 | 人口 | 全球 80 岁以上人口将从 2019 年的 1.43 亿增长到 2050 年的 4.26 亿 |
 | 原材料和能源价格 | 铜价创历史新高，能源价格冲击航空、化工、物流 |
 
@@ -77,10 +77,10 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 
 ### 2.1 基本盘
 
-* **全球 GDP 约 123.6 万亿美元**（2026 年，名义值）
+* **全球 GDP 约 126 万亿美元**（2026 年，名义值，IMF 4 月预测）
 * **美国 32.4 万亿美元，占 25.6%；中国 20.8 万亿美元，占 16.5%**，两国合计超过四成。按购买力平价（purchasing power parity, PPP）算，中国已经超过美国
 * **增长**：IMF 7 月的预测是 2026 年增长 3.0%，2027 年 3.4%。IMF 的判断是：战争冲击压着能源进口国，而 AI 需求在拉动嵌入全球科技产业链（industry value chain）的国家
-* **最大的财富形式是房地产**：全球房地产总价值约 393 万亿美元（2025 年初），大约是全球 GDP 的 4 倍，超过全球股票、债券和黄金的总和
+* **最大的财富形式是房地产**：全球房地产总价值约 393 万亿美元（2025 年初），大约是全球 GDP 的 3 倍多，超过全球股票、债券和黄金的总和
 
 ### 2.2 全球市值最高的公司（2026 年 10 月初）
 
@@ -109,9 +109,9 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 
 ### 2.3 2026 年每个产业都感受到的七件大事
 
-1. **AI 投资超级周期**：全球 IT 支出 6.31 万亿美元，增长 13.5%；数据中心系统支出增长约 56%；四大科技巨头资本开支约 7,300 亿美元，其中六成以上花在电力、冷却和建设上，而不是芯片本身。瓶颈正在从芯片转向电力
-2. **伊朗战争和霍尔木兹海峡关闭**：2 月 28 日开始的军事冲突导致海峡关闭，布伦特原油 3 月底一度到 118 美元左右；集装箱运价翻倍；航空业利润预测被砍掉一半
-3. **贸易规则重写**：美国最高法院 2 月 20 日裁定总统无权依据 IEEPA 征收关税，美国平均关税从 15.3% 降到 8.3%，随后又被 10% 的全球关税部分替代。WTO 预计 2026 年全球货物贸易增长明显放缓
+1. **AI 投资超级周期**：全球 IT 支出 6.37 万亿美元，增长 14.2%；数据中心系统支出增长约 62%；四大科技巨头资本开支约 7,300 亿美元，其中大约六成花在芯片和服务器上，其余约四成用于厂房、电力、冷却和网络。瓶颈正在从芯片转向电力
+2. **伊朗战争和霍尔木兹海峡关闭**：2 月 28 日开始的军事冲突导致海峡关闭，布伦特原油从战前约 72 美元涨到 3 月接近 120 美元，4 月 30 日一度触及约 126 美元，是四年来最高；集装箱运价翻倍；航空业利润预测被砍掉一半
+3. **贸易规则重写**：美国最高法院 2 月 20 日裁定总统无权依据 IEEPA 征收关税，美国平均关税从 15.3% 降到 8.3%，随后先由依据 122 条款的 10% 全球临时关税替代；这项关税 7 月 24 日到期后，又换成对 60 个经济体征收 10% 或 12.5% 的 301 条款关税。WTO 10 月把 2026 年全球货物贸易增长预测从 3 月的 1.9% 上调到 3.9%，AI 相关需求抵消了战争冲击
 4. **中美技术脱钩（US China tech decoupling）加速**：美国 7 月禁止外国新型号的人形机器人（humanoid robot）、四足机器人和联网逆变器进入市场；此前已经限制了外国无人机
 5. **能源转型继续**：全球能源投资 3.4 万亿美元，其中清洁能源 2.2 万亿，化石能源 1.2 万亿；铜价创历史新高
 6. **军费（military spending）创纪录**：2025 年全球军费 2.89 万亿美元，连续 11 年增长，欧洲增长 14%
@@ -126,7 +126,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 | 产业 | 规模（约） | 利润水平 | 结构 | 2026 年最重要的变化 |
 | :--- | :--- | :--- | :--- | :--- |
 | 半导体 | 1.5 到 1.65 万亿美元 | 很高 | 高度集中 | AI 带动增长约 90%，存储芯片暴涨 |
-| 软件 | 1.44 万亿美元 | 很高 | 中等 | 从按人头收费（per seat pricing）转向按结果收费（outcome based pricing） |
+| 软件 | 1.47 万亿美元 | 很高 | 中等 | 从按人头收费（per seat pricing）转向按结果收费（outcome based pricing） |
 | IT 服务 | 1.87 万亿美元 | 中等 | 分散 | AI Agent 替代人工交付 |
 | 电信 | 2 到 3 万亿美元 | 中低 | 集中 | 增长停滞，卫星直连手机出现 |
 | 广告与游戏 | 广告 1.3 万亿，游戏 2,139 亿美元 | 平台很高 | 集中 | AI 搜索改变流量入口 |
@@ -136,7 +136,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 | 汽车 | 电动车 2,300 万辆以上 | 中低 | 中等 | 电动车占约 27%，中国主导 |
 | 建筑 | 13 到 17 万亿美元 | 低 | 极度分散 | 数据中心建设热潮，生产率长期停滞 |
 | 物流与贸易 | 电商 6.9 万亿美元 | 低 | 分散 | 航运受战争冲击，关税变化 |
-| 食品与农业 | 农业约 13.8 万亿美元 | 零售端很低 | 分散 | 食品进口账单创新高，减重药影响需求 |
+| 食品与农业 | 农业增加值约 4 到 5 万亿美元 | 零售端很低 | 分散 | 食品进口账单创新高，减重药影响需求 |
 | 国防 | 2.89 万亿美元 | 中等 | 集中 | 全球军费创纪录，无人机和自主系统 |
 | 医疗健康 | 全球约 10 万亿美元，美国 5.7 万亿 | 分化大 | 分散 | AI 文书普及，监管放松 |
 | 金融 | 银行收入 6.4 万亿美元 | 最高利润池 | 中等 | AI Agent 开始代人付款，保险排除 AI 风险 |
@@ -155,7 +155,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 **2. 软件**
 * **钱怎么流**：企业按用户数或用量付订阅费
 * **谁赚钱**：大平台（微软、甲骨文、Salesforce 等）和垂直行业的龙头，净利润率约 25%
-* **2026 年变化**：Gartner 预计软件支出 1.44 万亿美元，增长 15%。最大的变化是 AI Agent 让"按人头收费"失去意义：如果一个 Agent 能做 10 个人的工作，软件公司就不能再按 10 个账号收费，于是转向按结果收费
+* **2026 年变化**：Gartner 预计软件支出 1.47 万亿美元，增长约 15.5%。最大的变化是 AI Agent 让"按人头收费"失去意义：如果一个 Agent 能做 10 个人的工作，软件公司就不能再按 10 个账号收费，于是转向按结果收费
 * **对创业者**：这是 AI 创业最拥挤的地方，但垂直行业的 AI 软件和 Agent 基础设施仍有很多空白
 
 **3. IT 服务**
@@ -199,7 +199,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 **10. 建筑与房地产**
 * **钱怎么流**：开发商出钱，总包商组织施工，大量分包商干活；房地产的价值主要体现在资产上
 * **规模**：建筑业每年约 13 到 17 万亿美元，是全球最大的产业之一；房地产总价值约 393 万亿美元
-* **特点**：利润薄（美国上市工程建筑公司净利润率约 6%），极度分散，几十年来生产率几乎没有提高。2026 年最热的是数据中心建设，四大科技巨头的资本开支里，六成以上花在电力、冷却和建设上
+* **特点**：利润薄（美国上市工程建筑公司净利润率约 6%），极度分散，几十年来生产率几乎没有提高。2026 年最热的是数据中心建设，四大科技巨头的资本开支里，约四成花在厂房、电力、冷却和网络上
 * **对创业者**：审批、设计、施工检查、施工机器人。这是典型的"分散的大产业"，适合寻找小切口
 
 **11. 物流与贸易**
@@ -221,13 +221,13 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 
 **14. 医疗健康**
 * **钱怎么流**：这是最复杂的产业之一。病人、医生、医院、保险公司、药企、器械公司、政府之间互相付钱，用户和付款人往往不是同一个
-* **规模**：全球医疗支出约 10 万亿美元；美国一国 2026 年约 5.7 万亿美元，占 GDP 的近 20%；全球药品支出 2030 年预计超过 2.6 万亿美元
-* **2026 年变化**：减重药爆发；29% 的美国医生在用 AI 语音写病历；FDA 1 月放宽了对临床决策支持（clinical decision support）软件的监管；中国批准了全球首个商用脑机接口（brain computer interface, BCI）
+* **规模**：全球医疗支出约 10 万亿美元；美国一国 2026 年约 5.7 万亿美元以上，约占 GDP 的 18%；全球药品支出 2030 年预计超过 2.6 万亿美元
+* **2026 年变化**：减重药爆发；29% 的美国医生在用 AI 语音写病历；FDA 1 月放宽了对临床决策支持（clinical decision support）软件的监管；中国 3 月批准了全球首个上市的植入式（半侵入式）脑机接口（brain computer interface, BCI）
 * **对创业者**：行政流程自动化（医疗里大量钱花在了文书和理赔（claim）上）、医疗器械、远程监测。监管严，进入慢，但护城河（moat）也深
 
 **15. 金融**
 * **钱怎么流**：银行赚利差（interest rate spread）和手续费；支付公司按交易抽成；保险公司收保费（premium）、赔付，再用浮存金（float）投资
-* **规模**：银行业 2025 年收入 6.4 万亿美元，净利润 1.3 万亿美元，是全世界最大的利润池；全球保费约 9 万亿美元（根据瑞士再保险（reinsurance）的寿险占比推算）
+* **规模**：银行业 2025 年收入 6.4 万亿美元，净利润 1.3 万亿美元，是全世界最大的利润池；全球保费约 7 万亿美元（贝恩估计 2025 年约 7.1 万亿美元）
 * **2026 年变化**：AI Agent 开始代表用户付款，各家支付协议在竞争；美国保险业 1 月起把生成式 AI 造成的损失排除在标准商业保险（commercial insurance）之外，催生了专门的 AI 保险
 * **对创业者**：Agent 支付、AI 风险保险、中小企业金融。强监管，但利润池大
 
@@ -245,7 +245,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 
 **18. 旅游、航空与养老**
 * **旅游**：包括间接带动的经济在内，2026 年约 12 万亿美元，占全球 GDP 的近 10%，支撑 3.76 亿个工作岗位
-* **航空**：收入约 1 万亿美元，但因为战争和油价，2026 年利润预测从 410 亿美元砍到 230 亿美元，每位乘客只赚 4.5 美元。这是完全竞争的经典样本
+* **航空**：收入约 1.17 万亿美元，但因为战争和油价，2026 年利润预测从 410 亿美元砍到 230 亿美元，每位乘客只赚 4.5 美元。这是完全竞争的经典样本
 * **养老**：全球养老照护市场约 2 万亿美元。80 岁以上的人口会在 2050 年达到 4.26 亿，护工短缺是全球性问题，中国、日本、欧洲尤其严重
 * **对创业者**：养老是"需求确定、供给不足、技术渗透很低"的典型，照护协调、远程监测、护理机器人都是方向
 
@@ -327,10 +327,14 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 * [What the SCOTUS ruling on IEEPA means for US tariffs (Global Trade Alert)](https://globaltradealert.org/reports/SCOTUS-IEEPA-Tariff-Impact)
 * [Effective tariff rates and revenues, Sept 9 2026 (Penn Wharton Budget Model)](https://budgetmodel.wharton.upenn.edu/p/2026-09-09-effective-tariff-rates-and-revenues-updated-september-9-2026/)
 * [WTO Global Trade Outlook and Statistics, March 2026](https://www.wto.org/english/res_e/booksp_e/gtos0326_e.pdf)
+* [WTO raises 2026 global merchandise trade growth forecast to 3.9 pct (Xinhua, October 8 2026)](https://english.news.cn/europe/20261008/c17b9325e6d94b06848ccc2d2e89a20e/c.html)
+* [Oil briefly touches $126, its highest price in four years (CNN, April 30 2026)](https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk)
+* [World GDP breakdown 2026 by country, region and economic group (IMF April 2026 data)](https://indiamacroindicators.co.in/resources/blogs/world-gdp-breakdown-2026-by-country-region-economic-group)
 * [Operating and net margins by industry (Damodaran, NYU Stern)](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html)
 
 **数字与科技**
-* [Gartner forecasts worldwide IT spending to grow 13.5% in 2026 (Business Wire)](https://www.businesswire.com/news/home/20260422301495/en/Gartner-Forecasts-Worldwide-IT-Spending-to-Grow-13.5-in-2026-Totaling-$6.31-Trillion)
+* [Gartner forecasts worldwide IT spending to grow 14.2% in 2026, totaling $6.37 trillion (Gartner, July 27 2026)](https://www.gartner.com/en/newsroom/press-releases/2026-07-27-gartner-forecasts-worldwide-it-spending-to-grow-14-point-2-percent-in-2026-totaling-6-point-37-trillion)
+* [The $1 trillion AI infrastructure build: data centers, power and cooling in 2026 (ValueAdd VC)](https://valueaddvc.com/blog/the-1-trillion-ai-infrastructure-build-data-centers-power-and-cooling-in-2026)
 * [Global semiconductor market to hit $1.5 trillion in 2026 (DigiTimes)](https://www.digitimes.com/news/a20260605VL208/semiconductor-industry-wsts-growth-forecast-2026.html)
 * [WSTS recent news release](https://www.wsts.org/76/Recent-News-Release)
 * [How much are companies spending on AI in 2026 (ValueAdd VC)](https://valueaddvc.com/ai-spending)
@@ -356,6 +360,7 @@ Thiel 式的机会，常常出现在**分散的大产业里的一个小切口**�
 * [IQVIA: The outlook for obesity from 2026 to 2030](https://www.iqvia.com/locations/emea/blogs/2026/04/the-outlook-for-obesity-from-2026-to-2030)
 * [McKinsey Global Banking Annual Review 2026](https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review)
 * [Swiss Re sigma 2/2026: World insurance](https://www.swissre.com/dam/jcr:409c0f6b-ae4a-4de3-aec1-9864abb3fa62/2026-07-sri-world-insurance-sigma.2026-07-08-12-37-18.pdf)
+* [Bain Global Insurance Report 2026: strong 2025 momentum masks structural challenges (Bain)](https://www.bain.com/about/media-center/press-releases/2026/strong-2025-momentum-masks-structural-challenges-for-global-insurers-bain-company-global-insurance-report-2026/)
 * [HolonIQ 2026 Global Education Outlook](https://www.holoniq.com/notes/2026-global-education-outlook)
 * [Global legal services market (Mordor Intelligence)](https://www.mordorintelligence.com/industry-reports/legal-services-market)
 * [AI in accounting: 80 statistics for 2026 (CurateSuite)](https://curatesuite.com/accounting/articles/ai-accounting-statistics-2026)

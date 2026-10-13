@@ -22,7 +22,7 @@ A large industry is not necessarily a profitable one. Some 2026 comparisons:
 
 | Industry | Revenue or size | Profit |
 | :--- | :--- | :--- |
-| Global airlines | About 1 trillion dollars in revenue | Expected net income (净利润) of 23 billion dollars in 2026, a margin of about 2 percent, **only 4.50 dollars per passenger** |
+| Global airlines | About 1.17 trillion dollars in revenue | Expected net income (净利润) of 23 billion dollars in 2026, a margin of about 2 percent, **only 4.50 dollars per passenger** |
 | Global banking | 6.4 trillion dollars in revenue (2025) | 1.3 trillion dollars of net income, **the most of any industry** |
 | US listed semiconductor companies | | Net margin (净利润率) of about 30 percent |
 | US listed software companies | | Net margin of about 25 percent |
@@ -67,7 +67,7 @@ Industries usually change because of five forces. 2026 has a vivid example of ea
 | :--- | :--- |
 | Technology | The AI investment supercycle: the four largest tech giants will spend about 730 billion dollars in capital expenditure (资本开支) this year |
 | Policy | The US Supreme Court struck down most emergency tariffs (关税) in February; in July the US banned new models of foreign robots and connected inverters |
-| Geopolitics | The Iran war closed the Strait of Hormuz (霍尔木兹海峡), and oil briefly rose above 110 dollars |
+| Geopolitics | The Iran war closed the Strait of Hormuz (霍尔木兹海峡), and oil briefly rose above 120 dollars |
 | Demographics | The number of people aged 80 and over will grow from 143 million in 2019 to 426 million in 2050 |
 | Prices of materials and energy | Copper hit record highs; energy prices hit airlines, chemicals and logistics |
 
@@ -77,10 +77,10 @@ Industries usually change because of five forces. 2026 has a vivid example of ea
 
 ### 2.1 The Basics
 
-* **Global GDP is about 123.6 trillion dollars** (2026, nominal)
+* **Global GDP is about 126 trillion dollars** (2026, nominal, IMF April forecast)
 * **The US is 32.4 trillion dollars, or 25.6 percent; China is 20.8 trillion dollars, or 16.5 percent**, together more than 40 percent. By purchasing power parity (购买力平价), China is already larger than the US
 * **Growth**: the IMF's July forecast is 3.0 percent for 2026 and 3.4 percent for 2027. The IMF's view: the war shock is weighing on energy importers, while AI demand is lifting countries built into the global technology supply chain
-* **The largest store of wealth is real estate**: about 393 trillion dollars worldwide (early 2025), roughly four times global GDP and more than global stocks, bonds and gold combined
+* **The largest store of wealth is real estate**: about 393 trillion dollars worldwide (early 2025), a little over three times global GDP and more than global stocks, bonds and gold combined
 
 ### 2.2 The Most Valuable Companies (Early October 2026)
 
@@ -109,9 +109,9 @@ Market caps change every day, and different data sources use different dates. Th
 
 ### 2.3 Seven Events Every Industry Felt in 2026
 
-1. **The AI investment supercycle**: global IT spending reached 6.31 trillion dollars, up 13.5 percent; spending on data center systems grew about 56 percent; the four largest tech giants are spending about 730 billion dollars in capex, more than 60 percent of it on power, cooling and construction rather than chips. The bottleneck is shifting from chips to electricity
-2. **The Iran war and the closure of the Strait of Hormuz**: fighting that began February 28 closed the strait; Brent crude briefly hit about 118 dollars in late March; container shipping rates doubled; forecasts for airline profits were cut in half
-3. **Trade rules rewritten**: on February 20 the US Supreme Court ruled that the president had no authority to impose tariffs under IEEPA. The average US tariff fell from 15.3 percent to 8.3 percent, then was partly replaced by a 10 percent global tariff. The WTO expects global goods trade growth to slow sharply in 2026
+1. **The AI investment supercycle**: global IT spending reached 6.37 trillion dollars, up 14.2 percent; spending on data center systems grew about 62 percent; the four largest tech giants are spending about 730 billion dollars in capex, roughly 60 percent of it on chips and servers and the remaining 40 percent or so on buildings, power, cooling and networking. The bottleneck is shifting from chips to electricity
+2. **The Iran war and the closure of the Strait of Hormuz**: fighting that began February 28 closed the strait; Brent crude rose from about 72 dollars before the war to nearly 120 dollars in March, and briefly touched about 126 dollars on April 30, a four year high; container shipping rates doubled; forecasts for airline profits were cut in half
+3. **Trade rules rewritten**: on February 20 the US Supreme Court ruled that the president had no authority to impose tariffs under IEEPA. The average US tariff fell from 15.3 percent to 8.3 percent, then was first replaced by a temporary 10 percent global tariff under Section 122. When that expired on July 24, it was replaced by Section 301 tariffs of 10 or 12.5 percent on 60 economies. In October the WTO raised its forecast for 2026 global goods trade growth from 1.9 percent (in March) to 3.9 percent, as AI related demand offset the shock of the war
 4. **US China tech decoupling (中美技术脱钩) speeds up**: in July the US banned new models of foreign humanoid robots, quadruped robots and connected inverters; foreign drones had already been restricted
 5. **The energy transition continues**: global energy investment is 3.4 trillion dollars, with 2.2 trillion for clean energy and 1.2 trillion for fossil fuels; copper prices hit records
 6. **Record military spending (军费)**: 2.89 trillion dollars in 2025, the eleventh straight year of growth, with Europe up 14 percent
@@ -126,7 +126,7 @@ The summary table first, then a short profile of each.
 | Industry | Size (approx.) | Profitability | Structure | Most important change in 2026 |
 | :--- | :--- | :--- | :--- | :--- |
 | Semiconductors | 1.5 to 1.65 trillion dollars | Very high | Highly concentrated | AI drives about 90 percent growth; memory chips surge |
-| Software | 1.44 trillion dollars | Very high | Medium | Shifting from per seat pricing (按人头收费) to outcome based pricing (按结果收费) |
+| Software | 1.47 trillion dollars | Very high | Medium | Shifting from per seat pricing (按人头收费) to outcome based pricing (按结果收费) |
 | IT services | 1.87 trillion dollars | Medium | Fragmented | AI agents replace human delivery |
 | Telecom | 2 to 3 trillion dollars | Medium low | Concentrated | Stagnant growth; satellite to phone service appears |
 | Advertising and games | Ads 1.3 trillion, games 213.9 billion dollars | Very high for platforms | Concentrated | AI search changes where traffic comes from |
@@ -136,7 +136,7 @@ The summary table first, then a short profile of each.
 | Autos | Over 23 million EVs | Medium low | Medium | EVs about 27 percent of sales, led by China |
 | Construction | 13 to 17 trillion dollars | Low | Extremely fragmented | Data center building boom; productivity stagnant for decades |
 | Logistics and trade | Ecommerce 6.9 trillion dollars | Low | Fragmented | Shipping hit by war; tariffs change |
-| Food and agriculture | Agriculture about 13.8 trillion dollars | Very low at retail | Fragmented | Record food import bills; weight loss drugs reduce demand |
+| Food and agriculture | Agricultural value added about 4 to 5 trillion dollars | Very low at retail | Fragmented | Record food import bills; weight loss drugs reduce demand |
 | Defense | 2.89 trillion dollars | Medium | Concentrated | Record global military spending; drones and autonomous systems |
 | Healthcare | About 10 trillion dollars globally, 5.7 trillion in the US | Varies widely | Fragmented | AI documentation spreads; regulation loosens |
 | Finance | Bank revenue 6.4 trillion dollars | Largest profit pool | Medium | AI agents begin paying for people; insurers exclude AI risk |
@@ -155,7 +155,7 @@ The summary table first, then a short profile of each.
 **2. Software**
 * **How money flows**: companies pay subscriptions by number of users or by usage
 * **Who makes money**: large platforms (Microsoft, Oracle, Salesforce and others) and leaders in vertical industries, with net margins of about 25 percent
-* **What changed in 2026**: Gartner expects software spending of 1.44 trillion dollars, up 15 percent. The biggest change is that AI agents make "per seat pricing" meaningless: if one agent does the work of ten people, a software company cannot keep charging for ten accounts, so it shifts to charging by outcome
+* **What changed in 2026**: Gartner expects software spending of 1.47 trillion dollars, up about 15.5 percent. The biggest change is that AI agents make "per seat pricing" meaningless: if one agent does the work of ten people, a software company cannot keep charging for ten accounts, so it shifts to charging by outcome
 * **For founders**: this is the most crowded area for AI startups, but vertical AI software and agent infrastructure still have many gaps
 
 **3. IT Services**
@@ -199,7 +199,7 @@ The summary table first, then a short profile of each.
 **10. Construction and Real Estate**
 * **How money flows**: developers provide the money, general contractors organize the work, and many subcontractors do it; real estate value lives mainly in the assets
 * **Size**: construction is about 13 to 17 trillion dollars a year, one of the largest industries in the world; real estate is worth about 393 trillion dollars
-* **Characteristics**: thin profits (US listed engineering and construction firms have net margins of about 6 percent), extreme fragmentation, and almost no productivity growth for decades. The hottest segment in 2026 is data center construction; more than 60 percent of the four tech giants' capex goes to power, cooling and construction
+* **Characteristics**: thin profits (US listed engineering and construction firms have net margins of about 6 percent), extreme fragmentation, and almost no productivity growth for decades. The hottest segment in 2026 is data center construction; about 40 percent of the four tech giants' capex goes to buildings, power, cooling and networking
 * **For founders**: permitting, design, site inspection, construction robots. This is the classic "large fragmented industry," good for finding a narrow entry point
 
 **11. Logistics and Trade**
@@ -221,13 +221,13 @@ The summary table first, then a short profile of each.
 
 **14. Healthcare**
 * **How money flows**: one of the most complex industries. Patients, doctors, hospitals, insurers, drug makers, device makers and governments all pay each other, and the user and the payer are often different
-* **Size**: global health spending is about 10 trillion dollars; the US alone spends about 5.7 trillion dollars in 2026, nearly 20 percent of GDP; global drug spending is expected to exceed 2.6 trillion dollars by 2030
-* **What changed in 2026**: weight loss drugs took off; 29 percent of US doctors use AI to write notes from voice; in January the FDA loosened oversight of clinical decision support (临床决策支持) software; China approved the world's first commercial brain computer interface (脑机接口)
+* **Size**: global health spending is about 10 trillion dollars; the US alone spends more than 5.7 trillion dollars in 2026, about 18 percent of GDP; global drug spending is expected to exceed 2.6 trillion dollars by 2030
+* **What changed in 2026**: weight loss drugs took off; 29 percent of US doctors use AI to write notes from voice; in January the FDA loosened oversight of clinical decision support (临床决策支持) software; in March China approved the world's first implanted (semi invasive) brain computer interface (脑机接口) for the market
 * **For founders**: automating administrative work (a huge amount of money goes to paperwork and claims (理赔)), medical devices, remote monitoring. Regulation is strict and entry is slow, but the moat (护城河) is deep
 
 **15. Finance**
 * **How money flows**: banks earn the interest rate spread (利差) and fees; payment companies take a cut of each transaction; insurers collect premiums (保费), pay claims, and invest the float (浮存金)
-* **Size**: banking earned 6.4 trillion dollars of revenue and 1.3 trillion dollars of net income in 2025, the largest profit pool in the world; global insurance premiums are about 9 trillion dollars (estimated from the life insurance share reported by Swiss Re, a reinsurer (再保险))
+* **Size**: banking earned 6.4 trillion dollars of revenue and 1.3 trillion dollars of net income in 2025, the largest profit pool in the world; global insurance premiums are about 7 trillion dollars (Bain estimates about 7.1 trillion dollars for 2025)
 * **What changed in 2026**: AI agents began paying on behalf of users, and payment protocols are competing; from January, US insurers excluded losses caused by generative AI from standard commercial insurance (商业保险), creating a market for specialized AI insurance
 * **For founders**: agent payments, AI risk insurance, finance for small businesses. Heavily regulated, but the profit pool is large
 
@@ -245,7 +245,7 @@ The summary table first, then a short profile of each.
 
 **18. Travel, Aviation and Elder Care**
 * **Tourism**: including indirect effects, about 12 trillion dollars in 2026, nearly 10 percent of global GDP, supporting 376 million jobs
-* **Aviation**: about 1 trillion dollars in revenue, but because of the war and oil prices, the 2026 profit forecast was cut from 41 billion to 23 billion dollars, only 4.50 dollars per passenger. A textbook case of perfect competition
+* **Aviation**: about 1.17 trillion dollars in revenue, but because of the war and oil prices, the 2026 profit forecast was cut from 41 billion to 23 billion dollars, only 4.50 dollars per passenger. A textbook case of perfect competition
 * **Elder care**: the global elder care market is about 2 trillion dollars. People aged 80 and over will reach 426 million by 2050; caregiver shortages are global and especially severe in China, Japan and Europe
 * **For founders**: elder care is a classic case of "certain demand, short supply, little technology." Care coordination, remote monitoring and care robots are all directions
 
@@ -327,10 +327,14 @@ Each piece takes one industry apart:
 * [What the SCOTUS ruling on IEEPA means for US tariffs (Global Trade Alert)](https://globaltradealert.org/reports/SCOTUS-IEEPA-Tariff-Impact)
 * [Effective tariff rates and revenues, Sept 9 2026 (Penn Wharton Budget Model)](https://budgetmodel.wharton.upenn.edu/p/2026-09-09-effective-tariff-rates-and-revenues-updated-september-9-2026/)
 * [WTO Global Trade Outlook and Statistics, March 2026](https://www.wto.org/english/res_e/booksp_e/gtos0326_e.pdf)
+* [WTO raises 2026 global merchandise trade growth forecast to 3.9 pct (Xinhua, October 8 2026)](https://english.news.cn/europe/20261008/c17b9325e6d94b06848ccc2d2e89a20e/c.html)
+* [Oil briefly touches $126, its highest price in four years (CNN, April 30 2026)](https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk)
+* [World GDP breakdown 2026 by country, region and economic group (IMF April 2026 data)](https://indiamacroindicators.co.in/resources/blogs/world-gdp-breakdown-2026-by-country-region-economic-group)
 * [Operating and net margins by industry (Damodaran, NYU Stern)](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html)
 
 **Digital and Technology**
-* [Gartner forecasts worldwide IT spending to grow 13.5% in 2026 (Business Wire)](https://www.businesswire.com/news/home/20260422301495/en/Gartner-Forecasts-Worldwide-IT-Spending-to-Grow-13.5-in-2026-Totaling-$6.31-Trillion)
+* [Gartner forecasts worldwide IT spending to grow 14.2% in 2026, totaling $6.37 trillion (Gartner, July 27 2026)](https://www.gartner.com/en/newsroom/press-releases/2026-07-27-gartner-forecasts-worldwide-it-spending-to-grow-14-point-2-percent-in-2026-totaling-6-point-37-trillion)
+* [The $1 trillion AI infrastructure build: data centers, power and cooling in 2026 (ValueAdd VC)](https://valueaddvc.com/blog/the-1-trillion-ai-infrastructure-build-data-centers-power-and-cooling-in-2026)
 * [Global semiconductor market to hit $1.5 trillion in 2026 (DigiTimes)](https://www.digitimes.com/news/a20260605VL208/semiconductor-industry-wsts-growth-forecast-2026.html)
 * [WSTS recent news release](https://www.wsts.org/76/Recent-News-Release)
 * [How much are companies spending on AI in 2026 (ValueAdd VC)](https://valueaddvc.com/ai-spending)
@@ -356,6 +360,7 @@ Each piece takes one industry apart:
 * [IQVIA: The outlook for obesity from 2026 to 2030](https://www.iqvia.com/locations/emea/blogs/2026/04/the-outlook-for-obesity-from-2026-to-2030)
 * [McKinsey Global Banking Annual Review 2026](https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review)
 * [Swiss Re sigma 2/2026: World insurance](https://www.swissre.com/dam/jcr:409c0f6b-ae4a-4de3-aec1-9864abb3fa62/2026-07-sri-world-insurance-sigma.2026-07-08-12-37-18.pdf)
+* [Bain Global Insurance Report 2026: strong 2025 momentum masks structural challenges (Bain)](https://www.bain.com/about/media-center/press-releases/2026/strong-2025-momentum-masks-structural-challenges-for-global-insurers-bain-company-global-insurance-report-2026/)
 * [HolonIQ 2026 Global Education Outlook](https://www.holoniq.com/notes/2026-global-education-outlook)
 * [Global legal services market (Mordor Intelligence)](https://www.mordorintelligence.com/industry-reports/legal-services-market)
 * [AI in accounting: 80 statistics for 2026 (CurateSuite)](https://curatesuite.com/accounting/articles/ai-accounting-statistics-2026)

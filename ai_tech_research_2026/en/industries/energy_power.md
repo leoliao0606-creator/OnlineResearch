@@ -60,10 +60,11 @@ This is one of the core tensions in the US today:
 In many parts of the US, power plants bid to sell electricity in a wholesale market. Besides selling energy, there is another very important source of revenue called the "**capacity payment**": the grid operator holds auctions several years ahead and pays power plants to guarantee that they can generate when needed.
 
 The capacity auction (容量拍卖) run by PJM, the largest grid region in the US (covering Washington, Philadelphia, Chicago and more across 13 states), is a window into how this industry works:
-* The December 2025 auction for 2027 to 2028 cleared right at the price cap (333 dollars per megawatt (MW, 兆瓦) per day), for a record total cost of 16.4 billion dollars, the third auction in a row to hit the cap
-* Even so, it still came up about 6.5 gigawatts (GW, 吉瓦) short of the reliability requirement
+* The December 2025 auction for 2027 to 2028 cleared right at the price cap (333 dollars per megawatt (MW, 兆瓦) per day), for a record total cost of 16.4 billion dollars. It was the third record high price in a row and the second auction in a row to hit the cap
+* Even so, it still came up about 6.6 gigawatts (GW, 吉瓦) short of the reliability requirement
 * The market monitor estimates that about 6.3 to 6.5 billion dollars of that cost was driven by data centers
 * One NRDC projection is that if this trend continues, a typical household's monthly bill could rise by about 70 dollars by 2028
+* The 2028 to 2029 auction, announced on July 14, 2026, hit the cap again (the cap was lowered slightly to 325 dollars per MW per day), making it the third auction in a row at the cap. The shortfall widened to about 6.8 GW. PJM estimates that without the cap the price would have been about 555 dollars per MW per day
 
 **Model 3: Selling equipment and engineering**
 
@@ -76,11 +77,11 @@ Right now it is a seller's market. The clearest examples are gas turbines and tr
 ### 2.2 Oil and Gas: Price Decides Everything
 
 Profits at oil and gas companies depend mainly on oil prices, and oil prices depend mainly on geopolitics and OPEC+. 2026 is an extreme example:
-* The Iran war broke out in late February and the Strait of Hormuz (霍尔木兹海峡) closed; Brent crude briefly reached about 118 dollars in late March
-* In late August, on hopes of a reopening, it briefly fell to about 86 dollars
-* By September, forecasts for fourth quarter oil prices from various institutions ranged from 77 to 105 dollars
+* The Iran war broke out in late February and the Strait of Hormuz (霍尔木兹海峡) closed; Brent crude rose from about 72 dollars before the war to nearly 120 dollars in March, and briefly touched about 126 dollars on April 30, a four year high
+* In late June, after the US and Iran agreed to stop attacking each other, it fell back to the low 70s, close to its prewar level; around August 26, on hopes that the strait would reopen, it was about 86 dollars
+* In September the conflict escalated again and Brent climbed back above 100 dollars; on October 12 it was still around 103 dollars. Oil prices can swing wildly within a few months: in September, forecasts from various institutions for fourth quarter prices ranged from 77 to 105 dollars, a very wide spread
 
-Natural gas took an even bigger hit. About 20 percent of the world's LNG passes through the Strait of Hormuz. Qatar's main LNG facilities were knocked offline by drone attacks in March, and Asian LNG prices doubled within two days.
+Natural gas took an even bigger hit. About 20 percent of the world's LNG passes through the Strait of Hormuz. Qatar's main LNG facilities were knocked offline by drone attacks in March, and Asian LNG prices jumped sharply within days.
 
 ### 2.3 Where the Profits Are Now
 
@@ -137,7 +138,7 @@ For more than a decade, electricity consumption in developed countries was essen
 Before a new power plant can connect to the grid, a step called interconnection (并网), it has to wait in line while the grid company studies the project, approves it and upgrades the lines. Data from Lawrence Berkeley National Laboratory:
 * By the end of 2025, about **2,061 GW** of generation and storage projects were in the queue, more than the entire installed capacity of the US
 * For projects completed in 2025, the median time from application to commercial operation was **more than 5 years**
-* Of the projects that applied from 2000 to 2020, only **13 percent** were eventually built, and 75 percent withdrew
+* Measured by capacity, only **13 percent** of the projects that applied to connect from 2000 to 2020 were eventually built, and 75 percent withdrew
 * Among new applications in 2025, natural gas projects rose 86 percent, while solar, wind and storage all declined
 
 ### 5.3 Not Enough Equipment, Not Enough People
@@ -179,7 +180,7 @@ The following is compiled from industry reporting, not from interviews I conduct
 
 | Who | Biggest headache |
 | :--- | :--- |
-| Power plant developers | Interconnection takes more than five years, and they do not know how much they will end up paying for grid upgrades; three quarters of projects are eventually abandoned |
+| Power plant developers | Interconnection takes more than five years, and they do not know how much they will end up paying for grid upgrades; measured by capacity, three quarters of applications are eventually withdrawn |
 | Utilities | Load forecasting has broken down: the same data center project applies to several utilities at once, so it is hard to tell real projects from phantom ones; equipment cannot be bought; workers cannot be hired; regulators are reluctant to approve rate increases |
 | Data center developers | "When can we get power?" has become the first criterion for choosing a site; electricians are in short supply |
 | Households and small businesses | Electricity bills keep rising, and the bills are hard to understand |
@@ -230,7 +231,7 @@ The following is compiled from industry reporting, not from interviews I conduct
 
 ## 8. Signals to Watch Next
 
-* The result of PJM's next capacity auction, and the political backlash over electricity prices
+* The result of PJM's next capacity auction (for 2029 to 2030), and the political backlash over electricity prices
 * FERC's formal rule on connecting large loads
 * Whether the Strait of Hormuz fully reopens
 * Whether GE Vernova's backlog keeps growing
@@ -274,3 +275,9 @@ The following is compiled from industry reporting, not from interviews I conduct
 * [Hyperscale Power challenges transformer tech (TechCrunch)](https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/)
 * [Data center rush worsens shortages of grid workers (EnergyNow)](https://energynow.com/2026/05/data-center-rush-worsens-shortages-of-power-grid-workers/)
 * [Emerald AI and Nvidia fast pass for grid connections (Fortune)](https://fortune.com/2026/03/31/emerald-ai-nvidia-fast-pass-data-center-grid-connects/)
+* [PJM 2028/2029 Base Residual Auction results report (PJM, July 14 2026)](https://www.pjm.com/-/media/DotCom/markets-ops/rpm/rpm-auction-info/2028-2029/2028-2029-bra-results-report.pdf)
+* [PJM capacity auction clears at $325 cap, 6.8 GW short (RTO Insider, July 2026)](https://www.rtoinsider.com/136577-pjm-capacity-auction-clears-325-cap-short-reliability-requirement/)
+* [PJM capacity auction hits record high for third time (Utility Dive, December 2025)](https://www.utilitydive.com/news/pjm-interconnection-capacity-auction-data-center/808264/)
+* [Oil briefly touches $126, its highest price in four years (CNN, April 30 2026)](https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk)
+* [Oil prices after US and Iran halt strikes (CNBC, June 29 2026)](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html)
+* [Oil climbs as Iran conflict escalates (CNBC, September 10 2026)](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)
