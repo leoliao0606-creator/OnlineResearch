@@ -75,14 +75,14 @@
 | 保险公司 | 赚的是保费和赔付之间的差。UnitedHealth 2026 年二季度把 86.7% 的保费用于医疗支出，其余用于运营和利润；它同时拥有 Optum（诊所、PBM、数据），是一家高度纵向整合（vertical integration）的公司 |
 | 药企 | 创新药利润很高。礼来因为减重药（weight loss drugs）成为全球第一家市值（market cap）过万亿美元的药企 |
 | PBM | 作为中间商控制约 80% 的处方，2026 年成为改革的重点对象 |
-| 信息系统 | Epic 是私有公司，但在美国医院里接近垄断（monopoly），掌握着医生每天的工作流 |
+| 信息系统 | Epic 是私有公司，是美国医院电子病历的最大供应商，约占 44%，客户极少流失，掌握着医生每天的工作流 |
 
 ### 2.4 中国的情况
 
 * 2024 年中国卫生总费用约 9.09 万亿元，约占 GDP 的 6.7%；基本医保（含生育保险）基金支出 2024 年约 2.98 万亿元，2025 年首次超过 3 万亿元（约 3.01 万亿元）
 * 公立医院占主导，医疗服务价格由政府定
 * **集中带量采购（集采）**：国家医保局把同类药品、耗材集中招标，中标价格往往大幅下降。这让仿制药企业的利润被大幅压缩，迫使药企转向创新药
-* **按病种付费（DRG/DIP）**：医保不再按项目报销，而是按疾病组给医院一个固定金额，医院花多了自己承担。到 2024 年已覆盖所有统筹地区，占住院医保基金支出的 80% 以上。很多医院的收入只能勉强覆盖支出
+* **按病种付费（DRG/DIP）**：医保不再按项目报销，而是按疾病组给医院一个固定金额，医院花多了自己承担。到 2025 年，按病种付费已基本覆盖符合条件的统筹地区和医疗机构，按病种付费的人次占医保出院总人次的 91.8%；2026 年 9 月发布的 3.0 版分组方案要求 2027 年 3 月底前落地。很多医院的收入只能勉强覆盖支出
 * **创新药出海**：2026 年上半年，中国创新药对外授权（out licensing）交易总额约 1,000 亿到 1,100 亿美元，创纪录，已达 2025 年全年的约 80%；全球前十大对外授权交易里有 8 笔来自中国公司
 
 ---
@@ -95,7 +95,7 @@
 | 保险 | | UnitedHealth、Elevance、Cigna、Aetna、Humana | 国家医保为主，商业保险为补充 |
 | 医院 | | HCA、凯撒医疗、各大学医疗中心 | 公立三甲医院 |
 | 器械 | 西门子医疗、飞利浦 | 美敦力、雅培、直觉外科、GE 医疗 | 迈瑞、联影 |
-| 医疗信息与 AI | | Epic、Oracle Health；AI 公司 OpenEvidence（估值（valuation） 120 亿美元）、Abridge（约 53 亿美元）、Hippocratic AI（35 亿美元） | |
+| 医疗信息与 AI | | Epic、Oracle Health；AI 公司 OpenEvidence（估值（valuation） 150 亿美元，2026 年 9 月）、Abridge（约 53 亿美元）、Hippocratic AI（35 亿美元） | |
 
 ---
 
@@ -107,7 +107,7 @@
 | 1983 | Medicare 改为按诊断分组付费（DRG），按病种给医院固定金额 | 控制成本的医院 | 住院天数长、效率低的医院。中国今天推行的 DRG 正是借鉴了这一模式 |
 | 1990 年代 | 管理式医疗（HMO）兴起，保险公司开始控制医生能做什么 | 保险公司 | 医生的自主权；后来引发了公众反弹 |
 | 2003（2006 年生效） | 美国通过《医疗保险现代化法案》，Medicare 从 2006 年 1 月起覆盖处方药（Part D） | PBM 迅速壮大 | |
-| 2009 | 美国政府拿出数百亿美元补贴医院采用电子病历 | **Epic**，借此在美国医院里接近垄断 | 医生：文书负担大增，成为今天职业倦怠的主要原因之一 |
+| 2009 | 美国政府拿出数百亿美元补贴医院采用电子病历 | **Epic**，借此成为美国医院电子病历的最大供应商（约 44% 的医院） | 医生：文书负担大增，成为今天职业倦怠的主要原因之一 |
 | 2010 | 《平价医疗法案》（ACA），建立保险交易所，扩大 Medicaid | 新增的数千万参保人；大型保险公司借机纵向整合 | |
 | 2018 | 中国成立国家医保局，推行集采 | 患者，药价大幅下降 | 仿制药企业 |
 | 2020 | 新冠疫情 | 远程医疗、mRNA 疫苗企业 | |
@@ -125,33 +125,33 @@
 
 ### 5.1 美国：参保人群在缩小
 
-* **ACA 增强补贴在 2025 年底到期**：2026 年开放注册的人数为 2,310 万，比 2025 年少 4.9%；但 KFF 预计实际缴费的人数会下降约 21.5%，降到 1,750 万左右。平均每位参保人的保费翻了一倍多；约 9% 的去年参保人已经完全没有保险
-* **Medicaid 削减**：《大而美法案》规定从 2027 年 1 月起实行工作要求，2026 年底起每半年重新审核一次资格。一家咨询公司估计将有 780 万人失去 Medicaid；CBO 估计到 2034 年未参保人数将增加约 1,000 万
-* **对医院的影响**：坏账（bad debt）和慈善医疗（charity care）在增加；有 432 家农村医院面临关闭风险；法案也设立了 500 亿美元的农村医疗转型基金
+* **ACA 增强补贴在 2025 年底到期**：2026 年开放注册的人数为 2,310 万，比 2025 年少 4.9%；但 CMS 数据显示，2026 年 2 月实际缴费生效的人数为 1,920 万，比 2025 年的 2,180 万少约 12%（KFF 此前预计会降到 1,750 万左右）。参保人平均每月实付保费从 113 美元涨到 178 美元，涨了约 58%（KFF 此前预计会翻一倍多，很多人改买了起付额更高的铜级计划）；约 9% 的去年参保人已经完全没有保险
+* **Medicaid 削减**：《大而美法案》规定从 2027 年 1 月起实行工作要求，2026 年底起每半年重新审核一次资格。美国国会预算办公室（CBO）估计，到 2034 年这部法律将使未参保人数增加约 1,000 万，其中约 750 万来自 Medicaid 条款
+* **对医院的影响**：坏账（bad debt）和慈善医疗（charity care）在增加；有 417 家农村医院面临关闭风险（Chartis，2026 年 2 月）；法案也设立了 500 亿美元的农村医疗转型基金
 
 ### 5.2 AI 进入核心工作流
 
 * 29% 的美国医生在用 AI 语音写病历
-* Epic 在 2026 年 3 月推出三个 AI Agent：Art 负责写病历和临床支持，Penny 负责计费、预授权和申诉，Emmie 负责回答患者问题和预约。Epic 说 85% 以上的客户已经在用它的 AI 工具（这些数字多来自 Epic 及其合作方）
+* Epic 在 2025 年 8 月的用户大会上发布了三个 AI 助手：Art 负责写病历和临床支持，Penny 负责编码、计费和申诉，Emmie 负责回答患者问题和预约；2026 年 3 月又推出让医院自建 Agent 的平台 Agent Factory。Epic 在 2026 年 8 月说 85% 以上的客户已经在用它的 AI 工具（这些数字多来自 Epic 及其合作方）
 * FDA 1 月放宽了对临床决策支持（clinical decision support）软件的监管；已授权的 AI 医疗器械超过 1,600 个
-* 医疗 AI 公司估值很高：OpenEvidence 120 亿美元，Abridge 约 53 亿美元
+* 医疗 AI 公司估值很高：OpenEvidence 150 亿美元（2026 年 9 月），Abridge 约 53 亿美元
 
 ### 5.3 预授权变成"AI 对 AI"
 
-* 2026 年 1 月起，CMS 在亚利桑那、新泽西、俄亥俄、俄克拉何马、德克萨斯、华盛顿六个州，对传统 Medicare 的 15 类服务试行由私营科技公司用 AI 做预授权审核（WISeR 模型），而这些公司可以**从被拒绝的服务节省下来的钱里分成**。这引发了很大争议
+* 2026 年 1 月起，CMS 在亚利桑那、新泽西、俄亥俄、俄克拉何马、德克萨斯、华盛顿六个州，对传统 Medicare 的约 17 类服务试行由私营科技公司用 AI 做预授权审核（WISeR 模型），而这些公司可以**从被拒绝的服务节省下来的钱里分成**。这引发了很大争议
 * 讽刺的是，CMS 宣布这个模型，是在各大保险公司公开承诺减少预授权的四天之后（2025 年 6 月）
 * 与此同时，医院一方在用 Epic 的 Penny 等工具自动写申诉。一边用 AI 拒，一边用 AI 申诉
 
 ### 5.4 药价政治
 
 * **GLP 1 最惠国（most favored nation, MFN）价格协议**（2025 年 11 月）：礼来和诺和诺德同意，Medicare 和 Medicaid 支付的价格降到每月 245 美元，Medicare 患者每月自付 50 美元，Medicare 首次覆盖肥胖症用药
-* **TrumpRx**：政府推出的药品直购网站，减重药现金价格每月约 149 到 350 美元
-* **PBM 改革**：2026 年 2 月签署的法律要求 PBM 把回扣全部转给客户，禁止在 Medicare 处方药计划里赚差价，并把 PBM 的收费和药品标价脱钩；联邦贸易委员会先后和 Express Scripts、CVS Caremark 达成和解，Optum Rx 也在转向按服务收费
+* **TrumpRx**：政府推出的药品直购网站，减重药现金价格每月约 149 到 449 美元（按药品和剂量不同）
+* **PBM 改革**：2026 年 2 月签署的法律要求 PBM 把回扣全部转给雇主健康计划，并从 2028 年起在 Medicare 处方药计划里把 PBM 的收费和药品标价、回扣脱钩，改为固定服务费，从而杜绝赚差价；联邦贸易委员会先后和 Express Scripts、CVS Caremark 达成和解，Optum Rx 也在转向按服务收费
 
 ### 5.5 保险公司在收缩
 
 * UnitedHealth 2026 年主动退出不赚钱的 Medicare Advantage 计划，预计会员减少约 110 万
-* 商业保险的医疗成本增速超过 11%
+* UnitedHealth 商业保险业务的医疗成本增速超过 11%；行业整体看，PwC 预计 2027 年团体医疗成本增速约 9%，为 17 年来最高
 
 ### 5.6 人手不够
 
@@ -162,8 +162,8 @@
 
 * 创新药对外授权创纪录，中国正在成为全球新药研发的重要来源
 * DRG/DIP 全面铺开，集采继续，医院的成本压力很大
-* 全球首个商用脑机接口（brain computer interface, BCI）获批，脑机接口有了医保收费项目
-* 司美格鲁肽专利到期，国产仿制药即将上市
+* 2026 年 3 月，博睿康的 NEO 获批上市，成为全球首个获批上市的植入式脑机接口（brain computer interface, BCI），属于半侵入式；国家医保局已为脑机接口设立医疗服务价格项目
+* 司美格鲁肽核心专利已于 2026 年 3 月 20 日到期，但受数据保护（data protection）影响，国产仿制药预计最早要到 2027 年 4 月以后才能获批上市
 
 ---
 
@@ -176,7 +176,7 @@
 | 医生 | 写病历占用大量时间，被预授权卡住，职业倦怠 |
 | 医院财务部门 | 拒付和申诉；没有保险的病人越来越多，坏账上升；利润率只有约 2% 到 3% |
 | 保险公司 | 医疗使用量和成本持续上涨，减重药的费用压力 |
-| 患者 | ACA 参保人的保费翻倍，平均起付额（deductible）创纪录（约 3,786 美元），账单看不懂，约不上医生 |
+| 患者 | ACA 参保人的实付保费平均上涨近六成，平均起付额（deductible）创纪录（约 3,786 美元），账单看不懂，约不上医生 |
 | 药企 | 药价被压，被 PBM 这样的中间商分走利润 |
 | 中国医院 | 按病种付费的预算压力，集采降价，医生工作量大 |
 
@@ -194,7 +194,7 @@
 | 减重药伴随服务 | Medicare 开始覆盖，TrumpRx 降价 | 大平台推出同类服务 |
 | 现金支付患者的药价和服务比价 | 现金价格越来越多，越来越透明 | 政府网站和保险公司自己做好了 |
 
-### 7.2 第二类：可能长出垄断的方向
+### 7.2 第二类：可能长出垄断（monopoly）的方向
 
 **1. 机器对机器的理赔基础设施**
 * **秘密**：预授权和理赔正在从"人对人"变成"Agent 对 Agent"。医院这边有 Epic 的 Penny，保险和政府那边有 AI 审核公司。当双方都是机器时，需要一个中立的协议、一套可审计的记录，以及一个大家都认可的"规则引擎"。谁成为这一层的标准，谁就站在了每年数万亿美元资金流动的中间
@@ -254,9 +254,9 @@
 * [How the OBBBA undermines healthcare (Chartis)](https://www.chartis.com/insights/how-obbba-undermines-healthcare-and-harms-america)
 * [Examining the potential impact of Medicare's WISeR model (KFF)](https://www.kff.org/medicare/examining-the-potential-impact-of-medicares-new-wiser-model/)
 * [CMS launches WISeR model (DLA Piper)](https://www.dlapiper.com/en/insights/publications/2026/01/cms-wiser-model)
-* [Epic unveils AI agents (Healthcare IT News)](https://www.healthcareitnews.com/news/epic-unveils-ai-agents-showcases-new-foundational-models)
+* [Epic unveils AI agents, showcases new foundational models (Healthcare IT News, August 2025)](https://www.healthcareitnews.com/news/epic-unveils-ai-agents-showcases-new-foundational-models)
 * [Epic is letting health systems build their own agents (MedCity News)](https://medcitynews.com/2026/03/epic-hospital-ai-agent/)
-* [OpenEvidence raises $250M at $12B valuation (SiliconANGLE)](https://siliconangle.com/2026/01/21/healthcare-ai-startup-openevidence-raises-250m-12b-valuation/)
+* [OpenEvidence confirms it has raised an additional $250 million at a $15 billion valuation (Forbes, September 30 2026)](https://www.forbes.com/sites/saibala/2026/09/30/openevidence-confirms-it-has-raised-an-additional-250-million-at-a-15-billion-valuation/)
 * [Trump announces deals with Lilly, Novo to cut weight loss drug prices (AJMC)](https://www.ajmc.com/view/trump-announces-deals-with-eli-lilly-novo-nordisk-for-lower-weight-loss-drug-prices)
 * [PBM reforms signed into law (AJMC)](https://www.ajmc.com/view/pbm-reforms-signed-into-law-reshaping-medicare-part-d-drug-pricing-transparency)
 * [Congress has more work to do before PBM reform reaches consumers (ProMarket)](https://www.promarket.org/2026/10/06/congress-has-more-work-to-do-before-pbm-reform-reaches-consumers/)
@@ -272,3 +272,13 @@
 * [KLAS 2026 EHR market share report (HIT Consultant, May 14 2026)](https://hitconsultant.net/2026/05/14/klas-2026-ehr-market-share-report/)
 * [2024 China health statistical bulletin (Xinhua, December 2 2025)](https://www.news.cn/politics/20251202/c879035250804e9995ccb8d284656f67/c.html)
 * [2025 national healthcare security statistical bulletin (NHSA, July 16 2026)](https://www.nhsa.gov.cn/art/2026/7/16/art_7_21451.html)
+* [Epic AI at HIMSS 2026: Agent Factory and Curiosity foundation models (HIT Consultant, March 10 2026)](https://hitconsultant.net/2026/03/10/epic-ai-himss-2026-agent-factory-curiosity-foundation-models/)
+* [NHSA press conference on DRG/DIP 3.0 (Xinhua, September 7 2026)](https://www.news.cn/fortune/20260907/c15f9a76f9454934aaff69b95c3368bf/c.html)
+* [New CBO health coverage estimates of budget reconciliation law (Georgetown CCF, August 14 2025)](https://ccf.georgetown.edu/2025/08/14/new-cbo-health-coverage-estimates-of-budget-reconciliation-law/)
+* [ACA exchange enrollment in 2026 (HHS ASPE, June 26 2026)](https://aspe.hhs.gov/reports/aca-exchange-enrollment-2026)
+* [The average marketplace deductible grew by about $1,000 per person in 2026 (KFF, May 19 2026)](https://www.kff.org/affordable-care-act/the-average-marketplace-deductible-grew-by-about-1000-per-person-in-2026-with-more-enrollees-shifting-to-higher-deductible-plans-as-enhanced-tax-credits-expired/)
+* [417 rural hospitals at risk of closing (Fierce Healthcare, February 2026)](https://www.fiercehealthcare.com/providers/417-rural-hospitals-risk-closing-rural-health-transformation-funds-may-be-too-late)
+* [Prior authorization coming to traditional Medicare (Kiplinger)](https://www.kiplinger.com/retirement/medicare/prior-authorization-coming-to-traditional-medicare)
+* [What to know about pharmacy benefit managers and federal efforts at regulation (KFF)](https://www.kff.org/other-health/what-to-know-about-pharmacy-benefit-managers-pbms-and-federal-efforts-at-regulation/)
+* [China grants world's first market approval for invasive BCI product (Macau Business)](https://macaubusiness.com/china-grants-worlds-first-market-approval-for-invasive-bci-product/)
+* [Semaglutide generics in China and data protection (Sina Finance, June 16 2026)](https://finance.sina.com.cn/cj/2026-06-16/doc-inicrivm7529202.shtml)

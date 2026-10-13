@@ -155,7 +155,7 @@
 ### 方向 6：神经康复，非侵入脑机接口（brain computer interface, BCI）加 AI 加家庭康复
 
 **发生了什么**
-* 中国在 2026 年 3 月批准了全球第一个商用脑机接口（博睿康 NEO）；截至 6 月已批准 5 个脑机接口产品，其中 3 个是非侵入式脑电康复系统
+* 中国在 2026 年 3 月批准博睿康 NEO 上市，这是全球第一个获批上市的植入式脑机接口；截至 6 月已批准 5 个脑机接口产品，其中 3 个是非侵入式脑电康复系统
 * 中国注册的脑机接口研究里，79.1% 是非侵入式，其中中风康复占 65%
 * 医保已经设立了脑机接口的收费项目：非侵入式适配费最高约 966 元每次，侵入式植入费约 6,000 到 6,600 元
 * 脑机接口被列入"十五五"规划的六大未来产业；5 月 1 日起的新规让医院主导的早期临床研究更好开展
@@ -353,6 +353,7 @@
 * [Digital provenance explained (Devoteam)](https://www.devoteam.com/expert-view/digital-provenance-explained/)
 * [脑机接口收费标准来了（新浪财经）](https://finance.sina.com.cn/roll/2026-04-23/doc-inhvnnwy4995730.shtml)
 * [国家医保局新设脑机接口相关价格项目（新华网）](https://www.news.cn/politics/20250312/fe2136ab44e84620b9e93c35de17822b/c.html)
+* [China grants world's first market approval for invasive BCI product (Macau Business)](https://macaubusiness.com/china-grants-worlds-first-market-approval-for-invasive-bci-product/)
 * [Emerald AI and Nvidia fast pass for data center grid connects (Fortune)](https://fortune.com/2026/03/31/emerald-ai-nvidia-fast-pass-data-center-grid-connects/)
 * [Emerald AI, Google and NVIDIA launch grid flexible alliance (DataCenter News)](https://datacenter.news/story/emerald-ai-google-nvidia-launch-grid-flexible-alliance)
 * [从开飞机到管天空：2026 年低空智联网的基建攻坚战](https://yuanxiangsky.com/N/752.html)

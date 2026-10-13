@@ -157,7 +157,7 @@ One overall observation first: **in the past six months, capital outside China h
 ### Direction 6: Neurorehabilitation: Noninvasive Brain Computer Interfaces plus AI plus Home Therapy
 
 **What changed**
-* In March 2026, China approved the world's first commercial brain computer interface (脑机接口), Neuracle's NEO; by June, China had approved five BCI products, three of them noninvasive EEG rehabilitation systems
+* In March 2026, China approved Neuracle's NEO, the world's first implantable brain computer interface (脑机接口) to win market approval; by June, China had approved five BCI products, three of them noninvasive EEG rehabilitation systems
 * Of China's registered BCI studies, 79.1 percent are noninvasive, and stroke rehabilitation accounts for 65 percent of them
 * China's national medical insurance has created billing items for BCI: a noninvasive fitting fee of up to about 966 yuan per session, and an invasive implantation fee of about 6,000 to 6,600 yuan
 * BCI is one of six "future industries" in China's 15th Five Year Plan; new rules effective May 1 make it easier for hospitals to lead early clinical research
@@ -355,6 +355,7 @@ If you catch yourself proving there is no competition by saying "we are the only
 * [Digital provenance explained (Devoteam)](https://www.devoteam.com/expert-view/digital-provenance-explained/)
 * [BCI pricing standards announced (Sina Finance, in Chinese)](https://finance.sina.com.cn/roll/2026-04-23/doc-inhvnnwy4995730.shtml)
 * [National Healthcare Security Administration creates BCI pricing items (Xinhua, in Chinese)](https://www.news.cn/politics/20250312/fe2136ab44e84620b9e93c35de17822b/c.html)
+* [China grants world's first market approval for invasive BCI product (Macau Business)](https://macaubusiness.com/china-grants-worlds-first-market-approval-for-invasive-bci-product/)
 * [Emerald AI and Nvidia fast pass for data center grid connects (Fortune)](https://fortune.com/2026/03/31/emerald-ai-nvidia-fast-pass-data-center-grid-connects/)
 * [Emerald AI, Google and NVIDIA launch grid flexible alliance (DataCenter News)](https://datacenter.news/story/emerald-ai-google-nvidia-launch-grid-flexible-alliance)
 * [From flying aircraft to managing the sky: building low altitude networks in 2026 (in Chinese)](https://yuanxiangsky.com/N/752.html)

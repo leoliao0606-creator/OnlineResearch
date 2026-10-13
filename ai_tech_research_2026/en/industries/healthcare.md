@@ -77,14 +77,14 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 | Insurers | They earn the gap between premiums and medical payouts. In the second quarter of 2026 UnitedHealth spent 86.7 percent of premiums on medical costs (its medical care ratio, 医疗赔付率), with the rest going to operations and profit. It also owns Optum (clinics, a PBM, data), which makes it a highly vertically integrated (纵向整合) company |
 | Drug makers | Innovative drugs are very profitable. Thanks to its weight loss drugs (减重药), Eli Lilly became the world's first drug company with a market cap (市值) above 1 trillion dollars |
 | PBMs | As middlemen controlling about 80 percent of prescriptions, they became a main target of reform in 2026 |
-| Information systems | Epic is privately held but is close to a monopoly (垄断) in US hospitals, and it controls doctors' daily workflow (工作流) |
+| Information systems | Epic is privately held and is the largest supplier of hospital EHRs in the US, with about 44 percent of hospitals; its customers rarely leave, and it controls doctors' daily workflow (工作流) |
 
 ### 2.4 China
 
 * China's total health expenditure in 2024 was about 9.09 trillion yuan, or about 6.7 percent of GDP. Spending by the basic medical insurance fund (including maternity insurance) was about 2.98 trillion yuan in 2024 and passed 3 trillion yuan for the first time in 2025 (about 3.01 trillion yuan)
 * Public hospitals dominate, and the government sets the prices of medical services
 * **Volume based procurement (VBP, 集中带量采购, or 集采 for short)**: the National Healthcare Security Administration pools purchases of similar drugs and consumables into centralized tenders, and winning bid prices often fall sharply. This has squeezed the profits of generic drug makers and pushed drug companies toward innovative drugs
-* **Payment by disease group (DRG/DIP, 按病种付费)**: medical insurance no longer reimburses item by item. Instead it pays the hospital a fixed amount for each disease group, and the hospital absorbs any overspending. By 2024 this covered all pooling regions (统筹地区) and more than 80 percent of the insurance fund's inpatient spending. At many hospitals, revenue barely covers costs
+* **Payment by disease group (DRG/DIP, 按病种付费)**: medical insurance no longer reimburses item by item. Instead it pays the hospital a fixed amount for each disease group, and the hospital absorbs any overspending. By 2025, payment by disease group basically covered all eligible pooling regions (统筹地区) and medical institutions, and cases paid this way made up 91.8 percent of all insured hospital discharges; version 3.0 of the grouping scheme, released in September 2026, must be in place by the end of March 2027. At many hospitals, revenue barely covers costs
 * **Innovative drugs going global**: in the first half of 2026, the total value of out licensing (对外授权) deals for Chinese innovative drugs was about 100 to 110 billion dollars, a record, already about 80 percent of the total for all of 2025; 8 of the world's top 10 out licensing deals came from Chinese companies
 
 ---
@@ -97,7 +97,7 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 | Insurance | | UnitedHealth, Elevance, Cigna, Aetna, Humana | National medical insurance at the core, commercial insurance as a supplement |
 | Hospitals | | HCA, Kaiser Permanente, university medical centers | Public top tier (Grade 3A, 三甲) hospitals |
 | Devices | Siemens Healthineers, Philips | Medtronic, Abbott, Intuitive Surgical, GE HealthCare | Mindray, United Imaging |
-| Health IT and AI | | Epic, Oracle Health; AI companies by valuation (估值): OpenEvidence 12 billion dollars, Abridge about 5.3 billion dollars, Hippocratic AI 3.5 billion dollars | |
+| Health IT and AI | | Epic, Oracle Health; AI companies by valuation (估值): OpenEvidence 15 billion dollars (September 2026), Abridge about 5.3 billion dollars, Hippocratic AI 3.5 billion dollars | |
 
 ---
 
@@ -109,7 +109,7 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 | 1983 | Medicare switches to diagnosis related groups (DRG, 按诊断分组付费), paying hospitals a fixed amount per diagnosis | Hospitals that control costs | Inefficient hospitals with long stays. The DRG system China is rolling out today is modeled on this approach |
 | 1990s | Managed care (管理式医疗) through health maintenance organizations (HMOs) rises, and insurers begin to control what doctors can do | Insurers | Doctors' autonomy; it later triggered a public backlash |
 | 2003 (effective 2006) | The US passes the Medicare Modernization Act, and Medicare begins covering prescription drugs (Part D) in January 2006 | PBMs grow rapidly | |
-| 2009 | The US government spends tens of billions of dollars subsidizing hospitals to adopt electronic health records | **Epic**, which used this to become a near monopoly in US hospitals | Doctors: the paperwork burden soared and is now one of the main causes of burnout |
+| 2009 | The US government spends tens of billions of dollars subsidizing hospitals to adopt electronic health records | **Epic**, which used this to become the largest supplier of EHRs to US hospitals (about 44 percent of hospitals) | Doctors: the paperwork burden soared and is now one of the main causes of burnout |
 | 2010 | The Affordable Care Act (ACA, 平价医疗法案) sets up insurance exchanges and expands Medicaid | Tens of millions of newly insured people; large insurers used the moment to integrate vertically | |
 | 2018 | China creates the National Healthcare Security Administration and launches volume based procurement | Patients, as drug prices fell sharply | Generic drug makers |
 | 2020 | The COVID pandemic | Telemedicine, mRNA vaccine makers | |
@@ -127,33 +127,33 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 
 ### 5.1 The US: The Insured Population Is Shrinking
 
-* **The enhanced ACA subsidies expired at the end of 2025**: 23.1 million people signed up during open enrollment (开放注册) for 2026, 4.9 percent fewer than in 2025, but KFF expects the number who actually pay their premiums to fall by about 21.5 percent, to around 17.5 million. The average premium per enrollee more than doubled, and about 9 percent of last year's enrollees now have no insurance at all
-* **Medicaid cuts**: the One Big Beautiful Bill Act (大而美法案) imposes work requirements starting January 2027, and eligibility checks every six months starting at the end of 2026. One consulting firm estimates that 7.8 million people will lose Medicaid; the CBO estimates that the number of uninsured will rise by about 10 million by 2034
-* **Impact on hospitals**: bad debt (坏账) and charity care (慈善医疗) are rising; 432 rural hospitals are at risk of closing; the law also created a 50 billion dollar rural health transformation fund
+* **The enhanced ACA subsidies expired at the end of 2025**: 23.1 million people signed up during open enrollment (开放注册) for 2026, 4.9 percent fewer than in 2025, but CMS data show that effectuated enrollment (people who actually paid their premiums) was 19.2 million in February 2026, about 12 percent below 21.8 million in 2025 (KFF had projected a drop to around 17.5 million). The average monthly premium enrollees actually paid rose from 113 dollars to 178 dollars, up about 58 percent (KFF had projected it would more than double; many people switched to bronze plans with higher deductibles), and about 9 percent of last year's enrollees now have no insurance at all
+* **Medicaid cuts**: the One Big Beautiful Bill Act (大而美法案) imposes work requirements starting January 2027, and eligibility checks every six months starting at the end of 2026. The Congressional Budget Office (CBO) estimates that by 2034 the law will increase the number of uninsured by about 10 million, about 7.5 million of them because of its Medicaid provisions
+* **Impact on hospitals**: bad debt (坏账) and charity care (慈善医疗) are rising; 417 rural hospitals are at risk of closing (Chartis, February 2026); the law also created a 50 billion dollar rural health transformation fund
 
 ### 5.2 AI Enters Core Workflows
 
 * 29 percent of US doctors use AI voice tools to write their clinical notes (AI scribes, AI 病历助手)
-* In March 2026 Epic launched three AI agents (智能体): Art writes notes and provides clinical support, Penny handles billing, prior authorization and appeals, and Emmie answers patient questions and books appointments. Epic says more than 85 percent of its customers already use its AI tools (these figures come mostly from Epic and its partners)
+* At its user conference in August 2025, Epic unveiled three AI assistants: Art writes notes and provides clinical support, Penny handles coding, billing and appeals, and Emmie answers patient questions and books appointments. In March 2026 it followed with Agent Factory, a platform that lets hospitals build their own AI agents (智能体). In August 2026 Epic said more than 85 percent of its customers already use its AI tools (these figures come mostly from Epic and its partners)
 * In January the FDA loosened its oversight of clinical decision support (临床决策支持) software; more than 1,600 AI medical devices have been authorized
-* Medical AI companies carry high valuations: OpenEvidence at 12 billion dollars, Abridge at about 5.3 billion dollars
+* Medical AI companies carry high valuations: OpenEvidence at 15 billion dollars (September 2026), Abridge at about 5.3 billion dollars
 
 ### 5.3 Prior Authorization Becomes "AI Versus AI"
 
-* Starting in January 2026, in six states (Arizona, New Jersey, Ohio, Oklahoma, Texas and Washington), CMS is piloting AI based prior authorization reviews by private technology companies for 15 categories of services in traditional Medicare (the WISeR model), and these companies can **take a share of the money saved on the services they deny**. This has been highly controversial
+* Starting in January 2026, in six states (Arizona, New Jersey, Ohio, Oklahoma, Texas and Washington), CMS is piloting AI based prior authorization reviews by private technology companies for about 17 categories of services in traditional Medicare (the WISeR model), and these companies can **take a share of the money saved on the services they deny**. This has been highly controversial
 * Ironically, CMS announced the model just four days after the major insurers publicly pledged to cut back on prior authorization (June 2025)
 * Meanwhile, hospitals are using tools such as Epic's Penny to write appeals automatically. One side uses AI to deny, the other uses AI to appeal
 
 ### 5.4 The Politics of Drug Prices
 
 * **GLP 1 most favored nation (MFN, 最惠国) pricing deals** (November 2025): Eli Lilly and Novo Nordisk agreed to cut the price paid by Medicare and Medicaid to 245 dollars a month, with Medicare patients paying a 50 dollar monthly copay; Medicare will cover obesity drugs for the first time
-* **TrumpRx**: a government website for buying drugs directly, with cash prices for weight loss drugs of about 149 to 350 dollars a month
-* **PBM reform**: a law signed in February 2026 requires PBMs to pass all rebates through to their clients, bans them from profiting on the price spread in Medicare prescription drug plans, and delinks PBM fees from drug list prices (标价). The Federal Trade Commission reached settlements (和解) first with Express Scripts and then with CVS Caremark, and Optum Rx is also moving to a flat service fee model
+* **TrumpRx**: a government website for buying drugs directly, with cash prices for weight loss drugs of about 149 to 449 dollars a month, depending on the drug and dose
+* **PBM reform**: a law signed in February 2026 requires PBMs to pass all rebates through to employer health plans and, starting in 2028, delinks PBM fees in Medicare prescription drug plans from drug list prices (标价) and rebates, replacing them with flat service fees so that PBMs can no longer profit on the price spread. The Federal Trade Commission reached settlements (和解) first with Express Scripts and then with CVS Caremark, and Optum Rx is also moving to a flat service fee model
 
 ### 5.5 Insurers Are Pulling Back
 
 * UnitedHealth is voluntarily exiting unprofitable Medicare Advantage plans in 2026 and expects to lose about 1.1 million members
-* Medical costs in commercial insurance are growing more than 11 percent a year
+* Medical costs in UnitedHealth's commercial insurance business are growing more than 11 percent a year; across the industry, PwC projects that group medical costs will grow about 9 percent in 2027, the fastest rate in 17 years
 
 ### 5.6 Not Enough People
 
@@ -164,8 +164,8 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 
 * Out licensing of innovative drugs hit a record, and China is becoming an important source of new drugs for the world
 * DRG/DIP has been rolled out nationwide and volume based procurement continues, so hospitals are under heavy cost pressure
-* The world's first commercial brain computer interface (BCI, 脑机接口) was approved, and BCI procedures now have billing codes in medical insurance
-* Semaglutide's patent has expired, and domestic generics are about to launch
+* In March 2026 Neuracle's NEO, a semi invasive implant, became the world's first implantable brain computer interface (BCI, 脑机接口) to win market approval; the National Healthcare Security Administration has already created medical service price items for BCI
+* Semaglutide's core patent in China expired on March 20, 2026, but because of data protection (数据保护), domestic generics are expected to win approval no earlier than April 2027
 
 ---
 
@@ -178,7 +178,7 @@ The following is compiled from news reporting, not from direct interviews.
 | Doctors | Writing notes eats up huge amounts of time, prior authorization holds them up, burnout |
 | Hospital finance departments | Denials and appeals; more and more uninsured patients and rising bad debt; margins of only about 2 to 3 percent |
 | Insurers | Medical utilization and costs keep rising; cost pressure from weight loss drugs |
-| Patients | Premiums doubled for ACA enrollees, the average deductible (起付额) hit a record (about 3,786 dollars), bills are hard to understand, and appointments are hard to get |
+| Patients | The premiums ACA enrollees actually pay rose nearly 60 percent on average, the average deductible (起付额) hit a record (about 3,786 dollars), bills are hard to understand, and appointments are hard to get |
 | Drug makers | Prices are being pushed down, and middlemen such as PBMs take a cut of the profits |
 | Chinese hospitals | Budget pressure from payment by disease group, price cuts from volume based procurement, heavy workloads for doctors |
 
@@ -196,7 +196,7 @@ The following is compiled from news reporting, not from direct interviews.
 | Companion services for weight loss drugs | Medicare coverage begins, TrumpRx cuts prices | Large platforms launch similar services |
 | Price comparison of drugs and services for patients paying cash | Cash prices are increasingly common and increasingly transparent | Government websites and insurers build good versions themselves |
 
-### 7.2 The Second Type: Directions That Could Grow into Monopolies
+### 7.2 The Second Type: Directions That Could Grow into Monopolies (垄断)
 
 **1. Machine to Machine Claims Infrastructure**
 * **Secret (秘密)**: prior authorization and claims are shifting from "person to person" to "agent to agent." Hospitals have Epic's Penny; insurers and the government have AI review companies. When both sides are machines, they need a neutral protocol, an auditable record, and a "rules engine" that everyone accepts. Whoever becomes the standard for this layer will sit in the middle of trillions of dollars of payments every year
@@ -256,9 +256,9 @@ The following is compiled from news reporting, not from direct interviews.
 * [How the OBBBA undermines healthcare (Chartis)](https://www.chartis.com/insights/how-obbba-undermines-healthcare-and-harms-america)
 * [Examining the potential impact of Medicare's WISeR model (KFF)](https://www.kff.org/medicare/examining-the-potential-impact-of-medicares-new-wiser-model/)
 * [CMS launches WISeR model (DLA Piper)](https://www.dlapiper.com/en/insights/publications/2026/01/cms-wiser-model)
-* [Epic unveils AI agents (Healthcare IT News)](https://www.healthcareitnews.com/news/epic-unveils-ai-agents-showcases-new-foundational-models)
+* [Epic unveils AI agents, showcases new foundational models (Healthcare IT News, August 2025)](https://www.healthcareitnews.com/news/epic-unveils-ai-agents-showcases-new-foundational-models)
 * [Epic is letting health systems build their own agents (MedCity News)](https://medcitynews.com/2026/03/epic-hospital-ai-agent/)
-* [OpenEvidence raises $250M at $12B valuation (SiliconANGLE)](https://siliconangle.com/2026/01/21/healthcare-ai-startup-openevidence-raises-250m-12b-valuation/)
+* [OpenEvidence confirms it has raised an additional $250 million at a $15 billion valuation (Forbes, September 30 2026)](https://www.forbes.com/sites/saibala/2026/09/30/openevidence-confirms-it-has-raised-an-additional-250-million-at-a-15-billion-valuation/)
 * [Trump announces deals with Lilly, Novo to cut weight loss drug prices (AJMC)](https://www.ajmc.com/view/trump-announces-deals-with-eli-lilly-novo-nordisk-for-lower-weight-loss-drug-prices)
 * [PBM reforms signed into law (AJMC)](https://www.ajmc.com/view/pbm-reforms-signed-into-law-reshaping-medicare-part-d-drug-pricing-transparency)
 * [Congress has more work to do before PBM reform reaches consumers (ProMarket)](https://www.promarket.org/2026/10/06/congress-has-more-work-to-do-before-pbm-reform-reaches-consumers/)
@@ -274,3 +274,13 @@ The following is compiled from news reporting, not from direct interviews.
 * [KLAS 2026 EHR market share report (HIT Consultant, May 14 2026)](https://hitconsultant.net/2026/05/14/klas-2026-ehr-market-share-report/)
 * [2024 China health statistical bulletin (Xinhua, December 2 2025)](https://www.news.cn/politics/20251202/c879035250804e9995ccb8d284656f67/c.html)
 * [2025 national healthcare security statistical bulletin (NHSA, July 16 2026)](https://www.nhsa.gov.cn/art/2026/7/16/art_7_21451.html)
+* [Epic AI at HIMSS 2026: Agent Factory and Curiosity foundation models (HIT Consultant, March 10 2026)](https://hitconsultant.net/2026/03/10/epic-ai-himss-2026-agent-factory-curiosity-foundation-models/)
+* [NHSA press conference on DRG/DIP 3.0 (Xinhua, September 7 2026)](https://www.news.cn/fortune/20260907/c15f9a76f9454934aaff69b95c3368bf/c.html)
+* [New CBO health coverage estimates of budget reconciliation law (Georgetown CCF, August 14 2025)](https://ccf.georgetown.edu/2025/08/14/new-cbo-health-coverage-estimates-of-budget-reconciliation-law/)
+* [ACA exchange enrollment in 2026 (HHS ASPE, June 26 2026)](https://aspe.hhs.gov/reports/aca-exchange-enrollment-2026)
+* [The average marketplace deductible grew by about $1,000 per person in 2026 (KFF, May 19 2026)](https://www.kff.org/affordable-care-act/the-average-marketplace-deductible-grew-by-about-1000-per-person-in-2026-with-more-enrollees-shifting-to-higher-deductible-plans-as-enhanced-tax-credits-expired/)
+* [417 rural hospitals at risk of closing (Fierce Healthcare, February 2026)](https://www.fiercehealthcare.com/providers/417-rural-hospitals-risk-closing-rural-health-transformation-funds-may-be-too-late)
+* [Prior authorization coming to traditional Medicare (Kiplinger)](https://www.kiplinger.com/retirement/medicare/prior-authorization-coming-to-traditional-medicare)
+* [What to know about pharmacy benefit managers and federal efforts at regulation (KFF)](https://www.kff.org/other-health/what-to-know-about-pharmacy-benefit-managers-pbms-and-federal-efforts-at-regulation/)
+* [China grants world's first market approval for invasive BCI product (Macau Business)](https://macaubusiness.com/china-grants-worlds-first-market-approval-for-invasive-bci-product/)
+* [Semaglutide generics in China and data protection (Sina Finance, June 16 2026)](https://finance.sina.com.cn/cj/2026-06-16/doc-inicrivm7529202.shtml)
