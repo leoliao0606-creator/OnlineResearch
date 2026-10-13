@@ -1,8 +1,8 @@
 # 近半年 AI 及前沿技术调研 · AI and Frontier Technology Research (2026)
 
-创建日期：2026年10月6日 · 状态：**持续更新中**（已完成：技术调研、两类机会、个人背景分析、世界产业地图、四个产业深度拆解、中英双语版本）
+创建日期：2026年10月6日 · 状态：**持续更新中**（已完成：技术调研、两类机会、个人背景分析、世界产业地图、四个产业深度拆解、中英双语版本、两轮事实核查）
 
-Created October 6, 2026 · Status: **ongoing** (done so far: technology scan, two kinds of opportunities, personal fit, world industry map, four industry deep dives, bilingual versions)
+Created October 6, 2026 · Status: **ongoing** (done so far: technology scan, two kinds of opportunities, personal fit, world industry map, four industry deep dives, bilingual versions, two rounds of fact checking)
 
 [中文说明](#中文说明) · [English Guide](#english-guide) · [中英术语表 Bilingual Glossary](glossary.md)
 
@@ -29,6 +29,7 @@ The folder has three layers of bilingual material: the [glossary](glossary.md) (
 | 中文 | English | 内容 · What it covers |
 | :--- | :--- | :--- |
 | [术语表](glossary.md) | [Glossary](glossary.md) | 中英对照的核心概念 · Core concepts in both languages |
+| [勘误记录](corrections.md) | [Corrections Log](corrections.md) | 10 月 13 日两轮事实核查改了什么，以及六种常见错误 · What two rounds of fact checking changed, and six common kinds of error |
 | [能源与电力](industries/energy_power.md) | [Energy and Power](en/industries/energy_power.md) | 产业深挖一 · Industry deep dive 1 |
 | [医疗健康](industries/healthcare.md) | [Healthcare](en/industries/healthcare.md) | 产业深挖二 · Industry deep dive 2 |
 | [金融](industries/finance.md) | [Finance](en/industries/finance.md) | 产业深挖三 · Industry deep dive 3 |
