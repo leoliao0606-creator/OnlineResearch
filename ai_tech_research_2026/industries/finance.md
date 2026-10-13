@@ -35,7 +35,7 @@
 
 **1. 利差（interest rate spread）**
 银行用较低的利率吸收存款，用较高的利率放贷，中间的差叫"净息差（net interest margin, NIM）"。这是传统银行最主要的收入。
-* 中国银行业的净息差 2026 年一季度降到 1.40% 的历史低点，二季度微升到 1.41%，工商银行只有 1.29%。息差越来越薄，中国银行业的赚钱能力在持续下降
+* 中国银行业的净息差 2026 年一季度降到 1.40% 的历史低点，二季度微升到 1.41%，工商银行只有 1.29%。息差处在历史低位，二季度出现 2022 年以来首次回升，但贷款需求疲弱，下半年仍有压力
 * 同时，7 月中国新增人民币贷款出现了 3,400 亿元的负增长，说明企业和居民借钱的意愿很弱
 
 **2. 手续费和过路费**
@@ -64,8 +64,8 @@
 ### 2.3 规模感
 
 * 全球银行业 2025 年收入 6.4 万亿美元，净利润 1.3 万亿美元
-* 银行持有的存款、贷款和管理的资产合计约 406 万亿美元；整个金融体系中介的资金约 468 万亿美元，大约是全球 GDP 的 3.8 倍
-* 全球保费约 9 万亿美元
+* 银行持有的存款、贷款和管理的资产合计约 406 万亿美元；整个金融体系中介的资金约 468 万亿美元，大约是 2025 年全球 GDP 的 4 倍
+* 全球保费约 7.1 万亿美元（贝恩估计的 2025 年数字）
 * 摩根大通一家银行 2026 年的科技预算就有约 198 亿美元
 
 ---
@@ -87,7 +87,7 @@
 
 | 时间 | 发生了什么 | 赢家 | 输家 |
 | :--- | :--- | :--- | :--- |
-| 1971 | 布雷顿森林体系结束，美元和黄金脱钩，汇率开始浮动 | 外汇和衍生品交易，诞生了庞大的交易产业 | |
+| 1971 到 1973 | 1971 年美元和黄金脱钩，布雷顿森林体系瓦解；1973 年主要货币开始自由浮动 | 外汇和衍生品交易，诞生了庞大的交易产业 | |
 | 1975 | 先锋推出第一只面向普通人的指数基金 | 先锋、贝莱德等低成本基金；普通投资者 | 收高费用的主动型基金经理，被长期挤压 |
 | 1989 | FICO 信用分推出 | FICO 成为美国消费信贷的事实标准，至今几乎无法替代 | |
 | 1999 | 美国废除分业经营的限制 | 大型综合银行 | |
@@ -120,15 +120,15 @@
 ### 5.3 资产代币化（tokenization）
 
 * 把国债、基金等传统资产变成区块链上的代币，叫"代币化"
-* 2026 年链上的代币化资产约 200 亿到 310 亿美元，其中代币化国债约 100 亿到 160 亿美元；贝莱德的代币化基金 BUIDL 约 25 亿到 28 亿美元
+* 链上的代币化资产（不含稳定币）从 2026 年初约 200 亿美元增长到 10 月初约 390 亿美元，其中代币化国债约 150 亿美元；贝莱德的代币化基金 BUIDL 约 25 亿到 28 亿美元
 * 规模相对整个金融体系仍然很小，但大机构都在入场
 
 ### 5.4 私募信贷：快速长大，开始出问题
 
 * 私募信贷是银行之外的机构直接借钱给企业。规模估计差异很大：金融稳定委员会估计全球 1.5 万亿到 2 万亿美元，也有机构估计 2025 年初已有 3 万亿美元
 * 2025 年 9 月，美国次级汽车贷款公司 Tricolor 破产清算，汽车零部件公司 First Brands 申请破产；2026 年 1 月，First Brands 的创始人被控欺诈贷款方
-* 违约率（default rate）的估计从约 2.5% 到 6% 不等，取决于怎么定义违约
-* 银行对私募信贷基金的敞口（exposure）约 2,700 亿到 5,000 亿美元
+* 违约率（default rate）的估计从约 2.5%（Proskauer，2026 年二季度）到 6.3%（惠誉，截至 2026 年 8 月的 12 个月，创纪录）不等，取决于怎么定义违约
+* 银行对私募信贷基金的直接敞口（exposure）：金融稳定委员会根据成员数据统计约 2,200 亿美元，商业机构估计在 2,700 亿到 5,000 亿美元之间
 * **核心问题是不透明**：这些贷款不在公开市场交易，外界很难知道风险有多大
 
 ### 5.5 Agent 开始付钱
@@ -136,26 +136,26 @@
 * Mastercard 在 2026 年 3 月和 4 月分别在香港和泰国完成了真实的 AI Agent 支付，桑坦德银行完成了欧洲第一笔完全由 AI Agent 执行的支付；6 月推出面向机器的 Agent Pay
 * Visa 6 月宣布把支付能力接入 OpenAI 的产品
 * 支付协议还在混战（ACP、UCP、AP2 等，见第一版报告）
-* 保险方面，美国从 2026 年起把生成式 AI 造成的损失排除在标准商业保险（commercial insurance）之外，催生了专门的 AI 保险
+* 保险方面，美国保单条款机构 ISO 从 2026 年 1 月起推出可选的生成式 AI 除外条款（exclusion），保险公司可以据此把生成式 AI 造成的损失排除在商业综合责任险（commercial general liability）之外；采用的公司越来越多，催生了专门的 AI 保险
 
 ### 5.6 AI 让欺诈变得更容易
 
 * FBI 2025 年的网络犯罪报告显示，美国报告的损失创纪录，约 209 亿美元，增长约 26%；第一次单独统计了 AI 相关的投诉，涉及损失约 8.9 亿美元
 * 德勤预计，美国由生成式 AI 驱动的欺诈损失将从 2023 年的 123 亿美元增长到 2027 年的 400 亿美元
-* 合规成本也在上升：仅美国和加拿大，金融机构每年在反洗钱（anti money laundering, AML）和反欺诈合规上花约 610 亿美元，其中 79% 是人力成本，技术只占 9%
+* 合规成本也在上升：仅美国和加拿大，金融机构每年在反洗钱（anti money laundering, AML）和反欺诈合规上花约 610 亿美元（LexisNexis 2024 年研究），99% 的机构合规成本在上升，79% 的机构表示合规软件的技术成本上升
 
 ### 5.7 数字银行：用户多，赚钱难
 
 * Nubank（巴西）2025 年净利润约 29 亿美元，客户约 1.3 亿到 1.4 亿
 * Revolut（英国）2025 年税前利润约 23 亿美元，估值（valuation）从 750 亿到 1,150 亿美元不等
-* Chime（美国）2026 年上市时估值约 110 亿美元，不到 2021 年私募估值 250 亿美元的一半
+* Chime（美国）2025 年 6 月在纳斯达克上市，发行价对应估值约 116 亿美元，不到 2021 年私募估值 250 亿美元的一半
 * 业内估计只有约七分之一的数字银行是赚钱的。赚钱的那些，主要靠贷款和订阅，而不只是刷卡手续费
 
 ### 5.8 其他
 
 * **加密货币**：比特币 10 月中旬约 8.3 万美元，比一年前下跌约 28%，2025 年 10 月的最高点约 12.6 万美元
 * **美国开放银行（open banking）规则**：CFPB 的 1033 条规则（让用户把银行数据授权给第三方使用）被法院叫停，CFPB 正在重新制定
-* **中国**：息差创新低，贷款需求疲弱；支付宝和微信支付主导零售支付
+* **中国**：息差处于历史低位，二季度略有回升，贷款需求疲弱；支付宝和微信支付主导零售支付
 
 ---
 
@@ -163,7 +163,7 @@
 
 | 谁 | 最头疼的事 |
 | :--- | :--- |
-| 银行 | 合规成本高，大部分靠人工；核心系统老旧，很多还在用几十年前的技术；诈骗越来越难防；中国银行业的息差越来越薄 |
+| 银行 | 合规成本高，大部分靠人工；核心系统老旧，很多还在用几十年前的技术；诈骗越来越难防；中国银行业的息差处在历史低位 |
 | 中小企业 | 跨境收付款慢且贵；贷款难；对账靠手工 |
 | 普通消费者 | 被诈骗，手续费，跨境汇款贵 |
 | 保险公司 | 新风险（AI、网络攻击、极端天气）很难定价 |
@@ -178,7 +178,7 @@
 
 | 机会 | 为什么现在 | 退潮信号 |
 | :--- | :--- | :--- |
-| 用 AI Agent 做合规审核外包（开户审核、反洗钱调查），按完成量收费 | 合规成本约八成是人力 | 大型合规软件商推出同类功能 |
+| 用 AI Agent 做合规审核外包（开户审核、反洗钱调查），按完成量收费 | 美加金融机构每年合规花费约 610 亿美元，审核大量依赖人工 | 大型合规软件商推出同类功能 |
 | 面向中小商家和客服中心的深度伪造（deepfake）识别、反诈服务 | AI 诈骗快速增长 | 银行和支付平台内置 |
 | 用稳定币帮外贸中小企业收付款 | GENIUS 法案让规则变清晰，传统跨境汇款平均要 6% 以上 | 银行和支付公司推出同样便宜的产品 |
 | 帮商家接入 Agent 支付和 AI 购物渠道 | Visa、Mastercard、OpenAI 都在推 | 电商平台一键接入 |
@@ -202,7 +202,7 @@
 * 每家银行都在单独对抗诈骗，但骗子在多家机构之间流动。一个跨机构共享欺诈信号的网络，接入的机构越多越有效。难点在于数据隐私和机构之间的信任，这也正是护城河（moat）
 
 **4. AI 风险的定价和保险**
-* 见两类机会文档的方向 4。标准保险已经排除了 AI 风险，谁积累的 AI 事故数据最多，谁的定价就最准
+* 见两类机会文档的方向 4。越来越多保险公司开始用除外条款把 AI 风险排除在标准保单之外，谁积累的 AI 事故数据最多，谁的定价就最准
 
 **5. 可验证的金融规则**
 * 清算规则、计息规则、智能合约，一旦出错代价极高。用 AI 加形式化验证（formal verification），证明这些规则的实现是正确的（方向 2 在金融里的落点）
@@ -248,6 +248,13 @@
 * [FBI IC3 report: half of 2025 US fraud losses linked to crypto scams (ASIS)](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/april/cryptocurrency-scams/)
 * [Annual cost of financial crime compliance totals $61 billion in the US and Canada (LexisNexis)](https://risk.lexisnexis.com/about-us/press-room/press-release/20240221-true-cost-of-compliance-us-ca)
 * [Neobank valuations 2026 (Mobibank)](https://www.mobibank.fi/neobank-valuations-2026/)
-* [Chime IPO 2026 (ValueAdd VC)](https://valueaddvc.com/blog/chime-ipo-2026-everything-we-know-about-the-neobanks-public-listing)
 * [Section 1033 open banking rule status (Cozen O'Connor)](https://www.cozen.com/news-resources/publications/2026/section-1033-compliance-date-open-banking-rule-enjoined-and-under-reconsideration)
 * [Bitcoin and crypto today (FXStreet)](https://fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-face-recovery-headwinds-as-etf-outflows-weigh-202610121049)
+* [Chime prices IPO at $27 per share, valuing fintech company at $11.6 billion (NBC/CNBC, June 2025)](https://www.nbcconnecticut.com/news/business/money-report/chime-prices-ipo-at-27-per-share-valuing-fintech-company-at-11-6-billion-ahead-of-nasdaq-debut/3585063/)
+* [Bain Global Insurance Report 2026 (Bain)](https://www.bain.com/about/media-center/press-releases/2026/strong-2025-momentum-masks-structural-challenges-for-global-insurers-bain-company-global-insurance-report-2026/)
+* [Verisk to roll out new general liability exclusions for generative AI exposures (Big I, late 2025)](https://www.independentagent.com/vu_resource/verisk-to-roll-out-new-general-liability-exclusions-for-generative-ai-exposures/)
+* [RWA.xyz tokenized assets dashboard (RWA.xyz, October 2026)](https://app.rwa.xyz/)
+* [Chinese commercial banks gain margin relief as subdued lending dims outlook (SCMP, August 2026)](https://www.scmp.com/business/banking-finance/article/3364361/chinese-commercial-banks-gain-margin-relief-subdued-lending-dims-outlook)
+* [Fitch's private credit default rate hit record in second quarter (Bloomberg, July 30 2026)](https://www.bloomberg.com/news/articles/2026-07-30/fitch-s-private-credit-default-rate-hit-record-in-second-quarter)
+* [State of the restructuring market (FTI Consulting, 2026)](https://www.fticonsulting.com/insights/articles/state-of-restructuring-market)
+* [The end of the Bretton Woods system (IMF)](https://www.imf.org/external/about/histend.htm)

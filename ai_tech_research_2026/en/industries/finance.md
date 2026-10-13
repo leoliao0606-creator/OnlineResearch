@@ -37,7 +37,7 @@ Finance is the largest profit pool (利润池) in the world: in 2025, global ban
 
 **1. Interest rate spread (利差)**
 Banks take deposits at a lower interest rate and lend at a higher one. The difference is called the "net interest margin (NIM, 净息差)." This is the main source of income for traditional banks.
-* Chinese banks' net interest margin fell to a record low of 1.40 percent in the first quarter of 2026 and edged up to 1.41 percent in the second quarter; ICBC's was only 1.29 percent. As margins get thinner and thinner, the earning power of Chinese banking keeps declining
+* Chinese banks' net interest margin fell to a record low of 1.40 percent in the first quarter of 2026 and edged up to 1.41 percent in the second quarter; ICBC's was only 1.29 percent. Margins are at historic lows. The second quarter brought the first uptick since 2022, but loan demand is weak and pressure will persist in the second half of the year
 * Meanwhile, new yuan loans in China were negative in July, shrinking by 340 billion yuan, a sign that companies and households have little appetite for borrowing
 
 **2. Fees and tolls**
@@ -66,8 +66,8 @@ Underneath all of these businesses is "pricing risk":
 ### 2.3 A Sense of Scale
 
 * Global banking revenue in 2025 was 6.4 trillion dollars, with net income of 1.3 trillion dollars
-* Deposits and loans held by banks plus the assets they manage add up to about 406 trillion dollars; the funds intermediated by the whole financial system come to about 468 trillion dollars, roughly 3.8 times global GDP
-* Global insurance premiums are about 9 trillion dollars
+* Deposits and loans held by banks plus the assets they manage add up to about 406 trillion dollars; the funds intermediated by the whole financial system come to about 468 trillion dollars, roughly 4 times global GDP in 2025
+* Global insurance premiums are about 7.1 trillion dollars (Bain's estimate for 2025)
 * JPMorgan Chase alone has a technology budget of about 19.8 billion dollars for 2026
 
 ---
@@ -89,7 +89,7 @@ Underneath all of these businesses is "pricing risk":
 
 | Year | What happened | Winners | Losers |
 | :--- | :--- | :--- | :--- |
-| 1971 | The Bretton Woods system ended: the dollar was cut loose from gold and exchange rates began to float | Foreign exchange and derivatives (衍生品) trading, which gave birth to a huge trading industry | |
+| 1971 to 1973 | In 1971 the dollar was cut loose from gold and the Bretton Woods system collapsed; in 1973 the major currencies began to float freely | Foreign exchange and derivatives (衍生品) trading, which gave birth to a huge trading industry | |
 | 1975 | Vanguard launched the first index fund (指数基金) for ordinary investors | Low cost funds such as Vanguard and BlackRock; ordinary investors | High fee active fund managers (主动型基金经理), squeezed over the long term |
 | 1989 | The FICO score was introduced | FICO became the de facto standard for US consumer credit, and is still almost impossible to replace today | |
 | 1999 | The US repealed the rules that kept different kinds of financial business separate (分业经营) | Large universal banks | |
@@ -122,15 +122,15 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 ### 5.3 Asset Tokenization (资产代币化)
 
 * Turning traditional assets such as government bonds (国债) and funds into tokens on a blockchain is called "tokenization"
-* In 2026, tokenized assets on chain total about 20 to 31 billion dollars, of which tokenized Treasuries are about 10 to 16 billion dollars; BlackRock's tokenized fund BUIDL is about 2.5 to 2.8 billion dollars
+* Tokenized assets on chain (excluding stablecoins) grew from about 20 billion dollars at the start of 2026 to about 39 billion dollars in early October, of which tokenized Treasuries are about 15 billion dollars; BlackRock's tokenized fund BUIDL is about 2.5 to 2.8 billion dollars
 * This is still small relative to the whole financial system, but the big institutions are all coming in
 
 ### 5.4 Private Credit: Growing Fast, Starting to Crack
 
 * Private credit means institutions outside the banking system lending directly to companies. Estimates of its size vary widely: the Financial Stability Board puts it at 1.5 to 2 trillion dollars globally, while others estimated it had already reached 3 trillion dollars by early 2025
 * In September 2025, Tricolor, a US subprime auto lender, went into bankruptcy liquidation, and the auto parts company First Brands filed for bankruptcy. In January 2026, the founder of First Brands was charged with defrauding lenders
-* Estimates of the default rate (违约率) range from about 2.5 to 6 percent, depending on how default is defined
-* Banks' exposure (敞口) to private credit funds is about 270 to 500 billion dollars
+* Estimates of the default rate (违约率) range from about 2.5 percent (Proskauer, second quarter of 2026) to 6.3 percent (Fitch, the 12 months through August 2026, a record), depending on how default is defined
+* Banks' direct exposure (敞口) to private credit funds: the Financial Stability Board counts about 220 billion dollars based on data from its members, while commercial estimates range from 270 to 500 billion dollars
 * **The core problem is opacity**: these loans do not trade on public markets, so it is hard for outsiders to know how much risk there is
 
 ### 5.5 Agents Start Paying
@@ -138,26 +138,26 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 * In March and April 2026, Mastercard completed real AI agent payments in Hong Kong and Thailand respectively, and Santander completed Europe's first payment executed entirely by an AI agent. In June, Mastercard launched Agent Pay for machines
 * In June, Visa announced that it would plug its payment capabilities into OpenAI's products
 * Payment protocols are still fighting it out (ACP, UCP, AP2 and others; see the first round report)
-* In insurance, starting in 2026, standard US commercial insurance (商业保险) excludes losses caused by generative AI (生成式 AI), which has given rise to specialized AI insurance
+* In insurance, starting in January 2026, ISO, the US body that writes standard policy wording, offers optional generative AI (生成式 AI) exclusions (除外条款) that let insurers exclude losses caused by generative AI from commercial general liability insurance (商业综合责任险). More and more insurers are adopting them, which has given rise to specialized AI insurance
 
 ### 5.6 AI Makes Fraud Easier
 
 * The FBI's 2025 internet crime report shows record reported losses in the US of about 20.9 billion dollars, up about 26 percent. For the first time, it counted AI related complaints separately, which involved losses of about 890 million dollars
 * Deloitte expects US fraud losses driven by generative AI to grow from 12.3 billion dollars in 2023 to 40 billion dollars in 2027
-* Compliance costs are rising too: in the US and Canada alone, financial institutions spend about 61 billion dollars a year on anti money laundering (AML, 反洗钱) and anti fraud compliance. Of that, 79 percent is labor, and only 9 percent is technology
+* Compliance costs are rising too: in the US and Canada alone, financial institutions spend about 61 billion dollars a year on anti money laundering (AML, 反洗钱) and anti fraud compliance (a 2024 LexisNexis study). 99 percent of institutions say their compliance costs are rising, and 79 percent say the technology cost of compliance software has gone up
 
 ### 5.7 Neobanks: Lots of Users, Hard to Make Money
 
 * Nubank (Brazil) earned net income of about 2.9 billion dollars in 2025, with about 130 to 140 million customers
 * Revolut (UK) made a pretax profit of about 2.3 billion dollars in 2025, with valuation (估值) estimates ranging from 75 to 115 billion dollars
-* Chime (US) was valued at about 11 billion dollars when it went public in 2026, less than half of its 25 billion dollar private valuation in 2021
+* Chime (US) listed on Nasdaq in June 2025 at an IPO price that valued it at about 11.6 billion dollars, less than half of its 25 billion dollar private valuation in 2021
 * Industry estimates suggest that only about one in seven neobanks makes money. The ones that do rely mainly on lending and subscriptions, not just card fees
 
 ### 5.8 Other Developments
 
 * **Crypto**: bitcoin was about 83,000 dollars in the middle of October, down about 28 percent from a year earlier; its peak in October 2025 was about 126,000 dollars
 * **The US open banking (开放银行) rule**: the CFPB's Section 1033 rule (which lets users authorize third parties to use their bank data) was blocked by a court, and the CFPB is rewriting it
-* **China**: interest margins are at record lows and loan demand is weak; Alipay and WeChat Pay dominate retail payments
+* **China**: interest margins are at historic lows, with a slight rebound in the second quarter, and loan demand is weak; Alipay and WeChat Pay dominate retail payments
 
 ---
 
@@ -165,7 +165,7 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 
 | Who | Biggest headaches |
 | :--- | :--- |
-| Banks | High compliance costs, mostly manual work; aging core systems, many still running technology from decades ago; fraud is getting harder and harder to stop; Chinese banks' interest margins keep getting thinner |
+| Banks | High compliance costs, mostly manual work; aging core systems, many still running technology from decades ago; fraud is getting harder and harder to stop; Chinese banks' interest margins are at historic lows |
 | Small and midsize businesses (中小企业) | Sending and receiving cross border payments is slow and expensive; loans are hard to get; reconciliation (对账) is done by hand |
 | Ordinary consumers | Scams, fees, expensive cross border remittances |
 | Insurers | New risks (AI, cyberattacks, extreme weather) are hard to price |
@@ -180,7 +180,7 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 
 | Opportunity | Why now | Signs the wave is receding |
 | :--- | :--- | :--- |
-| Outsourced compliance review done by AI agents (account opening checks, anti money laundering investigations), charged per completed case | About 80 percent of compliance cost is labor | Large compliance software vendors launch similar features |
+| Outsourced compliance review done by AI agents (account opening checks, anti money laundering investigations), charged per completed case | US and Canadian financial institutions spend about 61 billion dollars a year on compliance, and reviews rely heavily on manual work | Large compliance software vendors launch similar features |
 | Deepfake (深度伪造) detection and anti fraud services for small merchants and call centers | AI scams are growing fast | Banks and payment platforms build it in |
 | Using stablecoins to help small import and export businesses send and receive payments | The GENIUS Act makes the rules clearer, and traditional cross border remittances cost more than 6 percent on average | Banks and payment companies launch equally cheap products |
 | Helping merchants connect to agent payments and AI shopping channels | Visa, Mastercard and OpenAI are all pushing it | Ecommerce platforms offer one click integration |
@@ -204,7 +204,7 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 * Every bank fights fraud on its own, but fraudsters move between institutions. A network that shares fraud signals across institutions becomes more effective the more institutions join. The hard parts are data privacy and trust between institutions, and that is exactly what makes the moat (护城河)
 
 **4. Pricing and insuring AI risk**
-* See Direction 4 in the two kinds of opportunities document. Standard insurance already excludes AI risk; whoever gathers the most data on AI incidents will price most accurately
+* See Direction 4 in the two kinds of opportunities document. More and more insurers are using exclusions to carve AI risk out of standard policies; whoever gathers the most data on AI incidents will price most accurately
 
 **5. Verifiable financial rules**
 * Clearing rules, interest calculation rules and smart contracts (智能合约) are extremely costly when they go wrong. Use AI plus formal verification (形式化验证) to prove that the implementations of these rules are correct (this is where Direction 2 lands in finance)
@@ -250,6 +250,13 @@ An article interpreting McKinsey's 2026 banking report summed it up well in its 
 * [FBI IC3 report: half of 2025 US fraud losses linked to crypto scams (ASIS)](https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/april/cryptocurrency-scams/)
 * [Annual cost of financial crime compliance totals $61 billion in the US and Canada (LexisNexis)](https://risk.lexisnexis.com/about-us/press-room/press-release/20240221-true-cost-of-compliance-us-ca)
 * [Neobank valuations 2026 (Mobibank)](https://www.mobibank.fi/neobank-valuations-2026/)
-* [Chime IPO 2026 (ValueAdd VC)](https://valueaddvc.com/blog/chime-ipo-2026-everything-we-know-about-the-neobanks-public-listing)
 * [Section 1033 open banking rule status (Cozen O'Connor)](https://www.cozen.com/news-resources/publications/2026/section-1033-compliance-date-open-banking-rule-enjoined-and-under-reconsideration)
 * [Bitcoin and crypto today (FXStreet)](https://fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-face-recovery-headwinds-as-etf-outflows-weigh-202610121049)
+* [Chime prices IPO at $27 per share, valuing fintech company at $11.6 billion (NBC/CNBC, June 2025)](https://www.nbcconnecticut.com/news/business/money-report/chime-prices-ipo-at-27-per-share-valuing-fintech-company-at-11-6-billion-ahead-of-nasdaq-debut/3585063/)
+* [Bain Global Insurance Report 2026 (Bain)](https://www.bain.com/about/media-center/press-releases/2026/strong-2025-momentum-masks-structural-challenges-for-global-insurers-bain-company-global-insurance-report-2026/)
+* [Verisk to roll out new general liability exclusions for generative AI exposures (Big I, late 2025)](https://www.independentagent.com/vu_resource/verisk-to-roll-out-new-general-liability-exclusions-for-generative-ai-exposures/)
+* [RWA.xyz tokenized assets dashboard (RWA.xyz, October 2026)](https://app.rwa.xyz/)
+* [Chinese commercial banks gain margin relief as subdued lending dims outlook (SCMP, August 2026)](https://www.scmp.com/business/banking-finance/article/3364361/chinese-commercial-banks-gain-margin-relief-subdued-lending-dims-outlook)
+* [Fitch's private credit default rate hit record in second quarter (Bloomberg, July 30 2026)](https://www.bloomberg.com/news/articles/2026-07-30/fitch-s-private-credit-default-rate-hit-record-in-second-quarter)
+* [State of the restructuring market (FTI Consulting, 2026)](https://www.fticonsulting.com/insights/articles/state-of-restructuring-market)
+* [The end of the Bretton Woods system (IMF)](https://www.imf.org/external/about/histend.htm)
