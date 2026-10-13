@@ -261,7 +261,7 @@
 | 连续血糖仪 | continuous glucose monitor (CGM) | 贴在皮肤上持续测血糖的设备 | CGMs are now sold over the counter. |
 | 非处方 | over the counter (OTC) | 不需要处方就能买 | The first OTC glucose monitor for children was approved. |
 | 减重药 | GLP 1 drugs; weight loss drugs | 降低食欲的药物，比如司美格鲁肽、替尔泊肽 | GLP 1 drugs are changing how Americans eat. |
-| 脑机接口 | brain computer interface (BCI) | 连接大脑和外部设备的技术 | China approved the first commercial brain computer interface. |
+| 脑机接口 | brain computer interface (BCI) | 连接大脑和外部设备的技术 | In 2026 China approved the first implanted brain computer interface for the market. |
 | 突破性器械认定 | breakthrough device designation | FDA 给有潜力的器械加快审评 | Neuralink received breakthrough device designation. |
 | 美国食品药品监督管理局 | Food and Drug Administration (FDA) | 美国审批药品和器械的机构 | The FDA has cleared more than 1,600 AI devices. |
 | 美国联邦医保和医助服务中心 | Centers for Medicare and Medicaid Services (CMS) | 管理 Medicare 和 Medicaid 的机构 | CMS launched an AI prior authorization pilot. |
