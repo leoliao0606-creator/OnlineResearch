@@ -58,9 +58,9 @@ Similarweb 2026 年 1 月的调查显示，在找商品的发现阶段，35% 的
 | :--- | :--- | :--- |
 | 高 | [A. 垂直行业 AI 语音前台](product_cards.md#a-垂直行业-ai-语音前台) | 需求已有初步信号（语音 Agent 厂商 Ainora 估算美欧约 34% 中小企业在用，未公布调查方法），语音层每分钟 0.05 美元（推理另计），6 周能出 MVP |
 | 高 | [B. GEO 监测与优化](product_cards.md#b-ai-搜索可见度geo监测与优化) | 入口迁移刚开始，中文 AI 助手方向几乎没有成熟工具 |
-| 高 | [D. 国内 SaaS 的 MCP 连接器与 Agent 模板](product_cards.md#d-国内-saas-的-mcp-连接器与行业-agent-模板) | MCP 生态主要在海外，国内主流 SaaS 大多还没有官方连接器 |
 | 中高 | [C. AIGC 合规标识与检测](product_cards.md#c-aigc-合规标识与检测-saas) | 法规刚生效，欧盟宽限期 12 月到期 |
 | 中高 | [E. 跨境直播与外贸翻译配音](product_cards.md#e-跨境直播与外贸沟通的实时翻译和配音) | 全双工语音和多语口型同步都已可用 |
+| 中 | [D. 国内 SaaS 的 MCP 连接器与 Agent 模板](product_cards.md#d-国内-saas-的-mcp-连接器与行业-agent-模板) | 钉钉、企业微信、飞书已有官方 MCP，机会转向跨系统的行业 Agent 模板、用友金蝶等 ERP 连接器和私有化部署（原为高，已下调） |
 | 中 | [F. 端侧（on device） AI 纪要助手](product_cards.md#f-隐私敏感行业的端侧-ai-纪要助手) | 推理零边际成本，主打隐私 |
 | 中 | [G. AI 眼镜一线作业助手](product_cards.md#g-ai-眼镜一线作业助手) | 眼镜出货爆发，开发者工具刚开放 |
 | 中 | [H. GLP 1 用药伴随](product_cards.md#h-glp-1-用药伴随与代谢管理) | 口服药获批，中国专利到期，用药人群扩大 |
