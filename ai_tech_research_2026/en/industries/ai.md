@@ -62,14 +62,14 @@ Both kinds of money end up flowing from downstream to upstream, that is, from la
 
 ### 2.4 The Bubble (泡沫) Debate
 
-* **The bear case**: money is circling among a handful of companies. NVIDIA invests in OpenAI, for example, and OpenAI then uses that money to buy NVIDIA chips. In July, NVIDIA reportedly considered guaranteeing 250 billion dollars for OpenAI's data center in Ohio, and after the news came out, the price of insuring NVIDIA's bonds against default jumped. Some estimate that these "circular deals (循环交易)" exceed 800 billion dollars. Morgan Stanley estimates that cumulative global data center spending from 2025 to 2028 could approach 3 trillion dollars
+* **The bear case**: money is circling among a handful of companies. NVIDIA invests in OpenAI, for example, and OpenAI then uses that money to buy NVIDIA chips. In July, NVIDIA reportedly considered guaranteeing up to 250 billion dollars for OpenAI's data center in Ohio, and after the news came out, the price of NVIDIA's credit default swaps (CDS, 信用违约互换) hit a record high; in August the guarantee was finally capped at 105 billion dollars, taking effect in stages. The commitments in the "circular deals (循环交易)" NVIDIA is involved in reportedly exceed 750 billion dollars. Morgan Stanley estimates that cumulative global data center spending from 2025 to 2028 could approach 3 trillion dollars
 * **The bull case**: the revenue is real, and it is accelerating. Anthropic and OpenAI together already have more than 100 billion dollars in annualized revenue, and NVIDIA's revenue doubled in a year
 * **The historical parallel**: in the telecom bubble around 2000, companies laid huge amounts of fiber. Many of them went bankrupt, but that fiber later carried the entire internet era. A bubble and a real technological revolution can exist at the same time. For founders, the important thing is not to call whether there is a bubble, but **not to build your company on the assumption that the funding environment will stay this good forever**
 
 ### 2.5 China
 
 * **Models**: China leads in open source (开源) models. DeepSeek V4, Kimi K3 and GLM 5.2 all have open weights (开放权重). Prices are low, and Doubao has about 345 million monthly active users (月活)
-* **Chips**: in January, the US switched H200 exports to China to case by case approval, with a 25 percent tariff (关税) and volume caps, and about 10 Chinese companies were approved; but Chinese customs then reportedly blocked H200s from entering the country. NVIDIA acknowledged in its annual report that it has effectively been shut out of China's data center market. Huawei plans to produce about 600,000 Ascend 910C chips this year
+* **Chips**: in January, the US switched H200 exports to China to case by case approval, with a 25 percent tariff (关税) and volume caps; but Chinese customs reportedly blocked H200s from entering the country that same month. In May the US approved about 10 Chinese companies to buy them, but Beijing did not let the chips in, and actual shipments were small. NVIDIA acknowledged in its annual report that it has effectively been shut out of China's data center market. Huawei plans to produce about 600,000 Ascend 910C chips this year
 * **The result**: the US and Chinese AI industries are forming two almost independent systems, from chips to models to applications
 
 ---
@@ -82,7 +82,7 @@ Both kinds of money end up flowing from downstream to upstream, that is, from la
 | Chip design | NVIDIA, AMD, Broadcom | Huawei HiSilicon, Cambricon | |
 | Cloud | AWS, Azure, Google Cloud, Oracle, CoreWeave | Alibaba Cloud, Huawei Cloud, Volcano Engine, Tencent Cloud | |
 | Models | OpenAI, Anthropic, Google, Meta, xAI | DeepSeek, Alibaba, Moonshot AI, Zhipu AI, MiniMax, ByteDance | Mistral (France) |
-| Applications | Cursor, Perplexity, Harvey, OpenEvidence and others | Doubao, Yuanbao, Qwen, Kimi and others | |
+| Applications | Cursor (in June 2026 SpaceX announced a deal to buy its parent company Anysphere for about 60 billion dollars in stock), Perplexity, Harvey, OpenEvidence and others | Doubao, Yuanbao, Qwen, Kimi and others | |
 
 ---
 
@@ -127,7 +127,7 @@ Chip export controls (出口管制) keep changing direction, China leads in open
 "When can the data center get power?" has become the first criterion for choosing a site, and there are long queues for both gas turbines (燃气轮机) and transformers (变压器) (see [Energy and Power](energy_power.md)).
 
 ### 5.5 Regulation
-* **US**: efforts to unify AI rules at the federal level have stalled. A presidential executive order (行政令) directs the Justice Department to challenge state AI laws, but an executive order cannot by itself override state law. In 2025, 38 states passed 145 AI related laws; California's SB 53 and Texas's TRAIGA took effect in January 2026; Colorado's AI Act was heavily amended and pushed back to take effect in January 2027
+* **US**: efforts to unify AI rules at the federal level have stalled. A presidential executive order (行政令) directs the Justice Department to challenge state AI laws, but an executive order cannot by itself override state law. In 2025, states introduced about 1,200 AI related bills, of which about 145 became law (according to MultiState); California's SB 53 and Texas's TRAIGA took effect in January 2026; Colorado's AI Act was heavily amended and pushed back to take effect in January 2027
 * **EU**: the AI Act's transparency obligations (透明度义务) took effect in August 2026, and the high risk obligations were delayed to December 2027
 * **China**: mandatory labeling (强制标识) of AI generated content (AIGC)
 
@@ -139,7 +139,7 @@ This one matters to you directly.
 * **Conclusion**: entry level jobs really are getting weaker, especially in software; but whether AI is the main cause is still being debated by researchers
 
 ### 5.7 The Strongest Capabilities Are Starting to Come with Restricted Access
-Anthropic's Mythos and Google's Gemini 4 Argon are open only to a small number of cybersecurity partners; OpenAI canceled the release of GPT 6.1 Astra over safety concerns (see the first round report).
+Anthropic's Mythos 5.1 is still not publicly released and is open only to vetted organizations (cybersecurity organizations can apply to a three tier verification program, while life sciences access is by invitation only), and about 200 organizations can use it today; Google's Gemini 4 Argon was likewise opened first only to cyber defenders; OpenAI canceled the release of GPT 6.1 Astra over safety concerns (see the first round report).
 
 ---
 

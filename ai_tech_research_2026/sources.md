@@ -132,6 +132,7 @@
 * [Orforglipron FDA approval April 2026 (ChemVerify)](https://www.chemverify.com/learn/orforglipron-fda-approval-april-2026)
 * [Semaglutide patent expires in China (VCBeat)](https://www.vcbeathealth.com/article/2957)
 * [Chinese drugmakers prep for semaglutide generics (Pharmaceutical Technology)](https://www.pharmaceutical-technology.com/news/chinese-drugmakers-prep-for-looming-semaglutide-generics-horizon/)
+* [Semaglutide generics in China and data protection (Sina Finance, June 16 2026)](https://finance.sina.com.cn/cj/2026-06-16/doc-inicrivm7529202.shtml)
 * [CRISPR Clinical Trials: A 2026 Update (IGI)](https://innovativegenomics.org/news/crispr-clinical-trials-2026/)
 * [CRISPR breakthrough brings first in body cure (Forbes)](https://www.forbes.com/sites/jonmarkman/2026/04/29/crispr-breakthrough-brings-first-in-body-cure-with-lonvo-z/)
 * [Take note: The AI scribe era is here (Medical Economics)](https://www.medicaleconomics.com/view/take-note-the-ai-scribe-era-is-here)
@@ -149,6 +150,7 @@
 * [Trina Solar 907W tandem module (EnergyTrend)](https://www.energytrend.com/news/20260602-51509.html)
 * [Tandem PV 30.4% demonstration module (pv magazine USA)](https://pv-magazine-usa.com/2026/06/01/tandem-pv-announces-30-4-efficient-perovskite-silicon-demonstration-module-2/)
 * [Every nuclear powered data center deal (SMR Intel)](https://smrintel.com/nuclear-data-center-deals/)
+* [Microsoft agrees to buy power from Helion in 2028 (CNBC, May 10 2023)](https://www.cnbc.com/2023/05/10/microsoft-agrees-to-buy-power-from-sam-altman-backed-helion-in-2028.html)
 * [Amazon signs 20 year nuclear deal with Constellation (DigiTimes)](https://digitimes.com/news/a20261005PD246/amazon-nuclear-demand-plant-revenue.html)
 
 ## 量子计算

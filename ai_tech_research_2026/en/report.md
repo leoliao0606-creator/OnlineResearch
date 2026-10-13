@@ -44,7 +44,7 @@ GPT Live 1's voice layer costs 0.05 dollars per minute (the backend reasoning mo
 *What it means for products*: Voice is one of the most mature and easiest to monetize directions right now.
 
 **5. Traffic entry points are shifting, and AI assistants are becoming the new "search engine plus app store."**
-35% of US consumers use AI when looking for products; ChatGPT launched plugin extensions that embed full apps inside a conversation; Doubao (豆包) had 382 million monthly active users (月活) in June; Apple opened its Foundation Models framework to third party models.
+A January 2026 Similarweb survey found that at the discovery stage of shopping, 35% of US respondents rated AI tools the most useful, while only 13.6% chose search engines; ChatGPT launched plugin extensions that embed full apps inside a conversation; Doubao (豆包) had 382 million monthly active users (月活) in June; Apple opened its Foundation Models framework to third party models.
 *What it means for products*: Generative engine optimization (GEO, 生成式引擎优化), meaning getting AI to recommend you, and "building apps inside assistants" are two new channels.
 
 **6. AI in the physical world is accelerating, but most of it is still early.**
@@ -94,13 +94,13 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 | July 26 | Moonshot AI (月之暗面) | Kimi K3 open weights | 2.8 trillion total parameters, 104 billion active, 1 million token context | Open source |
 | July 31 | DeepSeek | V4 Flash official release | 284B MoE, MIT license | Open source |
 | September 3 | OpenAI | GPT 6 Astra | 1 million token context; OSWorld 2.0 72.6%; DeepSWE 74.1% | $10 / $50 |
-| September 22 | Anthropic | Claude Opus 5.5 | Roughly as capable as Fable 5.1, 40% cheaper to run than Opus 5 | $4 / $20 |
+| September 22 | Anthropic | Claude Opus 5.5 | Roughly as capable as Fable 5.1; list price 20% lower than Opus 5, and Anthropic estimates the actual cost of running typical tasks is about 40% lower | $4 / $20 |
 | September 22 | Alibaba (阿里) | Qwen 4 announcement | Four tiers, still in training, no release date | |
 | September 29 | OpenAI | GPT 6.1 Sol | Coding and computer use close to Astra | $2 / $10 |
 | September 30 | Google | Gemini 4 Argon | Output limit of 1 million tokens; DeepSWE 77.9%; opened first to cyber defenders | $4 / $20 ($2 / $10 during the launch promotion); not yet open to ordinary developers |
 
 **Signals worth noting**
-* **Tighter safety controls**: OpenAI canceled the release of GPT 6.1 Astra because of a safety regression; Anthropic's Mythos and Google's Argon were both opened only to trusted partners first. The strongest capabilities will reach ordinary developers later and later, and with more and more conditions attached
+* **Tighter safety controls**: OpenAI canceled the release of GPT 6.1 Astra because of a safety regression; Anthropic's Mythos 5.1 is still not publicly released and is open only to vetted organizations (cybersecurity organizations can apply to a three tier verification program, while life sciences access is by invitation only), and about 200 organizations can use it today; Google's Argon was likewise opened first only to cyber defenders. The strongest capabilities will reach ordinary developers later and later, and with more and more conditions attached
 * **Capability tiers are becoming clear**: flagship models handle long, complex tasks, midrange models cover 80% of everyday needs, and small models handle classification and routing (OpenAI launched a dedicated Decisions API)
 * **Diffusion language models (扩散语言模型)**: Inception's Mercury 2.5 generates more than 1,100 tokens per second, about 10 times as fast as a typical model, with quality in the Claude Haiku 4.5 class. It suits scenarios that are extremely sensitive to speed, such as real time (实时) completion and the "fast reply layer" in voice conversations
 
@@ -111,7 +111,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 **Key developments**
 * **Managed agent platforms**: Claude Managed Agents entered public beta on April 8, offering sandboxes, checkpoints, credential management, permission controls and end to end tracing. It is billed for model usage plus 0.08 dollars per running hour, and Notion, Rakuten (乐天) and Sentry already use it in production. At DevDay (September 29), OpenAI launched the Agents API in public beta, with support for managed execution, memory, multi agent setups and computer use. Google added Managed Agents to the Gemini API in May
 * **MCP**: The new specification on July 28 changed the protocol to a stateless, cacheable structure, strengthened authentication and introduced an extensions framework. It solves the scaling problems of multi tenant cloud deployments. There are more than 10,000 public MCP connectors (a late 2025 figure), and the official SDKs get close to 500 million downloads a month (July 2026)
-* **Coding agents are the largest agent market today**: Claude Code reached 2.5 billion dollars in annualized revenue (年化收入) within nine months; Cursor's annualized revenue rose from 2 billion dollars in February to more than 4 billion dollars in June
+* **Coding agents are the largest agent market today**: Claude Code had passed 2.5 billion dollars in annualized revenue (年化收入) by February 2026, about nine months after launch (no separate figure has been published since); Cursor's annualized revenue rose from 2 billion dollars in February to more than 4 billion dollars in June, and in June SpaceX announced a deal to buy Cursor's parent company Anysphere for about 60 billion dollars in stock
 * **Always on personal agents**: Google's Gemini Spark handles tasks for users 24/7 on cloud virtual machines; the open source Hermes Agent (more than 32,000 GitHub stars) can generate and improve its own skills from experience; Tencent (腾讯) opened agent capabilities to all Yuanbao (元宝) users for free
 * **Agent payments**: There are many protocols (ACP, UCP, AP2, x402, MPP), but no winner yet. OpenAI shut down Instant Checkout in March and went back to a "discover products, then redirect to the merchant" model, which shows the market has not yet accepted agents paying directly
 * **Enterprise adoption**: According to Gartner, 80% of enterprise applications released or updated in the first quarter of 2026 had at least one agent built in; but data from S&P and McKinsey show that only 31% of companies actually have agents running in production (47% in banking and insurance, 18% in healthcare, 14% in government)
@@ -132,7 +132,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 **Video**
 * Native audio has become standard: Veo 3.1, Kling (可灵) 3.0, MiniMax H3 and LTX 2.5 can all generate video with synchronized sound in a single pass. Kling 3.0 supports 15 second single shots, 4K and lip sync in 5 languages; Kling 4.0 Flash entered closed beta on September 28 (3 to 30 seconds, 4K, 10 bit HDR)
 * OpenAI shut down the Sora app on April 26 and retired the API on September 24. This shows that a pure video generation tool has a hard time sustaining a consumer product
-* Kling AI raised more than 3 billion dollars in the third quarter
+* Kling AI raised about 19 billion yuan (about 2.8 billion dollars) in the third quarter, at a post money valuation of about 18 billion dollars
 
 **3D**
 * Meshy 7 (August) supports PBR materials and automatic rigging, has game engine plugins, and raised a 400 million dollar Series B; Tencent Hunyuan 3D (腾讯混元 3D) 3.1 is offered as a hosted service, and version 2.1 is open source
@@ -166,7 +166,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 ### 2.6 AI for Science
 
 * **AlphaEvolve**: Its one year report in May showed that it is already used inside Google for data center (数据中心) scheduling, TPU chip design and compute kernel optimization
-* **Drug design**: Isomorphic Labs' Drug Design Engine doubled AlphaFold 3's score on a generalization test for protein ligand structure prediction, but it is not available externally. Meanwhile, DeepMind disbanded the AlphaFold team, and Nobel laureate John Jumper joined Anthropic in June
+* **Drug design**: Isomorphic Labs' Drug Design Engine doubled AlphaFold 3's score on a generalization test for protein ligand structure prediction, but it is not available externally. Meanwhile, DeepMind disbanded the AlphaFold team, and in June Nobel laureate John Jumper announced he was leaving DeepMind to join Anthropic
 * **AI scientists**: Google Co Scientist found a candidate drug for fibrosis that blocked 91% of the relevant response in lab tests; FutureHouse's Robin proposed using the glaucoma drug ripasudil for dry macular degeneration, and the idea was confirmed experimentally; AxiomProver wrote machine verifiable proofs in Lean and solved all 12 problems of the Putnam competition; Meta worked with mathematicians to publish 6 math papers using Muse Spark (October)
 * **Self driving labs**: There is already research in which LLM agents run automated labs to synthesize new solid state electrolyte materials
 
@@ -180,20 +180,20 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 * Developer ecosystem: Meta's developer toolkit for its glasses opened in preview in December 2025, with full availability planned for 2026; at IFA in September, Rokid launched AIUI Studio, which can generate glasses apps from natural language, along with an agent store, and has more than 15,000 developers in China
 * In China: Alibaba's Quark (夸克) glasses (from 1,899 yuan) and Xiaomi (小米, about one third of the Chinese market). Samsung's smart glasses launch this fall, and Apple is also preparing to enter
 
-**Screenless AI devices**: The first device from OpenAI and Jony Ive is planned to be unveiled in the second half of the year. It is reportedly a screenless home speaker or ear worn device; the form factor has not been confirmed.
+**Screenless AI devices**: According to court filings, the first device from OpenAI and Jony Ive will not ship until the end of February 2027 at the earliest. It is reportedly a screenless home speaker or ear worn device; the form factor has not been confirmed.
 
 **Health wearables**
 * Dexcom's over the counter (非处方) continuous glucose monitor (CGM, 连续血糖仪), Stelo, was approved in June for children aged 2 and older; Abbott's Libre Duo was approved in August, the world's first device that monitors glucose and ketones at the same time
 * Cuffless blood pressure: RingConn Gen 3 makes blood pressure insights a core feature and went on sale in May; but so far no smart ring has received FDA clearance for blood pressure
 
 **Brain computer interfaces**
-* On March 13, China's National Medical Products Administration (NMPA) approved Neuracle's (博睿康) NEO semi invasive brain computer interface for commercial use, to restore partial hand function in patients with cervical spinal cord injuries. It is the world's first brain computer interface available outside clinical trials (临床试验). As of June, China had approved 5 brain computer interface products. BCI is listed as one of the six future industries in the 15th Five Year Plan (“十五五”规划)
-* Neuralink's speech restoration and vision restoration programs received FDA breakthrough device designation (突破性器械认定), but all of its programs are still in clinical trials
+* On March 13, China's National Medical Products Administration (NMPA) approved Neuracle's (博睿康) NEO semi invasive brain computer interface for commercial use, to restore partial hand function in patients with cervical spinal cord injuries. It is the world's first implanted brain computer interface approved for commercial use. As of June, China had approved 5 brain computer interface products. BCI is listed as one of the six future industries in the 15th Five Year Plan (“十五五”规划)
+* Neuralink's speech restoration and vision restoration programs received FDA breakthrough device designation (突破性器械认定), but all of its programs are still in clinical trials (临床试验)
 
 ### 2.8 Biomedicine
 
 * **Oral GLP 1**: Eli Lilly's orforglipron (Foundayo) was approved by the FDA on April 1, the first oral small molecule GLP 1 that can be taken without restrictions on food or water. It went from submission to approval in only 50 days, the fastest approval of a new molecular entity since 2002
-* **Semaglutide patent expiry in China**: The core patent expired on March 20, prices fell by more than 50%, and domestic generics are under review
+* **Semaglutide patent expiry in China**: The core patent expired on March 20, 2026, and prices fell by more than 50%; but because of data protection, domestic generics are not expected to be approved until April 2027 at the earliest
 * **Gene editing**: Intellia released the world's first Phase 3 results for an in vivo CRISPR therapy; Beam's in vivo base editing therapy for PKU received IND clearance; Prime Medicine began the first human trial of in vivo prime editing in New Zealand. More than 50 CRISPR trials worldwide are recruiting patients
 * **AI clinical documentation**: 29% of US doctors use AI voice documentation tools, known as AI scribes (AI 病历助手), up from 20% in April 2025; 70% of doctors at UCSF use them every day; Kaiser has covered 2.5 million patient visits. Epic launched a native tool and athenahealth offers one for free, so this market is already commoditized in the US
 * **Regulation**: As of September, the FDA had authorized more than 1,600 AI medical devices; new guidance on January 6 loosened oversight of clinical decision support (临床决策支持) software
@@ -204,7 +204,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 * **Sodium ion batteries**: CATL (宁德时代) and Changan (长安) unveiled in February the first passenger car planned for mass production with sodium ion batteries (the Changan Nevo A06, 长安启源 A06), and cell mass production is planned before the end of the year
 * **Solid state batteries**: CATL, BYD (比亚迪), Toyota and Samsung have all set 2027 as the target for all solid state batteries; ProLogium's (辉能) lithium ceramic battery reached 381 Wh/kg in TÜV verification and has entered mass production
 * **Perovskite tandem solar photovoltaics (光伏, solar PV)**: LONGi's (隆基) tandem cell reached 35.5% efficiency (July), a world record; Trina Solar's (天合) tandem module reached 907W at 29.2% efficiency. Commercial modules range from 24% to 29% efficiency
-* **AI power demand**: US tech giants have signed 13 nuclear power deals totaling more than 9.8 GW; in April Microsoft signed a power purchase agreement (购电协议, PPA) with the fusion company Helion
+* **AI power demand**: US tech giants have signed a number of nuclear power purchase agreements (购电协议, PPA), which by the Carnegie Endowment's count could supply up to about 13 GW in total; Microsoft signed a power purchase agreement with the fusion company Helion back in May 2023, with power planned to start flowing in 2028
 
 **What it means for products**: These are all asset heavy sectors that small teams can hardly enter directly. Possible indirect opportunities are software and data services related to energy storage (储能) and charging, but this round did not research them in depth.
 
@@ -219,7 +219,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 
 * **Drone delivery**: Meituan's (美团) Keeta drones received a commercial license covering all territory in May, with more than 900,000 cumulative orders; Zipline has made 2.5 million deliveries, its partner merchants grew thirteenfold in the first half, and it completes a delivery every 30 seconds on average; Wing and Walmart plan to cover 270 stores by 2027
 * **eVTOL**: EHang's (亿航) EH216 S has obtained all three CAAC certificates and begun commercial operations; a Shenzhen to Zhuhai route is expected to open this year at about 200 to 300 yuan per seat
-* **Robotaxis**: Waymo has about 3,000 vehicles and about 500,000 paid rides a week, and added 3 new cities in September; Apollo Go (萝卜快跑) covers 26 cities; Tesla had only 25 unsupervised vehicles operating in Texas in April
+* **Robotaxis**: As of March, Waymo was providing about 500,000 paid rides a week (with a fleet of about 3,000 vehicles), aims for 1 million a week by year end, and added 3 new cities in September; Apollo Go (萝卜快跑) covered 26 cities as of the end of 2025; Tesla had only 25 unsupervised vehicles operating in Texas in April
 * **Direct to cell satellites**: Starlink has more than 650 direct to cell satellites serving 22 countries, and had 16 million cumulative users in March
 
 ### 2.12 Chips and Compute
@@ -246,7 +246,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 **Regulation**
 * **China**: The AIGC labeling measures have been in force since September 1, 2025, and enforcement inspections stepped up markedly in 2026. They require explicit labels plus implicit labels in metadata; AI advertising materials must carry a metadata watermark containing the brand's credit code. In addition, providing generative AI services also requires algorithm filing (算法备案), a security assessment and real name verification of users
 * **EU**: The Digital Omnibus (effective July 27) pushed the compliance deadline for standalone high risk AI systems back from August 2026 to December 2, 2027, but the Article 50 transparency obligations still took effect on August 2, 2026
-* **US**: Since January 1, California's SB 243 has required companion chatbots to tell users clearly that they are AI, to remind minors every 3 hours, and to set up suicide intervention protocols. From July 2027, it will prohibit simulating romance or sentience with minors
+* **US**: Since January 1, California's SB 243 has required companion chatbots to tell users clearly that they are AI, to remind minors every 3 hours, and to set up suicide intervention protocols. SB 1119 ("Adam's Law"), signed in September, builds on SB 243; most of its new obligations take effect on July 1, 2027, including age detection, risk assessments before launch, notifying parents when signs of suicidal intent are detected, and independent audits
 
 ---
 
@@ -291,7 +291,7 @@ Scores for each technology are in [tech_list.csv](tech_list.csv); the scoring me
 
 1. **Giants moving in**: OpenAI, Google, Apple, Tencent and ByteDance (字节) are all investing in "personal agents" and "apps inside assistants." Any product too close to general use cases may be replaced by a system level feature. The response is to go deep into vertical industries and private data
 2. **The gap between hype and reality**: Home humanoid robots, Tesla Robotaxi, the effect of AI tutoring and agents paying directly have all shown more hype than substance. When judging a technology, look for independently verified delivery data
-3. **Restricted access to capabilities**: The strongest cybersecurity capabilities (Mythos, Argon) are open only to a few partners, and other high risk capabilities may go the same way in the future. Do not bet a product on "waiting for some capability to open up"
+3. **Restricted access to capabilities**: The strongest model capabilities are currently open only to vetted organizations (Mythos 5.1 is not publicly released and about 200 organizations can use it; Argon was opened first only to cyber defenders), and other high risk capabilities may go the same way in the future. Do not bet a product on "waiting for some capability to open up"
 4. **Regulatory change**: China's labeling rules and algorithm filing, the EU's high risk obligations in 2027, and US state laws on companion AI will all affect consumer products
 5. **Data reliability**: This research relied mainly on search summaries and secondhand reports. Some numbers (especially revenue and market share) may be defined differently across sources
 
