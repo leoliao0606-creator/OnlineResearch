@@ -127,8 +127,8 @@ The summary table first, then a short profile of each.
 | :--- | :--- | :--- | :--- | :--- |
 | Semiconductors | 1.5 to 1.65 trillion dollars | Very high | Highly concentrated | AI drives about 90 percent growth; memory chips surge |
 | Software | 1.47 trillion dollars | Very high | Medium | Shifting from per seat pricing (按人头收费) to outcome based pricing (按结果收费) |
-| IT services | 1.87 trillion dollars | Medium | Fragmented | AI agents replace human delivery |
-| Telecom | 2 to 3 trillion dollars | Medium low | Concentrated | Stagnant growth; satellite to phone service appears |
+| IT services | About 1.6 to 1.9 trillion dollars (definitions differ) | Medium | Fragmented | AI agents replace human delivery |
+| Telecom | About 1.4 to 1.9 trillion dollars | Medium low | Concentrated | Stagnant growth; satellite to phone service appears |
 | Advertising and games | Ads 1.3 trillion, games 213.9 billion dollars | Very high for platforms | Concentrated | AI search changes where traffic comes from |
 | Energy | 3.4 trillion dollars of annual investment | Volatile | Medium | Oil price shock; electricity becomes AI's bottleneck |
 | Mining and materials | | Cyclical | Medium | Record copper prices; competition for critical minerals |
@@ -138,11 +138,11 @@ The summary table first, then a short profile of each.
 | Logistics and trade | Ecommerce 6.9 trillion dollars | Low | Fragmented | Shipping hit by war; tariffs change |
 | Food and agriculture | Agricultural value added about 4 to 5 trillion dollars | Very low at retail | Fragmented | Record food import bills; weight loss drugs reduce demand |
 | Defense | 2.89 trillion dollars | Medium | Concentrated | Record global military spending; drones and autonomous systems |
-| Healthcare | About 10 trillion dollars globally, 5.7 trillion in the US | Varies widely | Fragmented | AI documentation spreads; regulation loosens |
+| Healthcare | More than 10 trillion dollars globally, about 6 trillion in the US | Varies widely | Fragmented | AI documentation spreads; regulation loosens |
 | Finance | Bank revenue 6.4 trillion dollars | Largest profit pool | Medium | AI agents begin paying for people; insurers exclude AI risk |
 | Education | 7.3 trillion dollars | Low | Fragmented | Mixed evidence on AI tutoring |
 | Professional services | Legal about 1.1 trillion dollars | Medium high | Fragmented | The billable hour is under pressure |
-| Travel, aviation and elder care | Tourism 12 trillion (incl. indirect), elder care about 2 trillion | Very low for airlines | Fragmented | Airline profits halved; severe caregiver shortage |
+| Travel, aviation and elder care | Tourism 12 trillion (incl. indirect), elder care estimates vary widely | Very low for airlines | Fragmented | Airline profits halved; severe caregiver shortage |
 
 ### A. Digital and Technology
 
@@ -160,12 +160,12 @@ The summary table first, then a short profile of each.
 
 **3. IT Services**
 * **How money flows**: companies pay firms like Accenture and Infosys by the person day to implement systems and maintain software
-* **What changed in 2026**: spending is about 1.87 trillion dollars, 1.3 times the software market. "AI native service companies" that deliver with AI and charge by outcome are disrupting this labor heavy industry
+* **What changed in 2026**: Gartner's July forecast puts IT services spending at about 1.57 trillion dollars (its April definition gave about 1.87 trillion; the difference is mainly whether cloud infrastructure is included), slightly more than the software market. "AI native service companies" that deliver with AI and charge by outcome are disrupting this labor heavy industry
 * **For founders**: see Direction 9 in the two kinds of opportunities document
 
 **4. Telecom**
 * **How money flows**: users pay monthly for calls and data; carriers invest huge sums in base stations and fiber
-* **What changed in 2026**: growth has stalled; global wireless carriers' revenue fell about 1.4 percent a year over the past five years. Starlink's direct to phone service already has 16 million users and is starting to compete with traditional networks in remote areas
+* **What changed in 2026**: growth has stalled; global wireless carriers' revenue fell about 1.4 percent a year over the past five years. Starlink's direct to phone service has served more than 16 million users in total, or about 7.4 million monthly active devices (end of March 2026), and is starting to compete with traditional networks in remote areas
 * **For founders**: carriers themselves are hard to enter, but satellite communication creates new use cases
 
 **5. Advertising, Media and Games**
@@ -183,17 +183,17 @@ The summary table first, then a short profile of each.
 
 **7. Mining and Materials**
 * **How money flows**: miners extract ore, smelters process it, manufacturers buy it
-* **What changed in 2026**: AI data centers and electrification are pushing up copper demand; copper briefly hit 14,527 dollars a ton in January and set new records in May; several institutions expect a copper supply gap of 150,000 to 600,000 tons this year. New mines often take more than ten years from discovery to production
+* **What changed in 2026**: AI data centers and electrification are pushing up copper demand; copper briefly hit 14,527 dollars a ton in January and set several new records in August and September, with London copper peaking at more than 14,800 dollars a ton; several institutions expect a copper supply gap of 150,000 to 600,000 tons this year. New mines often take more than ten years from discovery to production
 * **For founders**: AI driven mineral exploration, battery recycling, supply chain (供应链) tracking for critical minerals
 
 **8. Chemicals**
 * **How money flows**: turn oil and gas into basic materials such as plastics, fertilizers and coatings, sold to almost every manufacturer
-* **What changed in 2026**: China now accounts for 46 percent of global chemical sales, and Europe has fallen to 13 percent; Europe has closed about 9 percent of its capacity since 2022, and BASF shut more than 20 production units this year. Industry utilization is below 75 percent
+* **What changed in 2026**: by 2024 China accounted for 46 percent of global chemical sales, and Europe had fallen to 13 percent; Europe has closed about 9 percent of its capacity since 2022, and major producers such as BASF keep shutting production units. Industry utilization is below 75 percent
 * **For founders**: basic chemicals are a capital heavy, crowded market, but using AI to discover new specialty chemicals may be an opportunity (see Direction 3)
 
 **9. Autos and Mobility**
 * **How money flows**: carmakers design and assemble; upstream suppliers provide batteries, chips and parts; downstream are dealers, insurance and repair
-* **What changed in 2026**: global EV sales are expected to exceed 23 million, about 27 percent of new cars; China sold about 63 percent of the world's EVs, and BYD targets 5 to 5.5 million vehicles this year. Robotaxis are scaling in the US and China
+* **What changed in 2026**: global EV sales are expected to exceed 23 million, about 27 percent of new cars; China sold about 63 percent of the world's EVs in 2025; BYD's target at the start of the year was 5 to 5.5 million vehicles, but it sold only about 3.13 million in the first three quarters, down about 4 percent, so the target looks out of reach. Robotaxis are scaling in the US and China
 * **For founders**: automotive software, automotive grade verification, aftermarket and insurance data
 
 **10. Construction and Real Estate**
@@ -204,7 +204,7 @@ The summary table first, then a short profile of each.
 
 **11. Logistics and Trade**
 * **How money flows**: ocean shipping, air freight, trucking, warehousing, last mile delivery, plus customs brokerage and trade finance
-* **What changed in 2026**: the Hormuz closure affected about 10.7 percent of container capacity, and rates on major routes doubled; container traffic through the Suez Canal is still about 60 percent below 2023. Global ecommerce is about 6.9 trillion dollars, 21 percent of retail
+* **What changed in 2026**: the Hormuz closure affected about 10.7 percent of container capacity, and rates on major routes doubled; traffic through the Suez Canal is still far below 2023: total ship transits in early 2026 were about 60 percent lower, and container ships have recovered even more slowly. Global ecommerce is about 6.9 trillion dollars, 21 percent of retail
 * **For founders**: customs and compliance (合规) automation, freight software, drone delivery
 
 **12. Food and Agriculture**
@@ -221,14 +221,14 @@ The summary table first, then a short profile of each.
 
 **14. Healthcare**
 * **How money flows**: one of the most complex industries. Patients, doctors, hospitals, insurers, drug makers, device makers and governments all pay each other, and the user and the payer are often different
-* **Size**: global health spending is about 10 trillion dollars; the US alone spends more than 5.7 trillion dollars in 2026, about 18 percent of GDP; global drug spending is expected to exceed 2.6 trillion dollars by 2030
+* **Size**: global health spending was about 9.8 trillion dollars in 2021 (the latest comparable WHO data) and is clearly higher now; the US alone spends about 6.0 trillion dollars in 2026, about 18.7 percent of GDP; global drug spending is expected to exceed 2.6 trillion dollars by 2030
 * **What changed in 2026**: weight loss drugs took off; 29 percent of US doctors use AI to write notes from voice; in January the FDA loosened oversight of clinical decision support (临床决策支持) software; in March China approved the world's first implanted (semi invasive) brain computer interface (脑机接口) for the market
 * **For founders**: automating administrative work (a huge amount of money goes to paperwork and claims (理赔)), medical devices, remote monitoring. Regulation is strict and entry is slow, but the moat (护城河) is deep
 
 **15. Finance**
 * **How money flows**: banks earn the interest rate spread (利差) and fees; payment companies take a cut of each transaction; insurers collect premiums (保费), pay claims, and invest the float (浮存金)
 * **Size**: banking earned 6.4 trillion dollars of revenue and 1.3 trillion dollars of net income in 2025, the largest profit pool in the world; global insurance premiums are about 7 trillion dollars (Bain estimates about 7.1 trillion dollars for 2025)
-* **What changed in 2026**: AI agents began paying on behalf of users, and payment protocols are competing; from January, US insurers excluded losses caused by generative AI from standard commercial insurance (商业保险), creating a market for specialized AI insurance
+* **What changed in 2026**: AI agents began paying on behalf of users, and payment protocols are competing; from January, ISO, which writes standard US policy forms, offered optional generative AI exclusions, so more and more insurers can exclude losses caused by generative AI from commercial insurance (商业保险), creating a market for specialized AI insurance
 * **For founders**: agent payments, AI risk insurance, finance for small businesses. Heavily regulated, but the profit pool is large
 
 **16. Education**
@@ -246,7 +246,7 @@ The summary table first, then a short profile of each.
 **18. Travel, Aviation and Elder Care**
 * **Tourism**: including indirect effects, about 12 trillion dollars in 2026, nearly 10 percent of global GDP, supporting 376 million jobs
 * **Aviation**: about 1.17 trillion dollars in revenue, but because of the war and oil prices, the 2026 profit forecast was cut from 41 billion to 23 billion dollars, only 4.50 dollars per passenger. A textbook case of perfect competition
-* **Elder care**: the global elder care market is about 2 trillion dollars. People aged 80 and over will reach 426 million by 2050; caregiver shortages are global and especially severe in China, Japan and Europe
+* **Elder care**: estimates of the global elder care market vary widely, from tens of billions to more than a trillion dollars, depending on whether home care and senior housing are included. People aged 80 and over will reach 426 million by 2050; caregiver shortages are global and especially severe in China, Japan and Europe
 * **For founders**: elder care is a classic case of "certain demand, short supply, little technology." Care coordination, remote monitoring and care robots are all directions
 
 ---
