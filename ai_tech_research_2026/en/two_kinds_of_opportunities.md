@@ -100,11 +100,11 @@ One overall observation first: **in the past six months, capital outside China h
 ### Direction 3: Own the Discoveries Instead of Selling AI Research Tools
 
 **What changed**
-* Lila Sciences has raised 550 million dollars in total at a valuation (估值) above 1.3 billion dollars; Periodic Labs raised 300 million dollars. Both are building autonomous labs with AI scientists
+* Lila Sciences reached a valuation (估值) above 1.3 billion dollars after its 2025 Series A, and in June 2026 it was reported to be in talks to raise about 2 billion dollars at a valuation of about 8.5 billion dollars; Periodic Labs raised a 300 million dollar seed round, and in 2026 it was reported to be raising at least 500 million dollars at a valuation of about 7.5 billion dollars. Both are building autonomous labs with AI scientists
 * Isomorphic Labs' new drug design engine doubled AlphaFold 3's performance, and the company chose not to release it
-* Google keeps AlphaEvolve for internal use; Google's Co Scientist and FutureHouse's Robin both have discoveries validated by experiments
+* Google opened AlphaEvolve to all Google Cloud customers in July 2026; Google's Co Scientist and FutureHouse's Robin both have discoveries validated by experiments
 
-**Possible secret**: The market for research software is small and budgets are tight, so selling tools does not make much money. **The money is in the intellectual property of the discoveries.** That is why Isomorphic keeps its model private. A small team's opportunity is not to build "general scientific superintelligence" but to pick a narrow category where experiments are cheap, iteration is fast, patents are defensible and there are clear buyers downstream. Then run the experimental loop yourself and hold the patents yourself.
+**Possible secret**: The market for research software is small and budgets are tight, so selling tools does not make much money; and tools like AlphaEvolve are becoming available to everyone, so the tool itself is hard to defend. **The money is in the intellectual property of the discoveries.** That is why Isomorphic keeps its model private. A small team's opportunity is not to build "general scientific superintelligence" but to pick a narrow category where experiments are cheap, iteration is fast, patents are defensible and there are clear buyers downstream. Then run the experimental loop yourself and hold the patents yourself.
 
 **Where the monopoly comes from**: patents, plus experimental data that keeps accumulating.
 
@@ -119,7 +119,7 @@ One overall observation first: **in the past six months, capital outside China h
 ### Direction 4: A Trust Layer for the Agent Economy: Identity, Audit and Insurance
 
 **What changed**
-* Starting January 1, 2026, standard US insurance forms exclude damage caused by generative AI from commercial general liability coverage, and large insurers such as AIG and Chubb followed. In other words, if a company's agent makes a mistake, its existing insurance mostly will not pay
+* Starting in January 2026, ISO, the US body that drafts standard policy forms, introduced optional generative AI exclusions (除外条款) that insurers can add to commercial general liability policies at renewal; AIG, W. R. Berkley and others have filed similar exclusions with regulators. If a company's agent makes a mistake, more and more policies may not pay
 * Specialized agent insurance has appeared: AIUC (which certifies and insures), Klaimee (backed by YC), and Testudo (backed by Lloyd's)
 * Agents are beginning to pay and sign on behalf of users (protocols such as ACP and AP2); 31 percent of enterprises already run at least one agent in production
 
@@ -195,7 +195,7 @@ One overall observation first: **in the past six months, capital outside China h
 
 **What changed**
 * Google's Genie 3 generates interactive worlds in real time; in the open source (开源) and academic world there are low compute real time world models (世界模型) such as Matrix Game 3.5 and DreamForge World
-* China has 2.046 million registered drones flying 1.11 million flights a day on average; Meituan's drones have a commercial license covering all territory; China's three carriers have deployed 5G Advanced low altitude sensing networks in more than 20 major cities
+* By the end of 2025, China had 3.287 million drones registered under its real name system, and they flew 45.3 million hours that year (the Civil Aviation Administration of China says the number passed 4.7 million in the first half of 2026); Meituan's drones have a commercial license covering all territory; China's three carriers have deployed 5G Advanced low altitude sensing networks in more than 20 major cities
 
 **Possible secret**: The first big business for world models may not be games but **exams**. Self driving cars, drones and robots all need testing across huge numbers of extreme scenarios before they go live. Whoever owns the most trusted simulated world for a domain becomes part of the certification process.
 
@@ -211,7 +211,7 @@ One overall observation first: **in the past six months, capital outside China h
 
 **What changed**
 * Models can now work autonomously for hours, and managed agent infrastructure has matured
-* Global IT services spending in 2026 is about 1.87 trillion dollars (Gartner), about six times the SaaS market; YC's summer 2026 list of startup ideas features AI native services
+* Global IT services spending is about 1.6 to 1.9 trillion dollars a year (Gartner, depending on the definition), more than five times the SaaS market; YC's summer 2026 list of startup ideas features AI native services
 * An industry blog estimates that companies delivering services with AI could reach 75 to 85 percent gross margins, close to software, while charging three to five times what a software subscription costs; but ICONIQ data show that the average gross margin of AI products was only about 45 percent in 2025 and is expected to be about 53 percent in 2026
 
 **Possible secret**: In many industries, customers do not want to buy software; they want "the job done." A service company where AI does 80 percent of the work and charges by outcome (按结果收费) can cut prices in a niche to a fraction of what traditional providers charge while earning far higher margins than providers that deliver with people, and possibly approaching software margins over time.
@@ -226,7 +226,7 @@ One overall observation first: **in the past six months, capital outside China h
 
 **What changed**
 * About one in eight US consumers uses a GLP 1 drug. A Cornell study found that households on these drugs spend 5.3 to 8 percent less per grocery trip, about 10 percent less on snacks, and about 8 percent less at fast food restaurants and coffee shops
-* JPMorgan estimates this could cost the food and beverage industry 30 to 55 billion dollars in annual sales by 2030
+* JPMorgan estimates this could cost the food and beverage industry 30 to 55 billion dollars in annual sales by 2030 to 2034
 * An oral GLP 1 was approved in April; semaglutide's core patent in China expired in March, prices fell by more than 50 percent, and Chinese generics are under review
 
 **Possible secret**: Tens of millions of people are having their appetite and tastes changed by drugs, but the food industry's recipes, portion sizes and channels are all designed for people who want to eat more. This is a rare structural shift in consumer demand caused by technology, and China's wave has only just started.
@@ -310,7 +310,7 @@ These are things that became **possible** or **cheap** between April and October
 16. One time gene editing inside the human body to treat disease: Intellia's in vivo CRISPR therapy already has Phase 3 results, and in vivo base editing has entered clinical trials
 17. Brain computer interfaces approved for commercial use and with insurance billing codes (China)
 18. Drone delivery with a commercial license covering all territory (Meituan)
-19. Ordinary phones connecting directly to satellites (Starlink has 16 million users)
+19. Ordinary phones connecting directly to satellites (Starlink's direct to cell service has served more than 16 million users in total)
 20. Mass produced sodium ion batteries: cheap and good in the cold
 21. AI glasses with developer access to first person video and audio
 
@@ -351,6 +351,7 @@ If you catch yourself proving there is no competition by saying "we are the only
 * [Startups raise $1.3B for AI scientists in materials discovery](https://kronosteknoloji.com.tr/news/startups-raise-1-3b-for-ai-materials-discovery-20260307)
 * [Who Pays When an Agent Gets It Wrong: 2026 AI agent liability and insurance (Zylos)](https://zylos.ai/research/2026-07-10-ai-agent-liability-insurance-underwriting/)
 * [Insurers face hidden AI liability as agent risks multiply (Insurance Business)](https://www.insurancebusinessmag.com/us/news/technology/insurers-face-hidden-ai-liability-as-agent-risks-multiply-582433.aspx)
+* [Verisk to roll out new general liability exclusions for generative AI exposures (Big I, late 2025)](https://www.independentagent.com/vu_resource/verisk-to-roll-out-new-general-liability-exclusions-for-generative-ai-exposures/)
 * [Insurers grapple with new fraud threat: AI generated images (SAS)](https://www.sas.com/en_us/news/press-releases/2026/may/synthetic-images-ai-insurance-fraud.html)
 * [Digital provenance explained (Devoteam)](https://www.devoteam.com/expert-view/digital-provenance-explained/)
 * [BCI pricing standards announced (Sina Finance, in Chinese)](https://finance.sina.com.cn/roll/2026-04-23/doc-inhvnnwy4995730.shtml)

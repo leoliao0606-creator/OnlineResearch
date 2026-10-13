@@ -98,11 +98,11 @@
 ### 方向 3：不卖 AI 科研工具，而是拥有发现本身
 
 **发生了什么**
-* Lila Sciences 累计融资 5.5 亿美元，估值（valuation）超过 13 亿美元；Periodic Labs 融了 3 亿美元。两家都在做自主实验室加 AI 科学家
+* Lila Sciences 2025 年 A 轮后估值（valuation）超过 13 亿美元，2026 年 6 月传出正以约 85 亿美元估值洽谈约 20 亿美元新融资；Periodic Labs 种子轮 3 亿美元，2026 年传出以约 75 亿美元估值融资至少 5 亿美元。两家都在做自主实验室加 AI 科学家
 * Isomorphic Labs 的新药物设计引擎把 AlphaFold 3 的成绩提高了一倍，但选择不对外开放
-* Google 的 AlphaEvolve 只在内部用；Google Co Scientist 和 FutureHouse 的 Robin 都有经实验验证的发现
+* Google 的 AlphaEvolve 已在 2026 年 7 月向所有 Google Cloud 客户开放；Google Co Scientist 和 FutureHouse 的 Robin 都有经实验验证的发现
 
-**可能的秘密**：科研软件市场小、预算低，卖工具赚不到大钱，**钱在发现的知识产权里**。Isomorphic 不开放模型就是这个逻辑。小团队的机会不在做"通用科学超级智能"，而在挑一个这样的窄类别：实验便宜、迭代快、专利能保护、下游有明确的买家。然后自己做实验闭环，自己持有专利。
+**可能的秘密**：科研软件市场小、预算低，卖工具赚不到大钱；而且 AlphaEvolve 这样的工具正在向所有人开放，工具本身很难成为壁垒，**钱在发现的知识产权里**。Isomorphic 不开放模型就是这个逻辑。小团队的机会不在做"通用科学超级智能"，而在挑一个这样的窄类别：实验便宜、迭代快、专利能保护、下游有明确的买家。然后自己做实验闭环，自己持有专利。
 
 **垄断从哪来**：专利，加上越积越多的实验数据。
 
@@ -117,7 +117,7 @@
 ### 方向 4：Agent 经济的信任层，包括身份、审计和保险
 
 **发生了什么**
-* 2026 年 1 月 1 日起，美国保险业的标准条款把生成式 AI 造成的损害排除在商业综合责任险之外，AIG、Chubb 等大保险公司跟进。也就是说，企业部署 Agent 出了错，原来的保险大多不赔
+* 2026 年 1 月起，美国保单条款机构 ISO 推出了可选的生成式 AI 除外条款（exclusion），保险公司可以在续保时加进商业综合责任险；AIG、W. R. Berkley 等已向监管申请类似条款。企业部署 Agent 出了错，越来越多的保单可能不赔
 * 专门的 Agent 保险开始出现：AIUC（同时做认证和承保）、YC 孵化的 Klaimee、Lloyd's 支持的 Testudo
 * Agent 开始代表用户付款和签约（ACP、AP2 等协议）；已有 31% 的企业有 Agent 在生产环境运行
 
@@ -193,7 +193,7 @@
 
 **发生了什么**
 * Google 的 Genie 3 能实时生成可交互的世界；开源（open source）和学术界有 Matrix Game 3.5、DreamForge World 这样低算力的实时世界模型
-* 中国登记的无人机达到 204.6 万架，日均飞行 111 万架次；美团无人机拿到全域商用许可；三大运营商已在 20 多个核心城市完成 5G A 低空感知网覆盖
+* 截至 2025 年底，中国实名登记的无人机达到 328.7 万架，全年飞行 4,530 万小时（民航局称 2026 年上半年已超过 470 万架）；美团无人机拿到全域商用许可；三大运营商已在 20 多个核心城市完成 5G A 低空感知网覆盖
 
 **可能的秘密**：世界模型的第一个大生意，可能不是游戏，而是"**考试**"。自动驾驶汽车、无人机、机器人上线前，都要在大量极端场景里测试。谁拥有某个领域最可信的仿真世界，谁就会成为认证流程的一部分。
 
@@ -209,7 +209,7 @@
 
 **发生了什么**
 * 模型已经能连续自主工作好几个小时，托管 Agent 基础设施也成熟了
-* 2026 年全球 IT 服务支出约 1.87 万亿美元（Gartner），大约是 SaaS 市场的 6 倍；YC 2026 年夏季的创业方向清单把 AI 原生服务列为重点
+* 全球 IT 服务支出每年约 1.6 万亿到 1.9 万亿美元（Gartner，口径不同），是 SaaS 市场的 5 倍以上；YC 2026 年夏季的创业方向清单把 AI 原生服务列为重点
 * 有行业博客估计，用 AI 交付服务的公司毛利有望做到 75% 到 85%，接近软件，而收费可以是软件订阅的 3 到 5 倍；但 ICONIQ 的数据显示，AI 产品目前的平均毛利率 2025 年只有约 45%，2026 年预计约 53%
 
 **可能的秘密**：很多行业的客户其实不想买软件，他们想买"事情办完了"。一家用 AI 完成八成工作、按结果收费（outcome based pricing）的服务公司，可以在某个细分领域把价格降到传统服务商的几分之一，同时毛利远高于靠人力交付的传统服务商，长期有可能接近软件。
@@ -224,7 +224,7 @@
 
 **发生了什么**
 * 美国大约八分之一的消费者在用 GLP 1 类药物。康奈尔大学的研究发现，用药家庭每次购物的花费下降 5.3% 到 8%，零食下降约 10%，快餐和咖啡店的消费下降约 8%
-* 摩根大通估计，到 2030 年这可能让食品饮料行业每年少卖 300 亿到 550 亿美元
+* 摩根大通估计，到 2030 至 2034 年，这可能让食品饮料行业每年少卖 300 亿到 550 亿美元
 * 口服 GLP 1 在 4 月获批；司美格鲁肽在中国的核心专利 3 月到期，价格下降超过 50%，国产仿制药在审批中
 
 **可能的秘密**：几千万人的食欲和口味正在被药物改变，但食品工业的配方、份量和渠道都是为"想多吃"的人设计的。这是一次少见的、由技术引起的消费需求结构性迁移，而中国的这一波才刚开始。
@@ -308,7 +308,7 @@
 16. 在人体内一次性编辑基因治病：Intellia 的体内 CRISPR 疗法已有三期临床结果，体内碱基编辑也已进入临床
 17. 获批商用、并且有医保收费编码的脑机接口（中国）
 18. 全域商用许可的无人机配送（美团）
-19. 普通手机直接连卫星（Starlink 已有 1,600 万用户）
+19. 普通手机直接连卫星（Starlink 直连手机累计已服务超过 1,600 万用户）
 20. 量产的钠离子电池，便宜、耐低温
 21. 带开发者接口的 AI 眼镜，能拿到第一视角的画面和声音
 
@@ -349,6 +349,7 @@
 * [Startups raise $1.3B for AI scientists in materials discovery](https://kronosteknoloji.com.tr/news/startups-raise-1-3b-for-ai-materials-discovery-20260307)
 * [Who Pays When an Agent Gets It Wrong: 2026 AI agent liability and insurance (Zylos)](https://zylos.ai/research/2026-07-10-ai-agent-liability-insurance-underwriting/)
 * [Insurers face hidden AI liability as agent risks multiply (Insurance Business)](https://www.insurancebusinessmag.com/us/news/technology/insurers-face-hidden-ai-liability-as-agent-risks-multiply-582433.aspx)
+* [Verisk to roll out new general liability exclusions for generative AI exposures (Big I, late 2025)](https://www.independentagent.com/vu_resource/verisk-to-roll-out-new-general-liability-exclusions-for-generative-ai-exposures/)
 * [Insurers grapple with new fraud threat: AI generated images (SAS)](https://www.sas.com/en_us/news/press-releases/2026/may/synthetic-images-ai-insurance-fraud.html)
 * [Digital provenance explained (Devoteam)](https://www.devoteam.com/expert-view/digital-provenance-explained/)
 * [脑机接口收费标准来了（新浪财经）](https://finance.sina.com.cn/roll/2026-04-23/doc-inhvnnwy4995730.shtml)

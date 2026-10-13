@@ -12,7 +12,7 @@ Research date: October 6, 2026. Because you did not specify a direction, the def
 | :--- | :--- | :--- | :--- | :--- |
 | A | AI voice receptionist for vertical industries | Full duplex (全双工) voice, managed agents (托管智能体), MCP | Overseas first, also viable in China | **High** |
 | B | AI search visibility monitoring and optimization (generative engine optimization, GEO, 生成式引擎优化) | AI assistants becoming the new entry point, falling prices of midrange models (中档模型) | China first; competition is fiercer overseas | **High** |
-| D | MCP connectors and industry agent templates for Chinese SaaS | New MCP specification, open source models, managed agents | China | **High** |
+| D | MCP connectors and industry agent templates for Chinese SaaS | New MCP specification, open source models, managed agents | China | **Medium** (lowered from high, since DingTalk, WeCom and Feishu now have official MCP servers) |
 | C | Compliance (合规) labeling and detection SaaS for AI generated content (AIGC) | China's labeling measures, Article 50 of the EU AI Act | China and the EU | Medium high |
 | E | Real time translation and dubbing for cross border livestreams and foreign trade communication | Full duplex voice, speech translation, video lip sync | Chinese merchants selling overseas | Medium high |
 | F | On device (端侧) AI note taker for privacy sensitive professions | Small on device models, Apple Foundation Models | Overseas first | Medium |
@@ -68,7 +68,7 @@ The priority weighs five factors: whether demand has been validated, whether the
 **Pain points**: The traffic entry point is shifting from search engines to AI assistants, but traditional search engine optimization (SEO, 搜索引擎优化) tools cannot see how often a brand appears in AI answers (the industry calls this share of model).
 
 **Why now**
-1. Similarweb's 2026 data show that 35% of US consumers use AI when looking for products, while only 13.6% use search engines
+1. A Similarweb survey from January 2026 found that, at the discovery stage of shopping for products, 35% of US respondents rated AI tools the most useful, while only 13.6% chose search engines
 2. Users who arrive from ChatGPT convert at 7%, versus 5% for those from Google
 3. Ahrefs found that 28.3% of the pages ChatGPT cites most often have no organic ranking on Google at all, which shows that GEO and SEO follow two different logics
 4. Chinese AI assistants have huge user bases: according to QuestMobile, in June 2026 Doubao had 382 million monthly active users (月活), Qwen (千问) 167 million and DeepSeek 130 million. But there are few monitoring tools built specifically for Chinese AI assistants (not systematically verified)
@@ -118,7 +118,7 @@ The priority weighs five factors: whether demand has been validated, whether the
 
 ## D. MCP Connectors and Industry Agent Templates for Chinese SaaS
 
-**In one sentence**: Build high quality MCP connectors for SaaS products widely used in China, such as DingTalk (钉钉), WeCom (企业微信), Yonyou (用友), Kingdee (金蝶) and Youzan (有赞), then package them into industry agent templates such as "order to reconciliation," "sales follow up" and "customer service tickets," with support for private deployment on open source models.
+**In one sentence**: On top of the official MCPs from DingTalk (钉钉), WeCom (企业微信) and Feishu (飞书), add connectors for ERP systems such as Yonyou (用友) and Kingdee (金蝶) and for business systems such as Youzan (有赞), then package them into cross system industry agent templates such as "order to reconciliation," "sales follow up" and "customer service tickets," with support for private deployment on open source models.
 
 **Target users**: IT leads at small and medium sized manufacturing, trading and retail companies, and the implementation partners that serve them.
 
@@ -126,17 +126,17 @@ The priority weighs five factors: whether demand has been validated, whether the
 
 **Why now**
 1. The new MCP specification released on July 28, 2026 was designed specifically for multi tenant cloud deployments: stateless, cacheable and with stronger authentication
-2. There are already more than 10,000 public MCP connectors worldwide, but most connect to overseas SaaS. Feishu (飞书) already has an official MCP, but it currently covers only cloud documents; as of our search, we had not seen standalone official MCP connectors for DingTalk or WeCom; the status of Yonyou and Kingdee is unverified
+2. There are already more than 10,000 public MCP connectors worldwide, but most connect to overseas SaaS. Feishu (lark openapi mcp), DingTalk and WeCom have all released official MCPs that cover common functions such as messages, documents and calendars; the status of Yonyou and Kingdee is unverified. The opportunity lies more in cross system industry templates and private deployment than in any single connector
 3. Open source models are now good enough. The DeepSeek V4 series uses the MIT license, which allows commercial use and private deployment and meets the requirement that data never leaves the organization
 4. Managed agent platforms charge by running time (for example, Claude Managed Agents charges 0.08 dollars per running hour), so building a prototype overseas is very cheap
 
-**MVP scope (6 weeks)**: Pick one scenario, such as "order to reconciliation" for small and medium sized manufacturers. Build 3 connectors and 1 agent template, plus a private deployment package (based on DeepSeek V4 Flash or the GLM series).
+**MVP scope (6 weeks)**: Pick one scenario, such as "order to reconciliation" for small and medium sized manufacturers. Connect 3 systems (use the official MCP where one exists, and write your own connectors for systems like Yonyou and Kingdee that lack one), build 1 agent template, and add a private deployment package (based on DeepSeek V4 Flash or the GLM series).
 
 **Business model (商业模式)**: Open source the connectors to attract users; charge for an enterprise edition that adds permission management, auditing and private deployment; and charge fees for implementation services.
 
 **Competitors**: Official MCPs released by the SaaS vendors themselves; plugin marketplaces on platforms such as Dify and Coze; traditional system integrators.
 
-**Risks**: SaaS vendors stepping in officially; low willingness to pay among small and medium sized businesses in China; the business can easily slide into project based work, with delivery getting heavier and heavier.
+**Risks**: SaaS vendors moving further in (for example, Yonyou and Kingdee releasing official MCPs, or DingTalk and Feishu building industry templates themselves); low willingness to pay among small and medium sized businesses in China; the business can easily slide into project based work, with delivery getting heavier and heavier.
 
 ---
 
