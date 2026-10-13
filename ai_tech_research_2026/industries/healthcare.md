@@ -24,7 +24,7 @@
 | 药企 | 研发和生产药品 | 礼来、强生、默沙东、辉瑞、艾伯维；海外的诺和诺德、罗氏、阿斯利康 | 恒瑞、百济神州、石药 |
 | 药品中间商（middleman） | 批发、药房、药品福利管理（PBM） | 批发：McKesson、Cencora、Cardinal；PBM：Express Scripts、CVS Caremark、Optum Rx，三家处理约 80% 的处方 | 医药流通企业 |
 | 器械与诊断 | 设备、耗材、检测 | 美敦力、雅培、直觉外科 | 迈瑞、联影 |
-| 信息系统 | 电子病历（electronic health record, EHR）、计费系统 | Epic（据报道占美国急症医院电子病历市场约 42%）、Oracle Health | |
+| 信息系统 | 电子病历（electronic health record, EHR）、计费系统 | Epic（据 KLAS 2026 年报告，2025 年占美国急症医院电子病历市场约 43.7%）、Oracle Health | |
 | 监管 | 审批药品器械、制定支付规则 | FDA、CMS | 国家药监局、国家医保局、国家卫健委 |
 
 **PBM 是什么**：PBM 替保险公司和雇主管理处方药福利，决定哪些药能报销、报多少，并和药企谈回扣（rebate）。它站在药企、药房和保险公司中间，是美国药价不透明的重要原因之一。
@@ -62,7 +62,7 @@
 
 数字感受一下（多来自行业机构和厂商，作为方向参考）：
 * 首次提交被拒付的比例约 12%，Medicaid 最高，约 17%
-* 美国医院协会估计，医院每年花约 197 亿美元去推翻拒付
+* 据 Premier 的调查（美国医院协会等机构引用），医院每年花约 197 亿美元处理和推翻拒付
 * 每重新处理一份被拒的理赔，成本约 57 美元
 
 **一个正在发生的趋势**：理赔双方都在用 AI。医院用 AI 写申诉信、自动编码；保险公司和政府用 AI 审核。这正在变成一场"AI 对 AI"的较量（见 5.3）。
@@ -71,7 +71,7 @@
 
 | 角色 | 赚钱情况 |
 | :--- | :--- |
-| 医院 | 很薄。2026 年 3 月医院调整后的年内营业利润率（operating margin）中位数约 1.7%，农村医院最困难 |
+| 医院 | 很薄。据 Kaufman Hall，截至 2026 年 6 月，医院年内营业利润率（operating margin）指数中位数约 2.5%，仍比 2025 年同期低约 6%；坏账和慈善医疗成本年内上升约 17%；农村医院最困难 |
 | 保险公司 | 赚的是保费和赔付之间的差。UnitedHealth 2026 年二季度把 86.7% 的保费用于医疗支出，其余用于运营和利润；它同时拥有 Optum（诊所、PBM、数据），是一家高度纵向整合（vertical integration）的公司 |
 | 药企 | 创新药利润很高。礼来因为减重药（weight loss drugs）成为全球第一家市值（market cap）过万亿美元的药企 |
 | PBM | 作为中间商控制约 80% 的处方，2026 年成为改革的重点对象 |
@@ -79,7 +79,7 @@
 
 ### 2.4 中国的情况
 
-* 2023 年中国卫生总费用约 9.06 万亿元，基本医保基金支出从 1.78 万亿元增长到 2.97 万亿元
+* 2024 年中国卫生总费用约 9.09 万亿元，约占 GDP 的 6.7%；基本医保（含生育保险）基金支出 2024 年约 2.98 万亿元，2025 年首次超过 3 万亿元（约 3.01 万亿元）
 * 公立医院占主导，医疗服务价格由政府定
 * **集中带量采购（集采）**：国家医保局把同类药品、耗材集中招标，中标价格往往大幅下降。这让仿制药企业的利润被大幅压缩，迫使药企转向创新药
 * **按病种付费（DRG/DIP）**：医保不再按项目报销，而是按疾病组给医院一个固定金额，医院花多了自己承担。到 2024 年已覆盖所有统筹地区，占住院医保基金支出的 80% 以上。很多医院的收入只能勉强覆盖支出
@@ -106,7 +106,7 @@
 | 1965 | 美国建立 Medicare 和 Medicaid | 老人和低收入人群；政府成了最大的付款方 | |
 | 1983 | Medicare 改为按诊断分组付费（DRG），按病种给医院固定金额 | 控制成本的医院 | 住院天数长、效率低的医院。中国今天推行的 DRG 正是借鉴了这一模式 |
 | 1990 年代 | 管理式医疗（HMO）兴起，保险公司开始控制医生能做什么 | 保险公司 | 医生的自主权；后来引发了公众反弹 |
-| 2003 | Medicare 开始覆盖处方药 | PBM 迅速壮大 | |
+| 2003（2006 年生效） | 美国通过《医疗保险现代化法案》，Medicare 从 2006 年 1 月起覆盖处方药（Part D） | PBM 迅速壮大 | |
 | 2009 | 美国政府拿出数百亿美元补贴医院采用电子病历 | **Epic**，借此在美国医院里接近垄断 | 医生：文书负担大增，成为今天职业倦怠的主要原因之一 |
 | 2010 | 《平价医疗法案》（ACA），建立保险交易所，扩大 Medicaid | 新增的数千万参保人；大型保险公司借机纵向整合 | |
 | 2018 | 中国成立国家医保局，推行集采 | 患者，药价大幅下降 | 仿制药企业 |
@@ -174,7 +174,7 @@
 | 谁 | 最头疼的事 |
 | :--- | :--- |
 | 医生 | 写病历占用大量时间，被预授权卡住，职业倦怠 |
-| 医院财务部门 | 拒付和申诉；没有保险的病人越来越多，坏账上升；利润率只有约 2% |
+| 医院财务部门 | 拒付和申诉；没有保险的病人越来越多，坏账上升；利润率只有约 2% 到 3% |
 | 保险公司 | 医疗使用量和成本持续上涨，减重药的费用压力 |
 | 患者 | ACA 参保人的保费翻倍，平均起付额（deductible）创纪录（约 3,786 美元），账单看不懂，约不上医生 |
 | 药企 | 药价被压，被 PBM 这样的中间商分走利润 |
@@ -245,7 +245,7 @@
 * [Administrative expenses in the US health care system (JAMA)](https://jamanetwork.com/journals/jama/fullarticle/2785479)
 * [Administrative simplification and the potential for saving a quarter trillion dollars (JAMA)](https://jamanetwork.com/journals/jama/fullarticle/2785480)
 * [Medical billing denial statistics 2026](https://www.gomedicalbilling.com/medical-billing-denial-statistics-2026)
-* [Kaufman Hall National Hospital Flash Report, April 2026 metrics](https://www.kaufmanhall.com/sites/default/files/2026-06/KH-NHFR_Report-April-2026-Metrics.pdf)
+* [Hospital performance improves in June, but lags 2025 (Fierce Healthcare, August 2026)](https://www.fiercehealthcare.com/providers/hospital-performance-improves-june-lags-2025)
 * [UnitedHealth Group Q2 2026 earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000191/earningsrelease2q26_7152.htm)
 * [How has ACA marketplace enrollment changed in 2026 (KFF)](https://www.kff.org/affordable-care-act/how-has-aca-marketplace-enrollment-changed-across-states-in-2026/)
 * [9% of ACA enrollees go uninsured after subsidies expire (CNBC)](https://www.cnbc.com/2026/03/19/aca-enrollees-uninsured.html)
@@ -268,3 +268,7 @@
 * [China medtech 2026 (Simon Kucher)](https://www.simon-kucher.com/en/insights/china-medtech-2026-new-era-innovations-and-complexity)
 * [China's NHSA regulations on DRG/DIP payment (CMS Law)](https://cms.law/en/chn/legal-updates/china-s-nhsa-issued-the-regulations-on-drg-dip-healthcare-security-payment-mechanism)
 * [Health financing growth in China (Frontiers in Public Health)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1633222/full)
+* [Medicare's new adventure: the Part D drug benefit (Commonwealth Fund, March 2006)](https://www.commonwealthfund.org/publications/fund-reports/2006/mar/medicares-new-adventure-part-d-drug-benefit)
+* [KLAS 2026 EHR market share report (HIT Consultant, May 14 2026)](https://hitconsultant.net/2026/05/14/klas-2026-ehr-market-share-report/)
+* [2024 China health statistical bulletin (Xinhua, December 2 2025)](https://www.news.cn/politics/20251202/c879035250804e9995ccb8d284656f67/c.html)
+* [2025 national healthcare security statistical bulletin (NHSA, July 16 2026)](https://www.nhsa.gov.cn/art/2026/7/16/art_7_21451.html)

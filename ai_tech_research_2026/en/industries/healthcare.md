@@ -26,7 +26,7 @@ In most industries, the person who uses a product pays for it, so the market kee
 | Drug makers | Research, develop and manufacture drugs | Eli Lilly, Johnson & Johnson, Merck, Pfizer, AbbVie; from overseas, Novo Nordisk, Roche, AstraZeneca | Hengrui, BeiGene, CSPC |
 | Drug middlemen (中间商) | Wholesale, pharmacies, pharmacy benefit managers (PBM, 药品福利管理) | Wholesale: McKesson, Cencora, Cardinal; PBMs: Express Scripts, CVS Caremark and Optum Rx, three companies that handle about 80 percent of prescriptions | Pharmaceutical distribution companies |
 | Devices and diagnostics | Equipment, consumables, testing | Medtronic, Abbott, Intuitive Surgical | Mindray, United Imaging |
-| Information systems | Electronic health records (EHR, 电子病历), billing systems | Epic (reported to hold about 42 percent of the US acute care hospital EHR market), Oracle Health | |
+| Information systems | Electronic health records (EHR, 电子病历), billing systems | Epic (about 43.7 percent of the US acute care hospital EHR market in 2025, according to a 2026 KLAS report), Oracle Health | |
 | Regulators | Approve drugs and devices, set payment rules | FDA, CMS | National Medical Products Administration, National Healthcare Security Administration, National Health Commission |
 
 **What is a PBM?** A PBM manages prescription drug benefits for insurers and employers. It decides which drugs are covered and how much is reimbursed, and it negotiates rebates (回扣) with drug makers. Sitting between drug makers, pharmacies and insurers, it is one of the main reasons US drug prices are so opaque.
@@ -64,7 +64,7 @@ Most of the money in US healthcare moves through "claims":
 
 To get a feel for the numbers (mostly from industry groups and vendors, so treat them as directional):
 * About 12 percent of claims are denied on first submission, with Medicaid the highest at about 17 percent
-* The American Hospital Association estimates that hospitals spend about 19.7 billion dollars a year trying to overturn denials
+* According to a Premier survey (cited by the American Hospital Association and others), hospitals spend about 19.7 billion dollars a year handling and overturning denials
 * Reworking each denied claim costs about 57 dollars
 
 **A trend under way**: both sides of the claim are now using AI. Hospitals use AI to write appeal letters and to code claims automatically; insurers and the government use AI to review them. This is turning into a contest of "AI versus AI (AI 对 AI)" (see 5.3).
@@ -73,7 +73,7 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 
 | Role | Profitability |
 | :--- | :--- |
-| Hospitals | Very thin. In March 2026 the median hospital's adjusted year to date operating margin (营业利润率) was about 1.7 percent, and rural hospitals are struggling the most |
+| Hospitals | Very thin. According to Kaufman Hall, as of June 2026 the median year to date hospital operating margin (营业利润率) index was about 2.5 percent, still about 6 percent below the same period of 2025; bad debt and charity care costs rose about 17 percent year to date; rural hospitals are struggling the most |
 | Insurers | They earn the gap between premiums and medical payouts. In the second quarter of 2026 UnitedHealth spent 86.7 percent of premiums on medical costs (its medical care ratio, 医疗赔付率), with the rest going to operations and profit. It also owns Optum (clinics, a PBM, data), which makes it a highly vertically integrated (纵向整合) company |
 | Drug makers | Innovative drugs are very profitable. Thanks to its weight loss drugs (减重药), Eli Lilly became the world's first drug company with a market cap (市值) above 1 trillion dollars |
 | PBMs | As middlemen controlling about 80 percent of prescriptions, they became a main target of reform in 2026 |
@@ -81,7 +81,7 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 
 ### 2.4 China
 
-* China's total health expenditure in 2023 was about 9.06 trillion yuan, and spending by the basic medical insurance fund grew from 1.78 trillion yuan to 2.97 trillion yuan
+* China's total health expenditure in 2024 was about 9.09 trillion yuan, or about 6.7 percent of GDP. Spending by the basic medical insurance fund (including maternity insurance) was about 2.98 trillion yuan in 2024 and passed 3 trillion yuan for the first time in 2025 (about 3.01 trillion yuan)
 * Public hospitals dominate, and the government sets the prices of medical services
 * **Volume based procurement (VBP, 集中带量采购, or 集采 for short)**: the National Healthcare Security Administration pools purchases of similar drugs and consumables into centralized tenders, and winning bid prices often fall sharply. This has squeezed the profits of generic drug makers and pushed drug companies toward innovative drugs
 * **Payment by disease group (DRG/DIP, 按病种付费)**: medical insurance no longer reimburses item by item. Instead it pays the hospital a fixed amount for each disease group, and the hospital absorbs any overspending. By 2024 this covered all pooling regions (统筹地区) and more than 80 percent of the insurance fund's inpatient spending. At many hospitals, revenue barely covers costs
@@ -108,7 +108,7 @@ To get a feel for the numbers (mostly from industry groups and vendors, so treat
 | 1965 | The US creates Medicare and Medicaid | Older and low income people; the government became the largest payer | |
 | 1983 | Medicare switches to diagnosis related groups (DRG, 按诊断分组付费), paying hospitals a fixed amount per diagnosis | Hospitals that control costs | Inefficient hospitals with long stays. The DRG system China is rolling out today is modeled on this approach |
 | 1990s | Managed care (管理式医疗) through health maintenance organizations (HMOs) rises, and insurers begin to control what doctors can do | Insurers | Doctors' autonomy; it later triggered a public backlash |
-| 2003 | Medicare begins covering prescription drugs | PBMs grow rapidly | |
+| 2003 (effective 2006) | The US passes the Medicare Modernization Act, and Medicare begins covering prescription drugs (Part D) in January 2006 | PBMs grow rapidly | |
 | 2009 | The US government spends tens of billions of dollars subsidizing hospitals to adopt electronic health records | **Epic**, which used this to become a near monopoly in US hospitals | Doctors: the paperwork burden soared and is now one of the main causes of burnout |
 | 2010 | The Affordable Care Act (ACA, 平价医疗法案) sets up insurance exchanges and expands Medicaid | Tens of millions of newly insured people; large insurers used the moment to integrate vertically | |
 | 2018 | China creates the National Healthcare Security Administration and launches volume based procurement | Patients, as drug prices fell sharply | Generic drug makers |
@@ -176,7 +176,7 @@ The following is compiled from news reporting, not from direct interviews.
 | Who | Biggest headache |
 | :--- | :--- |
 | Doctors | Writing notes eats up huge amounts of time, prior authorization holds them up, burnout |
-| Hospital finance departments | Denials and appeals; more and more uninsured patients and rising bad debt; margins of only about 2 percent |
+| Hospital finance departments | Denials and appeals; more and more uninsured patients and rising bad debt; margins of only about 2 to 3 percent |
 | Insurers | Medical utilization and costs keep rising; cost pressure from weight loss drugs |
 | Patients | Premiums doubled for ACA enrollees, the average deductible (起付额) hit a record (about 3,786 dollars), bills are hard to understand, and appointments are hard to get |
 | Drug makers | Prices are being pushed down, and middlemen such as PBMs take a cut of the profits |
@@ -247,7 +247,7 @@ The following is compiled from news reporting, not from direct interviews.
 * [Administrative expenses in the US health care system (JAMA)](https://jamanetwork.com/journals/jama/fullarticle/2785479)
 * [Administrative simplification and the potential for saving a quarter trillion dollars (JAMA)](https://jamanetwork.com/journals/jama/fullarticle/2785480)
 * [Medical billing denial statistics 2026](https://www.gomedicalbilling.com/medical-billing-denial-statistics-2026)
-* [Kaufman Hall National Hospital Flash Report, April 2026 metrics](https://www.kaufmanhall.com/sites/default/files/2026-06/KH-NHFR_Report-April-2026-Metrics.pdf)
+* [Hospital performance improves in June, but lags 2025 (Fierce Healthcare, August 2026)](https://www.fiercehealthcare.com/providers/hospital-performance-improves-june-lags-2025)
 * [UnitedHealth Group Q2 2026 earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000191/earningsrelease2q26_7152.htm)
 * [How has ACA marketplace enrollment changed in 2026 (KFF)](https://www.kff.org/affordable-care-act/how-has-aca-marketplace-enrollment-changed-across-states-in-2026/)
 * [9% of ACA enrollees go uninsured after subsidies expire (CNBC)](https://www.cnbc.com/2026/03/19/aca-enrollees-uninsured.html)
@@ -270,3 +270,7 @@ The following is compiled from news reporting, not from direct interviews.
 * [China medtech 2026 (Simon Kucher)](https://www.simon-kucher.com/en/insights/china-medtech-2026-new-era-innovations-and-complexity)
 * [China's NHSA regulations on DRG/DIP payment (CMS Law)](https://cms.law/en/chn/legal-updates/china-s-nhsa-issued-the-regulations-on-drg-dip-healthcare-security-payment-mechanism)
 * [Health financing growth in China (Frontiers in Public Health)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1633222/full)
+* [Medicare's new adventure: the Part D drug benefit (Commonwealth Fund, March 2006)](https://www.commonwealthfund.org/publications/fund-reports/2006/mar/medicares-new-adventure-part-d-drug-benefit)
+* [KLAS 2026 EHR market share report (HIT Consultant, May 14 2026)](https://hitconsultant.net/2026/05/14/klas-2026-ehr-market-share-report/)
+* [2024 China health statistical bulletin (Xinhua, December 2 2025)](https://www.news.cn/politics/20251202/c879035250804e9995ccb8d284656f67/c.html)
+* [2025 national healthcare security statistical bulletin (NHSA, July 16 2026)](https://www.nhsa.gov.cn/art/2026/7/16/art_7_21451.html)
