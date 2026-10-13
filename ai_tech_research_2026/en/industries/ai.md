@@ -40,7 +40,7 @@ The whole industry comes down to one central question: **can the downstream even
 
 ### 2.1 Two Kinds of Money
 
-**Investment (spent up front)**: the four tech giants (Amazon, Google, Microsoft, Meta, often grouped together as hyperscalers, 超大规模云厂商) will spend about **730 billion dollars** in capex in 2026, 78 percent more than in 2025, with more than 60 percent of it going to power, cooling and construction. That money ultimately flows to NVIDIA, TSMC, the memory chip makers and the power equipment makers.
+**Investment (spent up front)**: the four tech giants (Amazon, Google, Microsoft, Meta, often grouped together as hyperscalers, 超大规模云厂商) will spend about **730 billion dollars** in capex in 2026, 78 percent more than in 2025, with roughly 60 percent of it going to servers and chips (GPUs, custom chips, storage) and the remaining roughly 40 percent going to data center buildings, power, cooling and networking. That money ultimately flows to NVIDIA, TSMC, the memory chip makers and the power equipment makers.
 
 **Revenue (what users actually pay)**: users and companies pay applications, applications pay to call model APIs, model companies pay to rent compute, and cloud companies pay to buy chips.
 
@@ -51,8 +51,8 @@ Both kinds of money end up flowing from downstream to upstream, that is, from la
 | Layer | 2026 figures |
 | :--- | :--- |
 | Chips | NVIDIA's revenue for the quarter ending in late July was 96.2 billion dollars, up 106 percent year over year (同比), of which data centers were 89 billion dollars; gross margin was 75 percent; next quarter is forecast at 108 billion dollars |
-| Model companies | Anthropic's annualized revenue (年化收入) at the end of July was about 65 billion dollars (about 14 billion dollars in February); after its May funding round its valuation (估值) was about 965 billion dollars, and in June it confidentially filed to go public. OpenAI's annualized revenue at the end of September was about 50 billion dollars, with a target of more than 70 billion dollars by year end, but it reportedly expects to lose about 14 billion dollars in 2026, with inference costs rising from 8.4 billion dollars in 2025 to about 14.1 billion dollars. All of these figures come from media reports, not audited data |
-| Applications | ICONIQ data shows that AI native (AI 原生) companies have an average gross margin of about 52 percent (traditional software usually runs 70 to 80 percent). Coding tools are lower still: one survey found an average of only about 31 percent, with inference costs eating more than half of revenue. Cursor's gross margin in January 2026 was reportedly even negative; thanks to its own models and cheaper third party models, the enterprise customer part of its business later turned positive in April |
+| Model companies | Anthropic's annualized revenue (年化收入) at the end of July was about 65 billion dollars (about 14 billion dollars in February); after its May funding round its valuation (估值) was about 965 billion dollars, and in June it confidentially filed to go public. OpenAI's annualized revenue at the end of September was about 50 billion dollars (the two companies count revenue from sales through cloud providers differently, so the figures cannot be compared directly), with a target of more than 70 billion dollars by year end, but its losses are still growing: according to The Information, OpenAI's revenue in the first quarter of 2026 alone was about 5.7 billion dollars, with an operating loss of about 9.3 billion dollars (a net loss on the books of about 21.3 billion dollars, of which about 12.4 billion dollars was a non cash revaluation loss). The third party firm Sacra estimates that its inference costs rose from about 8.4 billion dollars in 2025 to about 14.1 billion dollars in 2026 (leaked documents show they had already reached about 8.7 billion dollars in the first nine months of 2025, so the real figure may be higher). All of these figures come from media reports or third party estimates, not audited data |
+| Applications | ICONIQ data shows that the average gross margin of AI products was about 45 percent in 2025 and is expected to rise to about 53 percent in 2026 (traditional software usually runs 70 to 80 percent). Coding tools are lower still: one survey found an average of only about 31 percent, with inference costs eating more than half of revenue. Cursor's gross margin in January 2026 was reportedly even negative; thanks to its own models and cheaper third party models, the enterprise customer part of its business later turned positive in April |
 
 ### 2.3 One Piece of Good News and One Piece of Bad News
 
@@ -62,7 +62,7 @@ Both kinds of money end up flowing from downstream to upstream, that is, from la
 
 ### 2.4 The Bubble (泡沫) Debate
 
-* **The bear case**: money is circling among a handful of companies. NVIDIA invests in OpenAI, for example, and OpenAI then uses that money to buy NVIDIA chips. In July, NVIDIA reportedly considered guaranteeing 250 billion dollars for OpenAI's data center in Ohio, and after the news came out, the price of insuring NVIDIA's bonds against default jumped. Some estimate that these "circular deals (循环交易)" exceed 800 billion dollars. Morgan Stanley estimates that AI data center spending could approach 3 trillion dollars by 2028
+* **The bear case**: money is circling among a handful of companies. NVIDIA invests in OpenAI, for example, and OpenAI then uses that money to buy NVIDIA chips. In July, NVIDIA reportedly considered guaranteeing 250 billion dollars for OpenAI's data center in Ohio, and after the news came out, the price of insuring NVIDIA's bonds against default jumped. Some estimate that these "circular deals (循环交易)" exceed 800 billion dollars. Morgan Stanley estimates that cumulative global data center spending from 2025 to 2028 could approach 3 trillion dollars
 * **The bull case**: the revenue is real, and it is accelerating. Anthropic and OpenAI together already have more than 100 billion dollars in annualized revenue, and NVIDIA's revenue doubled in a year
 * **The historical parallel**: in the telecom bubble around 2000, companies laid huge amounts of fiber. Many of them went bankrupt, but that fiber later carried the entire internet era. A bubble and a real technological revolution can exist at the same time. For founders, the important thing is not to call whether there is a bubble, but **not to build your company on the assumption that the funding environment will stay this good forever**
 
@@ -219,7 +219,6 @@ Most AI startups are competing with the model companies: a feature you build on 
 
 * [NVIDIA announces financial results for second quarter fiscal 2027](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)
 * [OpenAI expects $70 billion in annualized revenue by end of 2026 (Yahoo Finance, Bloomberg)](https://finance.yahoo.com/technology/ai/articles/openai-expects-70-billion-annualized-014338719.html)
-* [OpenAI's own forecast predicts $14 billion loss in 2026 (Yahoo Finance)](https://finance.yahoo.com/news/openais-own-forecast-predicts-14-150445813.html)
 * [OpenAI revenue, valuation and funding (Sacra)](https://sacra.com/c/openai/)
 * [Anthropic revenue, valuation and funding (Sacra)](https://sacra.com/c/anthropic/)
 * [Anthropic says it hit a $30 billion revenue run rate (VentureBeat)](https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)
@@ -241,3 +240,8 @@ Most AI startups are competing with the model companies: a feature you build on 
 * [Recent college grads say AI is making it harder to get a job. Is it? (NPR)](https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence)
 * [AI and entry level jobs: what hiring data really shows (IntuitionLabs)](https://intuitionlabs.ai/articles/ai-entry-level-employment-hiring-data)
 * [How to stay ahead of AI as an early career engineer (IEEE Spectrum)](https://spectrum.ieee.org/ai-effect-entry-level-jobs)
+* [Alphabet post Q2: AI growth accelerates as spending weighs on cash flow (S&P Global, July 2026)](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/07/alphabet-postq-ai-growth-accelerates-as-spending-weighs-on-cash-flow)
+* [Andy Jassy on Amazon capex (Fortune, July 30 2026)](https://fortune.com/2026/07/30/andy-jassy-amazon-capex-demand-aws-pga-tour/)
+* [OpenAI tripled revenue to 5.7 billion in Q1 but burned through 3.7 billion (The Decoder, 2026)](https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/)
+* [ICONIQ State of AI 2026: The Builder's Economy (ICONIQ, July 2026)](https://www.iconiq.com/growth/reports/state-of-ai-2026)
+* [OpenAI and Anthropic revenue accounting differences (Taipei Times, October 10 2026)](https://www.taipeitimes.com/News/biz/archives/2026/10/10/2003865699)

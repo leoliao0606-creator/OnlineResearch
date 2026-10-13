@@ -38,7 +38,7 @@ AI 产业是一条从**电力**一直延伸到**应用**的长链条。2026 年�
 
 ### 2.1 两种钱
 
-**投资的钱（提前花出去的）**：四大科技巨头（亚马逊、Google、微软、Meta，常被统称为超大规模云厂商（hyperscaler））2026 年资本开支约 **7,300 亿美元**，比 2025 年多 78%，其中六成以上花在电力、冷却和建设上。这些钱最终流向 NVIDIA、台积电、存储芯片厂和电力设备商。
+**投资的钱（提前花出去的）**：四大科技巨头（亚马逊、Google、微软、Meta，常被统称为超大规模云厂商（hyperscaler））2026 年资本开支约 **7,300 亿美元**，比 2025 年多 78%，其中大约六成花在服务器和芯片（GPU、定制芯片、存储）上，其余约四成用于数据中心建筑、电力、冷却和网络。这些钱最终流向 NVIDIA、台积电、存储芯片厂和电力设备商。
 
 **收入的钱（用户真正付的）**：用户和企业付钱给应用，应用付钱调用模型 API，模型公司付钱租算力，云厂商付钱买芯片。
 
@@ -49,8 +49,8 @@ AI 产业是一条从**电力**一直延伸到**应用**的长链条。2026 年�
 | 层 | 2026 年的数字 |
 | :--- | :--- |
 | 芯片 | NVIDIA 截至 7 月底的季度收入 962 亿美元，同比增长 106%；其中数据中心 890 亿美元；毛利率 75%；下一季度预计 1,080 亿美元 |
-| 模型公司 | Anthropic 7 月底的年化收入（annualized revenue）约 650 亿美元（2 月时约 140 亿美元），5 月融资后估值（valuation）约 9,650 亿美元，6 月秘密提交了上市申请；OpenAI 9 月底年化收入约 500 亿美元，目标年底超过 700 亿美元，但据报道 2026 年预计亏损约 140 亿美元，推理成本从 2025 年的 84 亿美元增长到约 141 亿美元。以上数字都来自媒体报道，不是审计数据 |
-| 应用 | ICONIQ 的数据显示，AI 原生公司平均毛利率约 52%（传统软件通常在 70% 到 80%）；编程工具类更低，一项调查显示平均只有约 31%，推理成本吃掉了一半以上的收入。据报道，Cursor 2026 年 1 月的毛利率甚至是负的，后来靠自研模型和更便宜的第三方模型，企业客户部分在 4 月转正 |
+| 模型公司 | Anthropic 7 月底的年化收入（annualized revenue）约 650 亿美元（2 月时约 140 亿美元），5 月融资后估值（valuation）约 9,650 亿美元，6 月秘密提交了上市申请；OpenAI 9 月底年化收入约 500 亿美元（两家对通过云厂商销售的收入统计口径不同，数字不能直接比大小），目标年底超过 700 亿美元，但亏损仍在扩大：据 The Information 报道，OpenAI 仅 2026 年一季度收入约 57 亿美元，经营亏损约 93 亿美元（账面净亏损约 213 亿美元，其中约 124 亿美元是非现金的重估损失）。第三方机构 Sacra 估算，其推理成本从 2025 年的约 84 亿美元增长到 2026 年的约 141 亿美元（泄露的文件显示 2025 年前九个月就已约 87 亿美元，实际可能更高）。以上数字都来自媒体报道或第三方估算，不是审计数据 |
+| 应用 | ICONIQ 的数据显示，AI 产品的平均毛利率 2025 年约 45%，预计 2026 年升到约 53%（传统软件通常在 70% 到 80%）；编程工具类更低，一项调查显示平均只有约 31%，推理成本吃掉了一半以上的收入。据报道，Cursor 2026 年 1 月的毛利率甚至是负的，后来靠自研模型和更便宜的第三方模型，企业客户部分在 4 月转正 |
 
 ### 2.3 一个好消息和一个坏消息
 
@@ -60,7 +60,7 @@ AI 产业是一条从**电力**一直延伸到**应用**的长链条。2026 年�
 
 ### 2.4 泡沫之争
 
-* **看空的理由**：钱在少数几家公司之间循环。比如 NVIDIA 投资 OpenAI，OpenAI 再用这些钱买 NVIDIA 的芯片。据报道，NVIDIA 7 月曾考虑为 OpenAI 在俄亥俄州的数据中心提供 2,500 亿美元担保，消息传出后 NVIDIA 的债券违约保险价格大涨。有人估计这类"循环交易（circular deals）"超过 8,000 亿美元。摩根士丹利估计到 2028 年 AI 数据中心支出可能接近 3 万亿美元
+* **看空的理由**：钱在少数几家公司之间循环。比如 NVIDIA 投资 OpenAI，OpenAI 再用这些钱买 NVIDIA 的芯片。据报道，NVIDIA 7 月曾考虑为 OpenAI 在俄亥俄州的数据中心提供 2,500 亿美元担保，消息传出后 NVIDIA 的债券违约保险价格大涨。有人估计这类"循环交易（circular deals）"超过 8,000 亿美元。摩根士丹利估计 2025 到 2028 年全球数据中心累计支出可能接近 3 万亿美元
 * **看多的理由**：收入是真的，而且在加速。Anthropic 和 OpenAI 的年化收入加起来已超过 1,000 亿美元，NVIDIA 的收入一年翻倍
 * **历史的参照**：2000 年前后的电信泡沫，公司铺了大量光纤，很多公司破产了，但这些光纤后来支撑了整个互联网时代。泡沫和真实的技术革命可以同时存在。对创业者来说，重要的不是判断有没有泡沫，而是**不要把公司建立在"融资环境会一直这么好"的假设上**
 
@@ -217,7 +217,6 @@ Anthropic 的 Mythos 和 Google 的 Gemini 4 Argon 都只向少数网络安全�
 
 * [NVIDIA announces financial results for second quarter fiscal 2027](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)
 * [OpenAI expects $70 billion in annualized revenue by end of 2026 (Yahoo Finance, Bloomberg)](https://finance.yahoo.com/technology/ai/articles/openai-expects-70-billion-annualized-014338719.html)
-* [OpenAI's own forecast predicts $14 billion loss in 2026 (Yahoo Finance)](https://finance.yahoo.com/news/openais-own-forecast-predicts-14-150445813.html)
 * [OpenAI revenue, valuation and funding (Sacra)](https://sacra.com/c/openai/)
 * [Anthropic revenue, valuation and funding (Sacra)](https://sacra.com/c/anthropic/)
 * [Anthropic says it hit a $30 billion revenue run rate (VentureBeat)](https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)
@@ -239,3 +238,8 @@ Anthropic 的 Mythos 和 Google 的 Gemini 4 Argon 都只向少数网络安全�
 * [Recent college grads say AI is making it harder to get a job. Is it? (NPR)](https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence)
 * [AI and entry level jobs: what hiring data really shows (IntuitionLabs)](https://intuitionlabs.ai/articles/ai-entry-level-employment-hiring-data)
 * [How to stay ahead of AI as an early career engineer (IEEE Spectrum)](https://spectrum.ieee.org/ai-effect-entry-level-jobs)
+* [Alphabet post Q2: AI growth accelerates as spending weighs on cash flow (S&P Global, July 2026)](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/07/alphabet-postq-ai-growth-accelerates-as-spending-weighs-on-cash-flow)
+* [Andy Jassy on Amazon capex (Fortune, July 30 2026)](https://fortune.com/2026/07/30/andy-jassy-amazon-capex-demand-aws-pga-tour/)
+* [OpenAI tripled revenue to 5.7 billion in Q1 but burned through 3.7 billion (The Decoder, 2026)](https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/)
+* [ICONIQ State of AI 2026: The Builder's Economy (ICONIQ, July 2026)](https://www.iconiq.com/growth/reports/state-of-ai-2026)
+* [OpenAI and Anthropic revenue accounting differences (Taipei Times, October 10 2026)](https://www.taipeitimes.com/News/biz/archives/2026/10/10/2003865699)
